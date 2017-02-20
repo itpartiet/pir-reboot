@@ -19,7 +19,7 @@ Sentralstyret har svart ved å ekskludere samtlige medlemmer som signerte på op
 Dersom sentralstyret hadde partiets beste i sine tanker ville de fått EOLM raskt unnagjort, slik at vi blir ferdig med det.  Ved å ekskludere oss viser de at prioriterer å holde på sine posisjoner.
 
 Eksklusjonen virker mot sin hensikt - det er konflikteskalerende og hemmer arbeidet med å få levert inn lister;
-* Det er en del fra Oslo som har kommet ned fra gjerdet og krevd EOLM etter eksklusjonen.
+* Det er en del fra Oslo som har kommet ned fra gjerdet og krevd EOLM på bakgrunn av eksklusjonen.
 * En del av disse har igjen skrevet velbegrunnede eposter, som de har vidresendt så bredt som mulig.
 * Jeg hadde håpet at noen andre kunne stå ansvarlig for Oslos årsmøte i mitt fravær, så langt har de svart "nei" - det er tvilsomt at det blir lister i Oslo slik situasjonen er nå.
 
