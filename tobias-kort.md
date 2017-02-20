@@ -8,7 +8,7 @@ Fra mitt ståsted ser jeg at svært mange av de som har droppet ut ila de siste 
 
 ## Krav om ekstraordinært landsmøte
 
-Jeg ser det som svært vanskelig å representere Piratpartiet i årets valgkamp, jeg vet ikke hva piratpartiet står for lengre, jeg aner ikke hva driftsmidlene brukes til, og jeg kan ikke stå i valgbod og snakke varmt om prinsipper som vi ikke praktiserer internt.  Jeg har lite lyst til å representere dagens partiledelse ved å stille på liste, det er ingen som ønsket øverste posisjon i Oslo.  Jeg anser det som viktig at vi har et ekstraordinært landsmøte (EOLM) før utgangen av mars - dersom vi får byttet noen koster, så er det mer interessant å stå på liste.  Jeg tror ikke jeg er den eneste som tenker slik.  Derfor signerte jeg på en epost som oppfordret frafalne og eksisterende medlemmer til å få betalt inn kontingent og sendt mail til sentralstyret om at det er et ønske om EOLM.  Ihht vedtektene er det legitimt å stille et slikt krav.
+Jeg ser det som svært vanskelig å representere Piratpartiet i årets valgkamp, jeg vet ikke hva piratpartiet står for lengre, jeg aner ikke hva driftsmidlene brukes til, og jeg kan ikke stå i valgbod og snakke varmt om prinsipper som vi ikke praktiserer internt.  Jeg har lite lyst til å representere dagens partiledelse ved å stille på liste, det er ingen som ønsker øverste posisjon i Oslo.  Jeg anser det som viktig at vi har et ekstraordinært landsmøte (EOLM) før utgangen av mars - dersom vi får byttet noen koster, så er det mer interessant å stå på liste.  Jeg tror ikke jeg er den eneste som tenker slik.  Derfor signerte jeg på en epost som oppfordret frafalne og eksisterende medlemmer til å få betalt inn kontingent og sendt mail til sentralstyret om at det er et ønske om EOLM.  Ihht vedtektene er det legitimt å stille et slikt krav.
 
 Ekstraordinært landsmøte er ingen stor sak - det kan organiseres på nett uten fysisk oppmøte.
 
@@ -16,7 +16,7 @@ Ekstraordinært landsmøte er ingen stor sak - det kan organiseres på nett uten
 
 Sentralstyret har svart ved å ekskludere samtlige medlemmer som signerte på oppropet - ref [møtereferatet](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497)
 
-Dersom sentralstyret hadde partiets beste i sine tanker ville de fått EOLM raskt unnagjort, slik at vi blir ferdig med det.  Ved å ekskludere oss viser de at de er mer interessert i å holde på sine posisjoner.
+Dersom sentralstyret hadde partiets beste i sine tanker ville de fått EOLM raskt unnagjort, slik at vi blir ferdig med det.  Ved å ekskludere oss viser de at prioriterer å holde på sine posisjoner.
 
 Eksklusjonen virker mot sin hensikt - det er konflikteskalerende og hemmer arbeidet med å få levert inn lister;
 * Det er en del fra Oslo som har kommet ned fra gjerdet og krevd EOLM etter eksklusjonen.
