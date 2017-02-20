@@ -20,16 +20,16 @@ Dersom sentralstyret hadde partiets beste i sine tanker ville de arrangert ekstr
 
 I styremøtets referat kan man også lese følgende lille perle:
 
-    Sekretariatet vil uansett gjøre alt som er mulig for å utsette et
-    eventuelt legitimt krav om EOLM fordi det ikke vil foreligge
-    reviderte tall fra 2014, 2015 og 2016 før tiden som er satt av til
-    det ordinære LM 6. og 7. mai i Bergen og vi derfor umulig kan
-    gjøre en faglig og gjennomtenkt vurdering av resultatene etter to
-    år med utfordrende driftsforhold og økonomi. Likeså minner jeg på
-    at vi har hatt to år med underslagsdrift og derfor trenger å sikre
-    at ikke Piratpartiet taper mer penger enn det vi allerede har sett
-    vi har måttet redusere budsjettet med. En EOLM prematurt er
-    nettopp en slik tapsfelle som kan ødelegge hele valgkampen igjen.
+> Sekretariatet vil uansett gjøre alt som er mulig for å utsette et
+> eventuelt legitimt krav om EOLM fordi det ikke vil foreligge
+> reviderte tall fra 2014, 2015 og 2016 før tiden som er satt av til
+>  det ordinære LM 6. og 7. mai i Bergen og vi derfor umulig kan
+> gjøre en faglig og gjennomtenkt vurdering av resultatene etter to
+> år med utfordrende driftsforhold og økonomi. Likeså minner jeg på
+> at vi har hatt to år med underslagsdrift og derfor trenger å sikre
+> at ikke Piratpartiet taper mer penger enn det vi allerede har sett
+> vi har måttet redusere budsjettet med. En EOLM prematurt er
+> nettopp en slik tapsfelle som kan ødelegge hele valgkampen igjen.
 
 Altså, "økonomisk rot" var en av begrunnelsene i oppropet for EOLM, og sekretariatet sier at de vil sabotere kravet om EOLM uansett om det er legitimt eller ikke pga økonomisk rot!
 
