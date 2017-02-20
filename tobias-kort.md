@@ -2,7 +2,7 @@
 
 ## Bakgrunn
 
-Piratpartiet hadde sin storhetstid rundt valget i 2013, etter det stagnerte ting.  Folk forsvant etter krangler og uenighet, partiet ble sentralisert, grasrotengasjementet døde.  Deretter begynte daværende generalsekretær å forbruke midlene i kassa for så å forsvinne sammen med kvitteringene.  Nå, mer enn to år senere er underslagssaken fortsatt standardunnskyldning for at ikke alt er optimalt i partiet.
+Piratpartiet hadde sin storhetstid rundt valget i 2013, etter det stagnerte ting.  Folk forsvant etter krangler og uenighet, partiet ble sentralisert, grasrotengasjementet døde.  Deretter begynte daværende organisasjonssekretær å forbruke midlene i kassa for så å forsvinne sammen med kvitteringene.  Nå, mer enn to år senere er underslagssaken fortsatt standardunnskyldning for at ikke alt er optimalt i partiet.
 
 Fra mitt ståsted ser jeg at svært mange av de som har droppet ut ila de siste to årene har mistet motivasjonen etter å ha kranglet med generalsekretæren eller andre enkeltpersoner i sentralstyret.  Vi har fått en generalsekretær som de-facto har alt for mye makt.  Noen av piratpartiets prinsipper er åpenhet, medbestemmelse, engasjement av "folk flest", samt flittig bruk av digitale verktøy i forvaltningen og i politikken.  Piratpartiets sekretariat og sentralstyre jobber definitivt ikke etter disse prinsippene i sitt daglige virke.
 
@@ -12,14 +12,14 @@ Jeg ser det som svært vanskelig å representere Piratpartiet i årets valgkamp,
 
 Ekstraordinært landsmøte er ingen stor sak - det kan organiseres på nett uten fysisk oppmøte.
 
-## Eksklusjon
+## Suspensasjon
 
-Sentralstyret har svart ved å ekskludere samtlige medlemmer som signerte på oppropet - ref [møtereferatet](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497)
+Sentralstyret har svart ved å suspendere samtlige medlemmer som signerte på oppropet - ref [møtereferatet](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497)
 
-Dersom sentralstyret hadde partiets beste i sine tanker ville de fått EOLM raskt unnagjort, slik at vi blir ferdig med det.  Ved å ekskludere oss viser de at prioriterer å holde på sine posisjoner.
+Dersom sentralstyret hadde partiets beste i sine tanker ville de fått EOLM raskt unnagjort, slik at vi blir ferdig med det.  Ved å suspendere oss viser de at prioriterer å holde på sine posisjoner.
 
-Eksklusjonen virker mot sin hensikt - det er konflikteskalerende og hemmer arbeidet med å få levert inn lister;
-* Det er en del fra Oslo som har kommet ned fra gjerdet og krevd EOLM på bakgrunn av eksklusjonen.
+Suspensasjonen virker mot sin hensikt - det er konflikteskalerende og hemmer arbeidet med å få levert inn lister;
+* Det er en del fra Oslo som har kommet ned fra gjerdet og krevd EOLM på bakgrunn av suspensasjonen.
 * En del av disse har igjen skrevet velbegrunnede eposter, som de har vidresendt så bredt som mulig.
 * Jeg hadde håpet at noen andre kunne stå ansvarlig for Oslos årsmøte i mitt fravær, så langt har de svart "nei" - det er tvilsomt at det blir lister i Oslo slik situasjonen er nå.
 
