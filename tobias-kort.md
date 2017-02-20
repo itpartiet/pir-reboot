@@ -14,7 +14,7 @@ Ekstraordinært landsmøte er ingen stor sak - det kan organiseres på nett uten
 
 ## Eksklusjon
 
-Sentralstyret har svart ved å ekskludere samtlige medlemmer som signerte på oppropet - ref https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497
+Sentralstyret har svart ved å ekskludere samtlige medlemmer som signerte på oppropet - ref [møtereferatet](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497)
 
 Dersom sentralstyret hadde partiets beste i sine tanker ville de fått EOLM raskt unnagjort, slik at vi blir ferdig med det.  Ved å ekskludere oss viser de at de er mer interessert i å holde på sine posisjoner.
 
@@ -40,7 +40,7 @@ Altså, "økonomisk rot" var et av ankepunktene i oppropet for EOLM, og sekretar
 
 ## Hva kan DU gjøre?
 
-Betal kontingent hvis du ikke allerede har gjort det - https://www.piratpartiet.no/bli-aktiv-i-piratpartiet/bli-en-pirat/ - og send en epost til styret@piratpartiet.no med cc til pir-reboot@gmail.com, teksten kan være: "Jeg krever ekstraordinært landsmøte, hvor mistillitsforslag av sekretariat og sentralstyre skal behandles, samt at eksklusjonene skal realitetsbehandles".  That's it.
+[Betal kontingent](https://www.piratpartiet.no/bli-aktiv-i-piratpartiet/bli-en-pirat/) hvis du ikke allerede har gjort det, og send en epost til styret@piratpartiet.no med cc til pir-reboot@gmail.com, teksten kan være: "Jeg krever ekstraordinært landsmøte, hvor mistillitsforslag av sekretariat og sentralstyre skal behandles, samt at eksklusjonene skal realitetsbehandles".  That's it.
 
 Hvem skal sitte som ny generalsekretær og i nytt sentralstyre?  Jeg vet ikke!  Det er selvfølgelig en risiko for at man bytter ut ett problem med et annet.  Så dersom du har et fnugg av tid og vilje til å engasjere deg, så vurder om du kan stille som sentralstyrekandidat eller kandidat til sekretariatet - men det er uansett steg to!
 
