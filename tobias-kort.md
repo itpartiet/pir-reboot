@@ -1,4 +1,4 @@
-# Hva skjer i piratpartiet?  Kortform
+# Hva skjer i piratpartiet?
 
 ## Bakgrunn
 
