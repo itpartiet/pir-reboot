@@ -2,13 +2,13 @@
 
 ## Bakgrunn
 
-Piratpartiet hadde sin storhetstid i 2013.  Folk var engasjerte, det var mange av oss.  Ting begynte å stagnere veldig etter valget - partiet ble sentralisert, grasrotengasjementet døde.  Deretter begynte daværende generalsekretær å forbruke midlene i kassa for så å forsvinne sammen med kvitteringene.  Nå, mer enn to år senere er underslagssaken fortsatt standardunnskyldning for at ikke alt er optimalt i partiet.
+Piratpartiet hadde sin storhetstid rundt valget i 2013, etter det stagnerte ting.  Folk forsvant etter krangler og uenighet, partiet ble sentralisert, grasrotengasjementet døde.  Deretter begynte daværende generalsekretær å forbruke midlene i kassa for så å forsvinne sammen med kvitteringene.  Nå, mer enn to år senere er underslagssaken fortsatt standardunnskyldning for at ikke alt er optimalt i partiet.
 
-Fra mitt ståsted ser jeg at svært mange har mistet motivasjonen etter å ha kranglet med generalsekretæren eller andre enkeltpersoner i sentralstyret.  Vi har fått en generalsekretær som de-facto har alt for mye makt.  Noen av piratpartiets prinsipper er åpenhet, medbestemmelse, engasjement av "folk flest", samt flittig bruk av digitale verktøy i forvaltningen og i politikken.  Piratpartiets sekretariat og sentralstyre jobber definitivt ikke etter disse prinsippene i sitt daglige virke.
+Fra mitt ståsted ser jeg at svært mange av de som har droppet ut ila de siste to årene har mistet motivasjonen etter å ha kranglet med generalsekretæren eller andre enkeltpersoner i sentralstyret.  Vi har fått en generalsekretær som de-facto har alt for mye makt.  Noen av piratpartiets prinsipper er åpenhet, medbestemmelse, engasjement av "folk flest", samt flittig bruk av digitale verktøy i forvaltningen og i politikken.  Piratpartiets sekretariat og sentralstyre jobber definitivt ikke etter disse prinsippene i sitt daglige virke.
 
 ## Krav om ekstraordinært landsmøte
 
-Jeg ser det som svært vanskelig å representere Piratpartiet i årets valgkamp, jeg vet ikke hva piratpartiet står for lengre, og jeg kan ikke stå i valgbod og snakke varmt om prinsipper som vi ikke praktiserer internt.  Jeg kan ikke være kandidat og representere dagens partiledelse.  Jeg anser det som viktig at vi har et ekstraordinært landsmøte før utgangen av mars - dersom vi får byttet noen koster, så stiller jeg gjerne opp på liste.  Jeg tror ikke jeg er den eneste som tenker slik.  Derfor signerte jeg på en epost som oppfordret frafalne og eksisterende medlemmer til å få betalt inn kontingent og sendt mail til sentralstyret om at det er et ønske om ekstraordinært landsmøte.  Ihht vedtektene er det legitimt å stille et slikt krav.
+Jeg ser det som svært vanskelig å representere Piratpartiet i årets valgkamp, jeg vet ikke hva piratpartiet står for lengre, jeg aner ikke hva driftsmidlene brukes til, og jeg kan ikke stå i valgbod og snakke varmt om prinsipper som vi ikke praktiserer internt.  Jeg kan ikke være kandidat og representere dagens partiledelse.  Jeg anser det som viktig at vi har et ekstraordinært landsmøte før utgangen av mars - dersom vi får byttet noen koster, så stiller jeg gjerne opp på liste.  Jeg tror ikke jeg er den eneste som tenker slik.  Derfor signerte jeg på en epost som oppfordret frafalne og eksisterende medlemmer til å få betalt inn kontingent og sendt mail til sentralstyret om at det er et ønske om ekstraordinært landsmøte.  Ihht vedtektene er det legitimt å stille et slikt krav.
 
 Ekstraordinært landsmøte er ingen stor sak - det kan organiseres på nett uten fysisk oppmøte.
 
@@ -31,7 +31,7 @@ I styremøtets referat kan man også lese følgende lille perle:
 > vi har måttet redusere budsjettet med. En EOLM prematurt er
 > nettopp en slik tapsfelle som kan ødelegge hele valgkampen igjen.
 
-Altså, "økonomisk rot" var en av begrunnelsene i oppropet for EOLM, og sekretariatet sier at et legitimt EOLM-krav må saboteres pga økonomisk rot!
+Altså, "økonomisk rot" var et av ankepunktene i oppropet for EOLM, og sekretariatet sier at et legitimt EOLM-krav må saboteres pga økonomisk rot!
 
 ## Hva kan DU gjøre?
 
