@@ -18,7 +18,7 @@ Dette er ikke løse påstander, dette er fakta:
 
 * Noen har i alt hemmelighold innført kommunikasjonskontroll - mail til fylkeslagsstyrene (unntatt tre fylker) går rett til sekretariatet og ikke til fylkeslagenes styremedlemmer.  Dette ble oppdaget av Middelthun 20. februar, og er fortsatt ikke rettet opp i pr 25. februar, til tross for at partileder lovde rask opprydning.  Dette er ganske alvorlig - i tillegg til at det er et brudd på alt av demokratiske spilleregler, så vanskeliggjør det allminnelig styrearbeid, herunder innkalling til ordinære årsmøter og jobbing med lister.
 * Sentralstyret har valgt å suspendere Øyvind A. Holm, Tobias Brox, Ståle Olsen og Øyvind Nondal.  Dette regnes som fakta og er dokumentert i [sentralstyrereferat](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497).
-    * Grunnlaget til suspensjonene at de suspenderte motarbeider styret gjennom å oppfordre folk til å kreve ekstraordinært landsmøte.  Dette har vi full anledning til ihht vedtektene.
+    * Grunnlaget til suspensjonene er at de suspenderte motarbeider styret gjennom å oppfordre folk til å kreve ekstraordinært landsmøte.  Dette har vi full anledning til ihht vedtektene.
     * Suspensjonene gjør det vanskelig å få stilt lister i Oslo, Hordaland, samt Sogn- og Fjordane.
     * Mange av de som krever ekstraordinært landsmøte gjør det pga suspensjonene.
 * Sekretariatet nekter å opplyse om hvor mange medlemmer partiet har.
