@@ -33,7 +33,7 @@ Det er ingen åpenhet om hvor mange som har krevd ekstraordinært landsmøte, el
 
 ## Økonomi
 
-Regnskapet for 2014 og 2015 ligger nå [åpent ute på nett]((https://wiki.piratpartiet.no/images/c/c1/%C3%85rsregnskap_2015); disse ble lastet opp 24. februar til wikien.  Fakta: én million kroner har gått med på "annen driftskostnad" i 2015.  Mer detaljer enn dette er ikke tilgjengelig for det allminnelige medlem.  Hadde detaljene vært åpent tilgjengelig, eller om vi hadde hatt noe vis å kontrollere det på, så hadde vi ikke hatt behov for å forholde oss til løse påstander og rykter.
+Regnskapet for 2014 og 2015 ligger nå [åpent ute på nett](https://wiki.piratpartiet.no/images/c/c1/%C3%85rsregnskap_2015); disse ble lastet opp 24. februar til wikien.  Fakta: én million kroner har gått med på "annen driftskostnad" i 2015.  Mer detaljer enn dette er ikke tilgjengelig for det allminnelige medlem.  Hadde detaljene vært åpent tilgjengelig, eller om vi hadde hatt noe vis å kontrollere det på, så hadde vi ikke hatt behov for å forholde oss til løse påstander og rykter.
 
 Det ryktes at omlag hundre tusen har gått til å bestille varer og tjenester fra enkeltmannsforetaket "GC TRADE ANDERS KLEPPE" i 2016.  Det behøver ikke være noe galt i dette, men dette er noe det bør være full åpenhet om.
 
