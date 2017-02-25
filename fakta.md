@@ -1,6 +1,6 @@
 Viser til mail sendt ut 24. februar til de fleste ikke-suspenderte medlemmer.
 Der kan vi bl.a. lese at sentralstyret nekter å kalle inn til ekstraordinært landsmøte.
-Det skrives også "hele partiet bør ta lærdom av det som har inntruffet; påstander er ikke det samme som fakta".
+Det skrives også «hele partiet bør ta lærdom av det som har inntruffet; påstander er ikke det samme som fakta».
 Det meste her er fakta.
 
 ## Piratkodeks og kjerneprogram
@@ -36,9 +36,9 @@ Dette er ikke løse påstander, dette er fakta:
 ## Vedtekter og ekstraordinært landsmøte
 
 Adgangen til å kreve ekstraordinært landsmøte er dekket i [vedtektene](https://www.piratpartiet.no/partiet/vedtekter/), §7.2.
-"Sentralstyret skal med minst 3 ukers varsel innkalle til ekstraordinært landsmøte, hvis 20% av medlemmene skriftlig anmoder styret om dette eller hvis minst halvparten av fylkesstyrene krever det".
+«Sentralstyret skal med minst 3 ukers varsel innkalle til ekstraordinært landsmøte, hvis 20% av medlemmene skriftlig anmoder styret om dette eller hvis minst halvparten av fylkesstyrene krever det».
 Det står ingenting om formkrav eller forbehold til en slik anmodning; dersom 20% har skrevet at de støtter et krav om ekstraordinært landsmøte, så skal det kalles inn til ekstraordinært landsmøte.
-Sentralstyret avslår et slikt krav med begrunnelse "betingelsene for et slikt krav er ikke oppfylt", samt at påstandene som blir fremmet er grunnløse.
+Sentralstyret avslår et slikt krav med begrunnelse «betingelsene for et slikt krav er ikke oppfylt», samt at påstandene som blir fremmet er grunnløse.
 
 Det er ingen åpenhet om hvor mange som har krevd ekstraordinært landsmøte, eller hvor mange betalende medlemmer piratpartiet har.
 Sekretariatet har fått spørsmål, og Kleppe responderer med at spørsmålet vil bli besvart på neste ordinære landsmøte.
@@ -47,11 +47,11 @@ Vi tror at 22 medlemmer har krevd ekstraordinært landsmøte og at antall betale
 ## Økonomi
 
 Regnskapet for 2014 og 2015 ligger nå [åpent ute på nett](https://wiki.piratpartiet.no/images/c/c1/%C3%85rsregnskap_2015); disse ble lastet opp 24. februar til wikien.
-Fakta: én million kroner har gått med på "annen driftskostnad" i 2015.
+Fakta: én million kroner har gått med på «annen driftskostnad» i 2015.
 Mer detaljer enn dette er ikke tilgjengelig for det allminnelige medlem.
 Hadde detaljene vært åpent tilgjengelig, eller om vi hadde hatt noe vis å kontrollere det på, så hadde vi ikke hatt behov for å forholde oss til løse påstander og rykter.
 
-Det ryktes at omlag hundre tusen har gått til å bestille varer og tjenester fra enkeltmannsforetaket "GC TRADE ANDERS KLEPPE" i 2016.
+Det ryktes at omlag hundre tusen har gått til å bestille varer og tjenester fra enkeltmannsforetaket «GC TRADE ANDERS KLEPPE» i 2016.
 Det behøver ikke være noe galt i dette, men dette er noe det bør være full åpenhet om.
 
 Det ryktes at det i 2015 ble brukt kroner 96866 på bevertning, 176075 på reiser, 81550 på telefoni og 66618 kroner på andre kontorkostnader.
@@ -62,7 +62,7 @@ At disse tallene er godkjent av revisor er i så måte helt irrelevant, revisor 
 Vi hadde en del kostnader ifbm sabotasje av valgbod og diverse i Oslo, mye av dette dekket jeg egenhendig fordi jeg visste at piratpartiet var i en vanskelig økonomisk situasjon.
 Nå fikk jeg nettopp inn på øret rykter om at kostnader til bevertning etc inkluderer et lederseminar i januar 2015 som kostet 91694.98.
 
-Har piratpartiet hatt noen som helst nytte av den millionen som gikk med til "annen driftskostnad" i 2015?
+Har piratpartiet hatt noen som helst nytte av den millionen som gikk med til «annen driftskostnad» i 2015?
 Piratpartiet var langt mer vitalt i 2013, da vi ikke hadde budsjett.
 
 Om forbruket har vært hensiktsmessig eller ikke er uansett av underordnet betydning, poenget mitt er at vi burde hatt full åpenhet om økonomien fra dag én.
