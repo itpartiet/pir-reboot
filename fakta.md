@@ -1,4 +1,4 @@
-Viser til mail sendt ut 24. februar til de fleste ikke-suspenderte medlemmer.
+Viser til [mail sendt ut 24. februar](mail.2017-02-24.gorm-hanssen.txt) til de fleste ikke-suspenderte medlemmer.
 Der kan vi bl.a. lese at sentralstyret nekter å kalle inn til ekstraordinært landsmøte.
 Det skrives også «hele partiet bør ta lærdom av det som har inntruffet; påstander er ikke det samme som fakta».
 Det meste her er fakta.
