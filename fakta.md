@@ -6,15 +6,13 @@ TLDR? Les [kortversjonen](fakta-kort.txt) som ble sendt som epost til piratdisku
 
 Dette dokumentet inneholder fakta og status omkring ting i Piratpartiet som det stilles spørsmål ved, og som er medvirkende årsaker til at kravet om ekstraordinært landsmøte fortsatt står ved lag.
 Dokumentet blir oppdatert fortløpende etterhvert som vi får ny informasjon.
+Dokumentet ble påbegynt som et svar på [mail sendt ut 24. februar](mail.2017-02-24.gorm-hanssen.txt) til de fleste (?) ikke-suspenderte medlemmer.
+Der kan vi bl.a. lese at sentralstyret nekter å kalle inn til ekstraordinært landsmøte.
+Det skrives også «hele partiet bør ta lærdom av det som har inntruffet; påstander er ikke det samme som fakta».
 
 På grunn av manglende åpenhet i partiet er det enkelte punkter som vi ikke har full klarhet i enda, disse er klart merket som sådan.
 Vi er takknemlige for informasjon og dokumentasjon som kan hjelpe oss å avklare dette.
 Ikke minst er vi veldig interesserte i informasjon som kan avkrefte mistanker som er presentert her i hendhold til driften av partiet.
-
-Dette dokumentet ble påbegynt som et svar på [mail sendt ut 24. februar](mail.2017-02-24.gorm-hanssen.txt) til de fleste (?) ikke-suspenderte medlemmer.
-Der kan vi bl.a. lese at sentralstyret nekter å kalle inn til ekstraordinært landsmøte.
-Det skrives også «hele partiet bør ta lærdom av det som har inntruffet; påstander er ikke det samme som fakta».
-Vi bestrever å ha mest mulig dokumenterte fakta i dette dokumentet, samt å være eksplisitt på hva som er spekulasjoner eller rykter.
 
 ## Piratkodeks og kjerneprogram
 
