@@ -72,6 +72,11 @@ Mer enn hundre tusen kroner har gått til å bestille varer og tjenester fra enk
 Det behøver ikke være noe galt i dette, men det må være full åpenhet om slikt.
 Det tar seg heller ikke bra ut at Piratpartiet bestiller varer gjennom et privat foretak som er registrert på en sentral person i partiet.
 
+En god del av underslaget skjedde i begynnelsen av 2015, eller dukket opp i form av regninger i begynnelsen av 2015.
+Burde ikke regnskapet si noe om størrelsen på underslaget?
+Har man et gyldig økonomisk krav mot tidligere organisasjonsekretær (koster under en tusenlapp + oppmøte i forliksråd)?
+Er underslaget regnskapsført som ordinære kostnader?
+
 Det ryktes at det i 2015 ble brukt kroner 96866 på bevertning, 176075 på reiser, 81550 på telefoni og 66618 kroner på andre kontorkostnader.
 Er ikke det ganske høyt?
 Kan det forsvares?
