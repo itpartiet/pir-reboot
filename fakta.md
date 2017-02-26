@@ -1,3 +1,10 @@
+Dette dokumentet inneholder fakta og status omkring ting i Piratpartiet som det stilles spørsmål ved, og som er medvirkende årsaker til at kravet om ekstraordinært landsmøte fortsatt står ved lag.
+Dokumentet blir oppdatert fortløpende etterhvert som vi får ny informasjon.
+
+På grunn av manglende åpenhet i partiet er det enkelte punkter som vi ikke har full klarhet i enda, dette er klart merket som sådan.
+Vi er takknemlige for informasjon og dokumentasjon som kan hjelpe oss å avklare dette.
+Ikke minst er vi veldig interesserte i informasjon som kan avkrefte mistanker som er presentert her i hendhold til driften av partiet.
+
 Viser til [mail sendt ut 24. februar](mail.2017-02-24.gorm-hanssen.txt) til de fleste (?) ikke-suspenderte medlemmer.
 Der kan vi bl.a. lese at sentralstyret nekter å kalle inn til ekstraordinært landsmøte.
 Det skrives også «hele partiet bør ta lærdom av det som har inntruffet; påstander er ikke det samme som fakta».
@@ -57,8 +64,9 @@ Fakta: én million kroner har gått med på «annen driftskostnad» i 2015.
 Mer detaljer enn dette er ikke tilgjengelig for det allminnelige medlem.
 Hadde detaljene vært åpent tilgjengelig, eller om vi hadde hatt noe vis å kontrollere det på, så hadde vi ikke hatt behov for å forholde oss til løse påstander og rykter.
 
-Det ryktes at omlag hundre tusen har gått til å bestille varer og tjenester fra enkeltmannsforetaket «GC TRADE ANDERS KLEPPE» i 2016.
+Mer enn hundre tusen kroner har gått til å bestille varer og tjenester fra enkeltmannsforetaket «GC TRADE ANDERS KLEPPE» (org.nr. 917 432 430) i 2016.
 Det behøver ikke være noe galt i dette, men det må være full åpenhet om slikt.
+Det tar seg heller ikke bra ut at Piratpartiet bestiller varer gjennom et privat foretak som er registrert på en sentral person i partiet.
 
 Det ryktes at det i 2015 ble brukt kroner 96866 på bevertning, 176075 på reiser, 81550 på telefoni og 66618 kroner på andre kontorkostnader.
 Er ikke det ganske høyt?
