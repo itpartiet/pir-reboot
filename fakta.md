@@ -41,7 +41,7 @@ Dette er ikke løse påstander, dette er fakta:
   Dette ble oppdaget av Middelthun 20. februar, og er fortsatt ikke rettet opp i pr 26. februar, til tross for at partileder lovet rask opprydning.
   Dette er ganske alvorlig - i tillegg til at det er et brudd på alt av demokratiske spilleregler, så vanskeliggjør det allminnelig styrearbeid, herunder innkalling til ordinære årsmøter og jobbing med lister.
   Årsmøteinnkallelser og lister kan bli erklært ugyldige dersom sentralstyret velger å forbigå lovlig valgte lokallag.
-* Sentralstyret har valgt å suspendere Øyvind A. Holm, Tobias Brox, Ståle Olsen og Øyvind Nondal.
+* Sentralstyret har valgt å suspendere Øyvind A. Holm, Tobias Brox, Ståle Olsen, Øyvind Nondal og Bjørn Gotheim.
   Dette regnes som fakta og er dokumentert i [sentralstyrereferat](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497).
     * Grunnlaget til suspensjonene er at de suspenderte motarbeider styret gjennom å oppfordre folk til å kreve ekstraordinært landsmøte.
       Dette har vi full anledning til ihht vedtektene.
