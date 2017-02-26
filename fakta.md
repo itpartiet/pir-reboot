@@ -26,11 +26,11 @@ Sentralstyret og sekretariatet burde vise litt ydmykhet når rundt 20% av medlem
   Dette regnes som fakta og er dokumentert i [sentralstyrereferat](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497).
     * Grunnlaget til suspensjonene er at de suspenderte motarbeider styret gjennom å oppfordre folk til å kreve ekstraordinært landsmøte.
       Dette har vi full anledning til ihht vedtektene.
-      Uenighet med sittende styre er ikke gyldig eksklusjonsgrunnlag ihht vedtektene.
+      Mistillit til sittende styre er ikke gyldig eksklusjonsgrunnlag ihht vedtektene; vi ønsker ikke å *motarbeide* styre og sekretæriat, vi ønsker *å få byttet ut* styre og sekretæriat.
     * Suspensjonene gjør det vanskelig å få stilt lister i Oslo, Hordaland, samt Sogn- og Fjordane.
     * Mange av de som krever ekstraordinært landsmøte gjør det pga suspensjonene.
     * Sentralstyret har ikke revurdert sitt ståsted, men vil *vurdere* å *midlertidig* oppheve suspensjonene dersom vi ringer generalsekretæren og utfører arbeid på hans instrukser, ref [møtereferat](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-23) og [mail sendt til de suspenderte](mail.2017-02-24.gorm-hanssen.mulig-oppheving-av-suspensjon.txt).  Det er ikke akseptabelt.
-* Sekretariatet nekter å opplyse om hvor mange medlemmer partiet har.
+* Sekretariatet nekter å opplyse om hvor mange medlemmer partiet har, ref [mailtråd mellom generalsekretær og Nondal](mail.2017-02-22.anders-kleppe.txt).
 * Sentralstyret nekter å rette seg etter et legitimt krav om ekstraordinært landsmøte.
 * Vanlige medlemmer og tillitsvalgte utenom sentralstyret har svært begrenset innsynsrett i partiets økonomiske disposisjoner.
 
