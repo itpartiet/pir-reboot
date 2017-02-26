@@ -1,7 +1,7 @@
 Dette dokumentet inneholder fakta og status omkring ting i Piratpartiet som det stilles spørsmål ved, og som er medvirkende årsaker til at kravet om ekstraordinært landsmøte fortsatt står ved lag.
 Dokumentet blir oppdatert fortløpende etterhvert som vi får ny informasjon.
 
-På grunn av manglende åpenhet i partiet er det enkelte punkter som vi ikke har full klarhet i enda, dette er klart merket som sådan.
+På grunn av manglende åpenhet i partiet er det enkelte punkter som vi ikke har full klarhet i enda, disse er klart merket som sådan.
 Vi er takknemlige for informasjon og dokumentasjon som kan hjelpe oss å avklare dette.
 Ikke minst er vi veldig interesserte i informasjon som kan avkrefte mistanker som er presentert her i hendhold til driften av partiet.
 
@@ -53,7 +53,7 @@ Sentralstyret avslår et slikt krav med begrunnelse «betingelsene for et slikt 
 
 Det er ingen åpenhet om hvor mange som har krevd ekstraordinært landsmøte, eller hvor mange betalende medlemmer piratpartiet har.
 Sekretariatet har fått spørsmål, og generalsekretæren responderer med at spørsmålet vil bli besvart på neste ordinære landsmøte.
-Vi tror at 22 medlemmer har krevd ekstraordinært landsmøte; det er 20% av 110.
+På det nåværende tidspunkt har 22 medlemmer har krevd ekstraordinært landsmøte; det er 20% av 110.
 Vi tror at antall betalende medlemmer ligger en god del lavere, kanskje rundt 60-70.
 Kravet om ekstraordinært landsmøte er i såfall absolutt, unnlatelse er i strid med vedtektene.
 
