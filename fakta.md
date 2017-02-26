@@ -53,7 +53,7 @@ Sentralstyret avslår et slikt krav med begrunnelse «betingelsene for et slikt 
 
 Det er ingen åpenhet om hvor mange som har krevd ekstraordinært landsmøte, eller hvor mange betalende medlemmer piratpartiet har.
 Sekretariatet har fått spørsmål, og generalsekretæren responderer med at spørsmålet vil bli besvart på neste ordinære landsmøte.
-På det nåværende tidspunkt har 22 medlemmer har krevd ekstraordinært landsmøte; det er 20% av 110.
+På det nåværende tidspunkt har 22 medlemmer krevd ekstraordinært landsmøte; det er 20% av 110.
 Vi tror at antall betalende medlemmer ligger en god del lavere, kanskje rundt 60-70.
 Kravet om ekstraordinært landsmøte er i såfall absolutt, unnlatelse er i strid med vedtektene.
 
