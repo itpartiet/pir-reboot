@@ -5,8 +5,7 @@ Det meste her er fakta.
 
 ## Piratkodeks og kjerneprogram
 
-Vi mener at styret og sekretariatet handler i strid med piratkodeks og kjerneprogram.
-Dét er en subjektiv mening, men her er noen ubestridelige utdrag fra [Piratkodeksen](https://www.piratpartiet.no/kjerneprogrammet/politikken-fra-a-til-a/piratkodeksen/) og [kjerneprogrammet](https://www.piratpartiet.no/kjerneprogrammet/):
+Her kommer noen utdrag fra [Piratkodeksen](https://www.piratpartiet.no/kjerneprogrammet/politikken-fra-a-til-a/piratkodeksen/) og [kjerneprogrammet](https://www.piratpartiet.no/kjerneprogrammet/):
 
 * Pirater misliker blind lydighet.
 * Pirater lærer av sine feil.
@@ -16,12 +15,14 @@ Dét er en subjektiv mening, men her er noen ubestridelige utdrag fra [Piratkode
 * Piratpartiet vil at borgere skal ha tilgang til all relevant informasjon for å kunne ta informerte beslutninger, og for å utføre nødvendig tilsyn med statsadministrasjonen.
 * En enkeltpersons rett til å være informert skal aldri forhindres.
 
+Etterlever styre og sekretariat disse punktene?
+
 ## Konkrete anklager
 
 Dette er ikke løse påstander, dette er fakta:
 
 * Noen har i alt hemmelighold innført kommunikasjonskontroll - mail til fylkeslagsstyrene (unntatt tre fylker) går rett til sekretariatet og ikke til fylkeslagenes styremedlemmer.
-  Dette ble oppdaget av Middelthun 20. februar, og er fortsatt ikke rettet opp i pr 25. februar, til tross for at partileder lovde rask opprydning.
+  Dette ble oppdaget av Middelthun 20. februar, og er fortsatt ikke rettet opp i pr 26. februar, til tross for at partileder lovet rask opprydning.
   Dette er ganske alvorlig - i tillegg til at det er et brudd på alt av demokratiske spilleregler, så vanskeliggjør det allminnelig styrearbeid, herunder innkalling til ordinære årsmøter og jobbing med lister.
 * Sentralstyret har valgt å suspendere Øyvind A. Holm, Tobias Brox, Ståle Olsen og Øyvind Nondal.
   Dette regnes som fakta og er dokumentert i [sentralstyrereferat](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497).
@@ -29,6 +30,7 @@ Dette er ikke løse påstander, dette er fakta:
       Dette har vi full anledning til ihht vedtektene.
     * Suspensjonene gjør det vanskelig å få stilt lister i Oslo, Hordaland, samt Sogn- og Fjordane.
     * Mange av de som krever ekstraordinært landsmøte gjør det pga suspensjonene.
+    * Sentralstyret har ikke revurdert sitt ståsted, men vil *vurdere* å *midlertidig* oppheve suspensjonene dersom vi ringer generalsekretæren og utfører arbeid på hans instrukser, ref [møtereferat](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-23).  Det er ikke akseptabelt.
 * Sekretariatet nekter å opplyse om hvor mange medlemmer partiet har.
 * Sentralstyret nekter å rette seg etter et legitimt krav om ekstraordinært landsmøte.
 * Vanlige medlemmer og tillitsvalgte utenom sentralstyret har svært begrenset innsynsrett i partiets økonomiske disposisjoner.
@@ -42,7 +44,7 @@ Sentralstyret avslår et slikt krav med begrunnelse «betingelsene for et slikt 
 
 Det er ingen åpenhet om hvor mange som har krevd ekstraordinært landsmøte, eller hvor mange betalende medlemmer piratpartiet har.
 Sekretariatet har fått spørsmål, og Kleppe responderer med at spørsmålet vil bli besvart på neste ordinære landsmøte.
-Vi tror at 22 medlemmer har krevd ekstraordinært landsmøte og at antall betalende medlemmer ligger på 60-70.
+Vi tror at 22 medlemmer har krevd ekstraordinært landsmøte; det er 20% av 110.  Vi tror at antall betalende medlemmer ligger en god del lavere, kanskje rundt 60-70.
 
 ## Økonomi
 
