@@ -30,7 +30,7 @@ Dette er ikke løse påstander, dette er fakta:
       Dette har vi full anledning til ihht vedtektene.
     * Suspensjonene gjør det vanskelig å få stilt lister i Oslo, Hordaland, samt Sogn- og Fjordane.
     * Mange av de som krever ekstraordinært landsmøte gjør det pga suspensjonene.
-    * Sentralstyret har ikke revurdert sitt ståsted, men vil *vurdere* å *midlertidig* oppheve suspensjonene dersom vi ringer generalsekretæren og utfører arbeid på hans instrukser, ref [møtereferat](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-23).  Det er ikke akseptabelt.
+    * Sentralstyret har ikke revurdert sitt ståsted, men vil *vurdere* å *midlertidig* oppheve suspensjonene dersom vi ringer generalsekretæren og utfører arbeid på hans instrukser, ref [møtereferat](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-23) og [mail sendt til de suspenderte](mail.2017-02-24.gorm-hanssen.mulig-oppheving-av-suspensjon.txt).  Det er ikke akseptabelt.
 * Sekretariatet nekter å opplyse om hvor mange medlemmer partiet har.
 * Sentralstyret nekter å rette seg etter et legitimt krav om ekstraordinært landsmøte.
 * Vanlige medlemmer og tillitsvalgte utenom sentralstyret har svært begrenset innsynsrett i partiets økonomiske disposisjoner.
