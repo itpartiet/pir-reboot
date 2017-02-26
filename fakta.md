@@ -1,3 +1,5 @@
+TLDR? Les [kortversjonen](fakta-kort.txt) som ble sendt som epost.
+
 # Hva skjer i Piratpartiet - 2.0
 
 (se også [forrige nyhetsbrev](tobias-kort.md))
@@ -9,10 +11,10 @@ På grunn av manglende åpenhet i partiet er det enkelte punkter som vi ikke har
 Vi er takknemlige for informasjon og dokumentasjon som kan hjelpe oss å avklare dette.
 Ikke minst er vi veldig interesserte i informasjon som kan avkrefte mistanker som er presentert her i hendhold til driften av partiet.
 
-Viser til [mail sendt ut 24. februar](mail.2017-02-24.gorm-hanssen.txt) til de fleste (?) ikke-suspenderte medlemmer.
+Dette dokumentet ble påbegynt som et svar på [mail sendt ut 24. februar](mail.2017-02-24.gorm-hanssen.txt) til de fleste (?) ikke-suspenderte medlemmer.
 Der kan vi bl.a. lese at sentralstyret nekter å kalle inn til ekstraordinært landsmøte.
 Det skrives også «hele partiet bør ta lærdom av det som har inntruffet; påstander er ikke det samme som fakta».
-Det meste her er fakta.
+Vi bestrever å ha mest mulig dokumenterte fakta i dette dokumentet, samt å være eksplisitt på hva som er spekulasjoner eller rykter.
 
 ## Piratkodeks og kjerneprogram
 
