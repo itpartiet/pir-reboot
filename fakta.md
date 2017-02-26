@@ -1,4 +1,4 @@
-TLDR? Les [kortversjonen](fakta-kort.txt) som ble sendt som epost.
+TLDR? Les [kortversjonen](fakta-kort.txt) som ble sendt som epost til piratdiskusjoner-mailingliste samt Middelthuns midlertidige styremedlemsliste.
 
 # Hva skjer i Piratpartiet - 2.0
 
