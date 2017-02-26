@@ -1,5 +1,7 @@
 # Hva skjer i piratpartiet?
 
+*Dette er et historisk dokument*, følg med på [oppdatert status](fakta.md)
+
 ## Bakgrunn
 
 Piratpartiet hadde sin storhetstid rundt valget i 2013, etter det stagnerte ting.  Folk forsvant etter krangler og uenighet, partiet ble sentralisert, grasrotengasjementet døde.  Deretter begynte daværende organisasjonssekretær å forbruke midlene i kassa for så å forsvinne sammen med kvitteringene.  Nå, mer enn to år senere er underslagssaken fortsatt standardunnskyldning for at ikke alt er optimalt i partiet.

@@ -1,3 +1,7 @@
+# Hva skjer i Piratpartiet - 2.0
+
+(se også [forrige nyhetsbrev](tobias-kort.md))
+
 Dette dokumentet inneholder fakta og status omkring ting i Piratpartiet som det stilles spørsmål ved, og som er medvirkende årsaker til at kravet om ekstraordinært landsmøte fortsatt står ved lag.
 Dokumentet blir oppdatert fortløpende etterhvert som vi får ny informasjon.
 
