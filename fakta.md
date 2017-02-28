@@ -81,6 +81,8 @@ En god del av underslaget skjedde i begynnelsen av 2015, eller dukket opp i form
 Burde ikke regnskapet si noe om størrelsen på underslaget?
 Har man et gyldig økonomisk krav mot tidligere organisasjonsekretær (koster under en tusenlapp + oppmøte i forliksråd)?
 Er underslaget regnskapsført som ordinære kostnader?
+Per februar 2017 (to år etter at underslaget ble oppdaget) er det ikke kommet noen opplysninger om hvor mye som er underslått.
+Det er heller ikke gitt informasjon om hvordan saken ligger an hos rettsvesenet.
 
 Det ryktes at det i 2015 ble brukt kroner 96866 på bevertning, 176075 på reiser, 81550 på telefoni og 66618 kroner på andre kontorkostnader.
 Er ikke det ganske høyt?
