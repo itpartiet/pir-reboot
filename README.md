@@ -17,4 +17,4 @@ Dette prinsippet synes vi er blitt kraftig ignorert, både med tanke på detalje
 Det fører dessverre til mye spekulasjon omkring driften av partiet, for eksempel bruken av de økonomiske midlene i partiet som vi stiller store spørsmålstegn ved.
 Vi valgte derfor å opprette dette prosjektet på [Gitlab](https://gitlab.com/pir-reboot/pir-reboot) der alle relevante dokumenter omkring aksjonen legges ut.
 
-Aksjonsgruppen kan kontaktes via mail på &lt;<pir.reboot@gmail.com></pir.reboot>&gt;.
+Aksjonsgruppen kan kontaktes via mail på &lt;<pir.reboot@gmail.com>&gt;.
