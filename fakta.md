@@ -59,7 +59,7 @@ Adgangen til å kreve ekstraordinært landsmøte er dekket i [vedtektene](https:
 Det står ingenting om formkrav eller forbehold til en slik anmodning; dersom 20% har skrevet at de støtter et krav om ekstraordinært landsmøte, så skal det kalles inn til ekstraordinært landsmøte.
 Sentralstyret avslår et slikt krav med begrunnelse «betingelsene for et slikt krav er ikke oppfylt», samt at påstandene som blir fremmet er grunnløse.
 
-Det er ingen åpenhet om hvor mange som har krevd ekstraordinært landsmøte, eller hvor mange betalende medlemmer piratpartiet har.
+Det er ingen åpenhet om hvor mange som har krevd ekstraordinært landsmøte, eller hvor mange betalende medlemmer Piratpartiet har.
 Sekretariatet har fått spørsmål, og generalsekretæren responderer med at spørsmålet vil bli besvart på neste ordinære landsmøte.
 På det nåværende tidspunkt har minst 22 medlemmer krevd ekstraordinært landsmøte; det er 20% av 110.
 Vi tror at antall betalende medlemmer ligger en god del lavere, kanskje rundt 60-70.
@@ -86,10 +86,10 @@ Er ikke det ganske høyt?
 Kan det forsvares?
 At disse tallene er godkjent av revisor er i så måte helt irrelevant, revisor kontrollerer at bilagene stemmer, revisor kan ikke sjekke om forbruket var hensiktsmessig.
 2015 var et valgår, men hvor store berettigede kostnader har vi hatt i så måte?
-Vi hadde en del kostnader ifbm sabotasje av valgbod og diverse i Oslo, Tobias tok en del av kostnadene fra egen lomme da han visste at piratpartiet var i en vanskelig økonomisk situasjon.
+Vi hadde en del kostnader ifbm sabotasje av valgbod og diverse i Oslo, Tobias tok en del av kostnadene fra egen lomme da han visste at Piratpartiet var i en vanskelig økonomisk situasjon.
 Det ryktes at kostnader til bevertning etc inkluderer et lederseminar i januar 2015 som kostet 91694.98.
 
-Har piratpartiet hatt noen som helst nytte av den millionen som gikk med til «annen driftskostnad» i 2015?
+Har Piratpartiet hatt noen som helst nytte av den millionen som gikk med til «annen driftskostnad» i 2015?
 Piratpartiet var langt mer vitalt i 2013, da vi ikke hadde signifikante inntekter.
 
 Om forbruket har vært hensiktsmessig eller ikke er uansett av underordnet betydning, poenget mitt er at vi burde hatt full åpenhet om økonomien fra dag én.
