@@ -31,7 +31,7 @@ Etterlever styre og sekretariat disse punktene?
 
 ## Konkrete anklager
 
-Sentralstyret og sekretariatet burde vise litt ydmykhet når rundt 20% av medlemmene bekrefter mistilitt.
+Sentralstyret og sekretariatet burde vise litt ydmykhet når rundt 20% av medlemmene bekrefter mistillit.
 I stedet ser vi at kritikken bare avfeies som «grunnløse påstander».
 Dette er ikke løse påstander, dette er fakta:
 
@@ -96,5 +96,5 @@ Har Piratpartiet hatt noen som helst nytte av den millionen som gikk med til «a
 Piratpartiet var langt mer vitalt i 2013, da vi ikke hadde signifikante inntekter.
 
 Om forbruket har vært hensiktsmessig eller ikke er uansett av underordnet betydning, poenget er at vi burde hatt full åpenhet om økonomien fra dag én.
-I kjølvannet av underslagssaken ble det lovet at man skulle få nye og bedre rutiner på økonomi, men er det gjort noe som helst endringer?
+I kjølvannet av underslagssaken ble det lovet at man skulle få nye og bedre rutiner på økonomi, men er det gjort noen som helst endringer?
 Finnes det andre enn generalsekretæren som har full kontroll og innsyn over økonomien?
