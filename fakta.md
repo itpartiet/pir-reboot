@@ -7,12 +7,12 @@ TLDR? Les [kortversjonen](fakta-kort.txt) som ble sendt som epost til piratdisku
 Dette dokumentet inneholder fakta og status omkring ting i Piratpartiet som det stilles spørsmål ved, og som er medvirkende årsaker til at kravet om ekstraordinært landsmøte fortsatt står ved lag.
 Dokumentet blir oppdatert fortløpende etterhvert som vi får ny informasjon.
 Dokumentet ble påbegynt som et svar på [mail sendt ut 24. februar](mail.2017-02-24.gorm-hanssen.txt) til de fleste (?) ikke-suspenderte medlemmer.
-Der kan vi bl.a. lese at sentralstyret nekter å kalle inn til ekstraordinært landsmøte.
+Der kan vi blant annet lese at sentralstyret nekter å kalle inn til ekstraordinært landsmøte.
 Det skrives også «hele partiet bør ta lærdom av det som har inntruffet; påstander er ikke det samme som fakta».
 
 På grunn av manglende åpenhet i partiet er det enkelte punkter som vi ikke har full klarhet i enda, disse er klart merket som sådan.
 Vi er takknemlige for informasjon og dokumentasjon som kan hjelpe oss å avklare dette.
-Ikke minst er vi veldig interesserte i informasjon som kan avkrefte mistanker som er presentert her i hendhold til driften av partiet.
+Ikke minst er vi veldig interesserte i informasjon som kan avkrefte mistanker som er presentert her i henhold til driften av partiet.
 
 ## Piratkodeks og kjerneprogram
 
@@ -32,16 +32,16 @@ Etterlever styre og sekretariat disse punktene?
 ## Konkrete anklager
 
 Sentralstyret og sekretariatet burde vise litt ydmykhet når rundt 20% av medlemmene bekrefter mistilitt.
-I stedet ser vi at kritikken bare avfeies som "grunnløse påstander".
+I stedet ser vi at kritikken bare avfeies som «grunnløse påstander».
 Dette er ikke løse påstander, dette er fakta:
 
-* Noen har i alt hemmelighold innført kommunikasjonskontroll - mail til fylkeslagsstyrene (unntatt tre fylker) går rett til sekretariatet og ikke til fylkeslagenes styremedlemmer.
+* Noen har i all hemmelighet innført kommunikasjonskontroll - mail til fylkeslagsstyrene (unntatt tre fylker) går rett til sekretariatet og ikke til fylkeslagenes styremedlemmer.
   Dette ble [oppdaget av Middelthun](mail.2017-02-20.middelthun.txt) 20. februar, og er fortsatt ikke rettet opp i pr 26. februar, til tross for at partileder lovet rask opprydning.
-  Dette er ganske alvorlig - i tillegg til at det er et brudd på alt av demokratiske spilleregler, så vanskeliggjør det allminnelig styrearbeid, herunder innkalling til ordinære årsmøter og jobbing med lister.
+  Dette er ganske alvorlig - i tillegg til at det er et brudd på alt av demokratiske spilleregler, så vanskeliggjør det allminnelig styrearbeid, herunder innkalling til ordinære årsmøter og jobbing med stortingslister.
   Årsmøteinnkallelser og lister kan bli erklært ugyldige dersom sentralstyret velger å forbigå lovlig valgte lokallag.
 * Sentralstyret har valgt å suspendere Øyvind A. Holm, Tobias Brox, Ståle Olsen, Øyvind Nondal og Bjørn Gotheim.
   Dette regnes som fakta og er dokumentert i [sentralstyrereferat](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497).
-    * Grunnlaget til suspensjonene er at de suspenderte motarbeider styret gjennom å oppfordre folk til å kreve ekstraordinært landsmøte.
+    * Grunnlaget til suspensjonene er at de suspenderte «motarbeider styret» gjennom å oppfordre folk til å kreve ekstraordinært landsmøte.
       Dette har vi full anledning til ihht vedtektene.
       Mistillit til sittende styre er ikke gyldig eksklusjonsgrunnlag ihht vedtektene; vi ønsker ikke å *motarbeide* styre og sekretæriat, vi ønsker *å få byttet ut* styre og sekretæriat.
     * Suspensjonene gjør det vanskelig å få stilt lister i Oslo, Hordaland, samt Sogn- og Fjordane.
@@ -68,9 +68,9 @@ Kravet om ekstraordinært landsmøte er i såfall absolutt, unnlatelse er i stri
 ## Økonomi
 
 Regnskapet for 2014 og 2015 ligger nå [åpent ute på nett](https://wiki.piratpartiet.no/images/c/c1/%C3%85rsregnskap_2015); disse ble lastet opp 24. februar til wikien.
-Fakta: én million kroner har gått med på «annen driftskostnad» i 2015.
+Fakta: én million kroner har gått med til «annen driftskostnad» i 2015.
 Mer detaljer enn dette er ikke tilgjengelig for det allminnelige medlem.
-Hadde detaljene vært åpent tilgjengelig, eller om vi hadde hatt noe vis å kontrollere det på, så hadde vi ikke hatt behov for å forholde oss til løse påstander og rykter.
+Hadde detaljene vært åpent tilgjengelig, eller om vi hadde hatt noe vis å kontrollere det på, hadde vi ikke hatt behov for å forholde oss til løse påstander og rykter.
 
 Mer enn hundre tusen kroner har gått til å bestille varer og tjenester fra enkeltmannsforetaket «GC TRADE ANDERS KLEPPE» (org.nr. 917 432 430) i 2016.
 Det behøver ikke være noe galt i dette, men det må være full åpenhet om slikt.
@@ -86,12 +86,12 @@ Er ikke det ganske høyt?
 Kan det forsvares?
 At disse tallene er godkjent av revisor er i så måte helt irrelevant, revisor kontrollerer at bilagene stemmer, revisor kan ikke sjekke om forbruket var hensiktsmessig.
 2015 var et valgår, men hvor store berettigede kostnader har vi hatt i så måte?
-Vi hadde en del kostnader ifbm sabotasje av valgbod og diverse i Oslo, Tobias tok en del av kostnadene fra egen lomme da han visste at Piratpartiet var i en vanskelig økonomisk situasjon.
+Vi hadde en del kostnader i forbindelse med sabotasje av valgbod og diverse i Oslo, Tobias tok en del av kostnadene fra egen lomme da han visste at Piratpartiet var i en vanskelig økonomisk situasjon.
 Det ryktes at kostnader til bevertning etc inkluderer et lederseminar i januar 2015 som kostet 91694.98.
 
 Har Piratpartiet hatt noen som helst nytte av den millionen som gikk med til «annen driftskostnad» i 2015?
 Piratpartiet var langt mer vitalt i 2013, da vi ikke hadde signifikante inntekter.
 
-Om forbruket har vært hensiktsmessig eller ikke er uansett av underordnet betydning, poenget mitt er at vi burde hatt full åpenhet om økonomien fra dag én.
+Om forbruket har vært hensiktsmessig eller ikke er uansett av underordnet betydning, poenget er at vi burde hatt full åpenhet om økonomien fra dag én.
 I kjølvannet av underslagssaken ble det lovet at man skulle få nye og bedre rutiner på økonomi, men er det gjort noe som helst endringer?
 Finnes det andre enn generalsekretæren som har full kontroll og innsyn over økonomien?
