@@ -70,9 +70,25 @@ Altså:
 * Generalsekretæren antyder ovenfor leverandøren at personlige stridigheter er noe av bakgrunnen for leverandørbyttet ("styret og administrasjonen må komme seg videre etter å ha stanget to år i veggen med dem som har inngått avtalen med Zetta" - dette er jo et internt problem som overhodet ikke angår leverandøren, og problemet er heller ikke særlig relevant ifht valg av leverandør).
 * Mulig avkorting av partistøtten fra mars er også antydet som årsak.  Det er en nyhet som ikke er offentliggjort i andre kanaler.
 
-## Underslagssaken
+## Underslagssaken og regnskapskaoset
 
+At tidligere organisasjonssekretær etterlot seg mye rot og kaos som måtte ryddes i, er det ingen tvil om - men at man etter to år fortsatt skylder på underslaget for alt som er galt, det holder ikke.  Hadde man fra første stund fått et profesjonelt regnskapsbyrå til å se på saken, og hadde man holdt et godt samarbeid med dette firmaet, så hadde antageligvis underslaget vært et lukket kapittel allerede sommeren 2015.  Nå har man byttet regnskapsfirma to ganger allerede, én revisor har også kastet kortene - det er vanskelig å tro at dette bare skyldes underslaget i seg selv.
 
+I 2014 og begynnelsen av 2015 var det organisajonssekretærens tante (!) som førte regnskapet.  Hun var ansatt i et bygningsfirma.  Ihht lovverket skal man ha autorisasjon fra myndighetene før man fører regnskap for andre - dette bygningsfirmaet hadde ikke noen slik autorisasjon.  I et nyoppstartet parti uten midler er det forståelig at man lener seg på personlige kontakter og velger billige løsninger.  I etterpåklokskapens lys skulle man selvfølgelig ha avviklet avtalen med bygningsfirmaet og søkt kompetent og profesjonell hjelp umiddelbart etter at organisasjonssekretæren forsvant.
+
+I oktober 2015 begynte det å skje ting med regnskapssituasjonen:
+
+* Det begynte å brenne under føttene våre, i form av diverse trusler fra myndighetene (ikke konkret referatført noe sted, men generalsekretæren benyttet enhver anledning til å klage over tingenes tilstand)
+* Piratpartiet begynte å lete etter ny regnskapsfører ([referat 1. oktober](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2015-10-01))
+* Regnskapet for 2014 ble meldt ferdigstilt fra bygningsfirmaet.  Dette har ikke blitt referatført noe sted.
+* Vi avsluttet forholdet med bygningsfirmaet og var [offisielt i konflikt med det](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2015-10-15)
+* [Mermista ble vår nye regnskapsfører](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2015-10-29)
+
+Det er ikke offisielt referatført noe sted, men bygningsfirmaet sendte oss faktura for utført arbeid, generalsekretæren mente at det ble krevd inn betaling for arbeid som ikke var utført, samt at det etter så mange forsinkelser ikke kunne komme på tale å betale såpass mye.  Bygningsfirmaet holdt på regnskap og bilag som "pant" eller "gissel" frem til regningen ble betalt.  Regningen var ikke astronomiske, vara var villig til å legge ut dersom det hadde avhjulpet situasjonen.  Vi vet ikke fasit, men med den informasjonen vi (de av oss i pir-reboot som også satt i sentralstyret) satt på virket det som rimelig å anta at vi endelig kunne bli ferdige med regnskapet for 2014 dersom vi betalte denne regningen, og at hovedproblemet nå var sklidd over fra å være forsinkelser fra regnskapsfører til å være konflikt mellom regnskapsfører og generalsekretær.  Dersom generalsekretæren faktisk hadde rett i at regningen ikke var legitim så ville det fortsatt vært en mulighet å betale for å få tilgang til filene, samtidig som at man anfører at man er uenig i kravet og forbeholder seg retten å komme med motregning og ta kravet til forliksråd.
+
+Vi beholdt heller ikke Mermista som regningsfører, hvorfor?
+
+En revisor gav opp og trakk seg etter å ha forsøkt å revidere regnskapene - hvorfor?
 
 ## Vedtekter og ekstraordinært landsmøte
 
