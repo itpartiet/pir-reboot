@@ -66,6 +66,14 @@ På det nåværende tidspunkt har minst 22 medlemmer krevd ekstraordinært lands
 Vi tror at antall betalende medlemmer ligger en god del lavere, kanskje rundt 60-70.
 Kravet om ekstraordinært landsmøte er i såfall absolutt, unnlatelse er i strid med vedtektene.
 
+## Sentralstyrets manglende virksomhet, eller evt manglende åpenhet om virksomhet
+
+I følge wiki'en hadde sentralstyret ukentlige møter frem til og med 2016-03-17 - dette var konstituerende møte for det nye sentralstyret.  Det ble vedtatt å møtes fysisk ei helg.  Vara ble ikke invitert.  Møtet ble ihht wiki'en avholdt i uke 14 2016, men det finnes ikke noe referat.
+
+Så finnes det et referat fra 2016-08-31.  Ett av punktene i referatet er "oppsummering av sentralstyrets arbeid de tre siste månedene".  Tale har skrevet noe som hun ikke fikk publisert og som nå regnes som utdatert, noe flikking på nyhetsbrevabonnementsystem, og Gorm har holdt lokalt årsmøte i Tronheim.  Kort fortalt: ingen synlig sentralstyreaktivitet mellom 2016-03-17 og 2016-08-31.
+
+I neste avsnitt skryter Raymond over hvor mye som er blitt utrettet og hvor flinke sentralstyret har vært med kommunikasjon, samt hvor god chatløsning vi har - dette til tross for at det ikke finnes noen referater eller synlig aktivitet fra perioden, varamedlemmer som har blitt holdt utenfor.  Har det vært gjort forsøk på å få Manuel inn på nevnte chatløsning?  Rett etterpå kan vi lese i referatet at man trenger en klar plan for internkommunikasjon, samt valg av chatsystem - var "observasjonen" fra Raymond seriøst ment?
+
 ## Økonomi
 
 Regnskapet for 2014 og 2015 ligger nå [åpent ute på nett](https://wiki.piratpartiet.no/images/c/c1/%C3%85rsregnskap_2015); disse ble lastet opp 24. februar til wikien.
