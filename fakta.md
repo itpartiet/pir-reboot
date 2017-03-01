@@ -68,11 +68,11 @@ Kravet om ekstraordinært landsmøte er i såfall absolutt, unnlatelse er i stri
 
 ## Sentralstyrets manglende virksomhet, eller evt manglende åpenhet om virksomhet
 
-I følge wiki'en hadde sentralstyret ukentlige møter frem til og med 2016-03-17 - dette var konstituerende møte for det nye sentralstyret.  Det ble vedtatt å møtes fysisk ei helg.  Vara ble ikke invitert.  Møtet ble ihht wiki'en avholdt i uke 14 2016, men det finnes ikke noe referat.
+I følge [wiki](https://wiki.piratpartiet.no/index.php?title=Sentralstyret) hadde sentralstyret ukentlige møter frem til og med 2016-03-17 - dette var konstituerende møte for det nye sentralstyret.  Det ble vedtatt å møtes fysisk ei helg.  Vara ble ikke invitert.  Møtet ble ihht wiki'en avholdt i uke 14 2016, men det finnes ikke noe referat.
 
-Så finnes det et referat fra 2016-08-31.  Ett av punktene i referatet er "oppsummering av sentralstyrets arbeid de tre siste månedene".  Tale har skrevet noe som hun ikke fikk publisert og som nå regnes som utdatert, noe flikking på nyhetsbrevabonnementsystem, og Gorm har holdt lokalt årsmøte i Trondheim.  Kort fortalt: ingen synlig sentralstyreaktivitet mellom 2016-03-17 og 2016-08-31.
+Så finnes det et [referat fra 2016-08-31](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2016-08-31).  Ett av punktene i referatet er "oppsummering av sentralstyrets arbeid de tre siste månedene".  Tale har skrevet noe som hun ikke fikk publisert og som nå regnes som utdatert, noe flikking på nyhetsbrevabonnementsystem, og Gorm har holdt lokalt årsmøte i Trondheim.  Kort fortalt: ingen synlig sentralstyreaktivitet mellom 2016-03-17 og 2016-08-31.  I neste avsnitt skryter Raymond over hvor mye som er blitt utrettet og hvor flinke sentralstyret har vært med kommunikasjon, samt hvor god chatløsning vi har - dette til tross for at det ikke finnes noen referater eller synlig aktivitet fra perioden, varamedlemmer som har blitt holdt utenfor.  Har det vært gjort forsøk på å få Manuel inn på nevnte chatløsning?  Rett etterpå kan vi lese i referatet at man trenger en klar plan for internkommunikasjon, samt valg av chatsystem - var "observasjonen" fra Raymond seriøst ment?
 
-I neste avsnitt skryter Raymond over hvor mye som er blitt utrettet og hvor flinke sentralstyret har vært med kommunikasjon, samt hvor god chatløsning vi har - dette til tross for at det ikke finnes noen referater eller synlig aktivitet fra perioden, varamedlemmer som har blitt holdt utenfor.  Har det vært gjort forsøk på å få Manuel inn på nevnte chatløsning?  Rett etterpå kan vi lese i referatet at man trenger en klar plan for internkommunikasjon, samt valg av chatsystem - var "observasjonen" fra Raymond seriøst ment?
+Neste referat er fra november - etter det begynner referatene å komme regelmessig igjen - men fem måneder uten synlig aktivitet, det er meget svakt.
 
 ## Økonomi
 
