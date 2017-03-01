@@ -55,8 +55,7 @@ Dette er ikke løse påstander, dette er fakta:
 
 ## Skandaløs IT-flytting
 
-I [novemberreferatet](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2016-11-03) nevnes det at det jobbes med serverflytt.  Sekretariatet anser at de kan gjøre dette uten noe sentralstyrevedtak; det virker legitimt dersom formålet er å kutte kostnader eller gjøre forbedringer.  Ihht styrereferatet virker imidlertid årsaken å være av politisk karakter: "Problemet med norske hostingtilbydere er at de er litt for flinke til å sensurere (etter vår smak). Islandske hostetilbydere, derimot, sperrer ingenting med mindre det ligger en rettskraftig dom til grunn".  Vår kontaktperson hos vår norske leverandør ble oppmerksom på dette og [reagerte med vantro på dette referatet](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-01-07.dag-zetta.txt).  Mailen ble aldri besvart, til tross for at det ble oppfordret til et møte i saken.  28. februar, to timer før månedsskifte skriver generalsekretæren [mail med oppsigelse fra og med månedsskiftet](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-02-28.kleppe.txt).  Dette resulterte i en ganske [krass mail](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-03-01.dag-zetta.txt) tilbake fra norsk leverandør.
-* Pr 2017-03-02 er gammel infrastruktur fortsatt inntakt - heldigvis!  Wiki og pad lever fortsatt der, sammen med DNS-serveren vår og lagring/backup av masse historisk materiale, som videoopptak fra landsmøter, etc
+I [novemberreferatet](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2016-11-03) nevnes det at det jobbes med serverflytt.  Sekretariatet anser at de kan gjøre dette uten noe sentralstyrevedtak; det virker legitimt dersom formålet er å kutte kostnader eller gjøre forbedringer.  Ihht styrereferatet virker imidlertid årsaken å være av politisk karakter: "Problemet med norske hostingtilbydere er at de er litt for flinke til å sensurere (etter vår smak). Islandske hostetilbydere, derimot, sperrer ingenting med mindre det ligger en rettskraftig dom til grunn".  Vår kontaktperson hos vår norske leverandør ble oppmerksom på dette og [reagerte med vantro på dette referatet](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-01-07.dag-zetta.txt).  Mailen ble aldri besvart, til tross for at det ble oppfordret til et møte i saken.  28. februar, to timer før månedsskifte skriver generalsekretæren [mail med oppsigelse fra og med månedsskiftet](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-02-28.kleppe.txt).  Dette resulterte i en ganske [krass mail](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-03-01.dag-zetta.txt) tilbake fra norsk leverandør. Pr 2017-03-02 er gammel infrastruktur fortsatt inntakt - heldigvis!  Wiki og pad lever fortsatt der, sammen med DNS-serveren vår og lagring/backup av masse historisk materiale, som videoopptak fra landsmøter, etc
 
 Altså:
 
@@ -69,6 +68,10 @@ Altså:
 * Flytten medfører også betydelig risiko for at ting rett og slett faller bort - og her holdt ting på å gå veldig galt: generalsekretær gjorde bevisst eller ubevisst - et alvorlig forsøk på å ta ned wiki, pad, DNS-server (1/2), samt slette mengder av historiske videoopptak og lignende natt til 1. mars.  Vi i "pir-reboot" har sørget for at ferske backups er tilgjengelig, vi er i stand til å ta opp tjenestene igjen på kort varsel.  DNS-server som bare forsvinner kan jo medføre en del sure oppgulp fra publikum; selv om det bare er snakk om én av to servere vil mange kunne oppleve "ustabilt internett" pga dette.
 * Leverandøren føler seg fornærmet i sentralstyrereferatet, og får ikke svar på mail til styret/tech.
 * Generalsekretæren antyder ovenfor leverandøren at personlige stridigheter er noe av bakgrunnen for leverandørbyttet ("styret og administrasjonen må komme seg videre etter å ha stanget to år i veggen med dem som har inngått avtalen med Zetta" - dette er jo et internt problem som overhodet ikke angår leverandøren, og problemet er heller ikke særlig relevant ifht valg av leverandør).
+
+## Underslagssaken
+
+
 
 ## Vedtekter og ekstraordinært landsmøte
 
