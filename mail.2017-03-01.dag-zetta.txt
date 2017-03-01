@@ -1,42 +1,70 @@
 From: "dag" <dag@zetta.io>
 To: "anders" <anders@piratpartiet.no>
-Cc: "Styret i Piratpartiet" <styret@piratpartiet.no>, "Piratpartiets Sekretariat" <sekretariatet@piratpartiet.no>, "tech" <tech@piratpartiet.no>
+Cc: "Styret i Piratpartiet" <styret@piratpartiet.no>,
+    "Piratpartiets Sekretariat" <sekretariatet@piratpartiet.no>,
+    "tech" <tech@piratpartiet.no>
 Sent: Wednesday, 1 March, 2017 02:21:27
 Subject: Re: Piratpartiet - Oppsigelse av hosting
 
-Hei Anders. 
+Hei Anders.
 
-Det er som nevnt tidligere ingen bindingstid eller lignende på noen av våre tjenester, med mindre dere har inngått en bindingsavtale for å få oppnå rabatter. 
+Det er som nevnt tidligere ingen bindingstid eller lignende på noen av 
+våre tjenester, med mindre dere har inngått en bindingsavtale for å få 
+oppnå rabatter.
 
-Piratpartiet har ingen slike bindingsavtaler, og står dermed fritt til å terminere sine tjenester når som helst. 
+Piratpartiet har ingen slike bindingsavtaler, og står dermed fritt til å 
+terminere sine tjenester når som helst.
 
-Alle våre tjenester er "self-service", og styres via vårt dashboard. Dere må terminererer tjenestene via dette selv; Vi sletter aldri kunders data. 
+Alle våre tjenester er "self-service", og styres via vårt dashboard. 
+Dere må terminererer tjenestene via dette selv; Vi sletter aldri kunders 
+data.
 
-Dere kan også selv starte/stoppe/slette servere og andre tjenster samt skalere maskinkapasiteten helt fritt. Det er vel kanskje hovedpoenget med å benytte en skyplattform, kontra en "gammeldags" tjenste som f.eks en VPS-leverandør. 
+Dere kan også selv starte/stoppe/slette servere og andre tjenster samt 
+skalere maskinkapasiteten helt fritt. Det er vel kanskje hovedpoenget 
+med å benytte en skyplattform, kontra en "gammeldags" tjenste som f.eks 
+en VPS-leverandør.
 
-Hvis dere av en eller annen grunn ikke har tilgang til plattformen, kan vi selvfølgelig hjelpe dere med dette. Følgende brukere eksisterer pr. idag: 
+Hvis dere av en eller annen grunn ikke har tilgang til plattformen, kan 
+vi selvfølgelig hjelpe dere med dette. Følgende brukere eksisterer pr. 
+idag:
 
-* assistant (assistant@piratpartiet.no) 
-* gorm (gorm@piratpartiet.no) 
-* middelthun (oystein@piratpartiet.no) 
-* tobias (tobias@piratpartiet.no) 
+* assistant (assistant@piratpartiet.no)
+* gorm (gorm@piratpartiet.no)
+* middelthun (oystein@piratpartiet.no)
+* tobias (tobias@piratpartiet.no)
 
-Har disse vært kontaktet? Er disse forstatt aktive i Piratpartiet? Hvem er egentlig teknisk ansvarlig i Piratpartiet nå? Hvorfor har ingen fra IT-gruppen tatt kontakt? 
+Har disse vært kontaktet? Er disse forstatt aktive i Piratpartiet? Hvem 
+er egentlig teknisk ansvarlig i Piratpartiet nå? Hvorfor har ingen fra 
+IT-gruppen tatt kontakt?
 
-Du nevner at den økonomiske situasjonen i partiet nå er vanskelig. 
+Du nevner at den økonomiske situasjonen i partiet nå er vanskelig.
 
-Ifølge 1984.is sine nettsider koster en VPS med 4G minne koster ca. 1375 pr. måned. En virtuell maskin med 4G minne koster ca. 400 pr. måned hos oss. 
+Ifølge 1984.is sine nettsider koster en VPS med 4G minne koster ca. 1375 
+pr. måned. En virtuell maskin med 4G minne koster ca. 400 pr. måned hos 
+oss.
 
-Videre ser jeg at disse krever 1, 2 eller 3 års forhåndsbetaling. Vi etterskuddsfakturerer forbruk pr. måned, noe som gir våre kunder en svært fleksibel løsning. 
+Videre ser jeg at disse krever 1, 2 eller 3 års forhåndsbetaling. Vi 
+etterskuddsfakturerer forbruk pr. måned, noe som gir våre kunder en 
+svært fleksibel løsning.
 
-Hvorfor kjøper Piratpartiet tjenster som koster 3 ganger så mye, og som samtidig gjør store innhugg i likviditeten, hvis flyttingen er økonomisk motivert? 
+Hvorfor kjøper Piratpartiet tjenster som koster 3 ganger så mye, og som 
+samtidig gjør store innhugg i likviditeten, hvis flyttingen er økonomisk 
+motivert?
 
-Hvorfor har ingen ønsket å gå i dialog med oss for å se på om vi kan gjøre noe med prisene, hvis dette er ett problem? 
+Hvorfor har ingen ønsket å gå i dialog med oss for å se på om vi kan 
+gjøre noe med prisene, hvis dette er ett problem?
 
-Vi har aldri blitt kontaktet av noen fra det nye styret før nå, og jeg forstår ikke helt hva slags problem dere har hatt vis a vis oss i to år? Hvis det har vært en intern strid i partiet, har ikke vi blitt informert eller involvert av styret. 
+Vi har aldri blitt kontaktet av noen fra det nye styret før nå, og jeg 
+forstår ikke helt hva slags problem dere har hatt vis a vis oss i to år? 
+Hvis det har vært en intern strid i partiet, har ikke vi blitt informert 
+eller involvert av styret.
 
-Det var tilfeldig at vi så ett vedtak om å flytte tjenester til Island. Slik vi tolket dette, var dette basert på en påstand om at norske leverandører er mer tilbøylig til å stenge tjenester, og dermed bedrive sensur. Er dette virkelig Piratpartiets standpunkt? Det åpner isfåll for en rekke andre spørsmål. 
+Det var tilfeldig at vi så ett vedtak om å flytte tjenester til Island. 
+Slik vi tolket dette, var dette basert på en påstand om at norske 
+leverandører er mer tilbøylig til å stenge tjenester, og dermed bedrive 
+sensur. Er dette virkelig Piratpartiets standpunkt? Det åpner isfåll for 
+en rekke andre spørsmål.
 
-[ https://www.zetta.io/ ] 
-DAG STENSTAD 
-ZETTA.IO TECHNOLOGY AS | [ https://www.zetta.io/ | WWW.ZETTA.IO ] | OSLO, NORWAY | +47 24200024 | +47 93013974 
+[ https://www.zetta.io/ ]
+DAG STENSTAD
+ZETTA.IO TECHNOLOGY AS | [ https://www.zetta.io/ | WWW.ZETTA.IO ] | OSLO, NORWAY | +47 24200024 | +47 93013974
