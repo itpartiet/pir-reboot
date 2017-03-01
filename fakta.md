@@ -53,6 +53,23 @@ Dette er ikke løse påstander, dette er fakta:
 * Sentralstyret nekter å rette seg etter et legitimt krav om ekstraordinært landsmøte.
 * Vanlige medlemmer og tillitsvalgte utenom sentralstyret har svært begrenset innsynsrett i partiets økonomiske disposisjoner.
 
+## Skandaløs IT-flytting
+
+I [novemberreferatet](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2016-11-03) nevnes det at det jobbes med serverflytt.  Sekretariatet anser at de kan gjøre dette uten noe sentralstyrevedtak; det virker legitimt dersom formålet er å kutte kostnader eller gjøre forbedringer.  Ihht styrereferatet virker imidlertid årsaken å være av politisk karakter: "Problemet med norske hostingtilbydere er at de er litt for flinke til å sensurere (etter vår smak). Islandske hostetilbydere, derimot, sperrer ingenting med mindre det ligger en rettskraftig dom til grunn".  Vår kontaktperson hos vår norske leverandør ble oppmerksom på dette og [reagerte med vantro på dette referatet](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-01-07.dag-zetta.txt).  Mailen ble aldri besvart, til tross for at det ble oppfordret til et møte i saken.  28. februar, to timer før månedsskifte skriver generalsekretæren [mail med oppsigelse fra og med månedsskiftet](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-02-28.kleppe.txt).  Dette resulterte i en ganske [krass mail](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-03-01.dag-zetta.txt) tilbake fra norsk leverandør.
+* Pr 2017-03-02 er gammel infrastruktur fortsatt inntakt - heldigvis!  Wiki og pad lever fortsatt der, sammen med DNS-serveren vår og lagring/backup av masse historisk materiale, som videoopptak fra landsmøter, etc
+
+Altså:
+
+* Sekretariatet bestemmer seg for å flytte IT-infrastruktur ...
+    * ... ut av landet
+    * ... til en leverandør som er mer enn tre ganger dyrere enn eksisterende leverandør
+    * ... uten noen som helst saklig grunn
+    * ... uten at det foreligger noe vedtak på dette
+* Flytten medfører foruten masse arbeid for sekretariatet også betydelig risiko for driftsavvik
+* Flytten medfører også betydelig risiko for at ting rett og slett faller bort - og her holdt ting på å gå veldig galt: generalsekretær gjorde bevisst eller ubevisst - et alvorlig forsøk på å ta ned wiki, pad, DNS-server (1/2), samt slette mengder av historiske videoopptak og lignende natt til 1. mars.  Vi i "pir-reboot" har sørget for at ferske backups er tilgjengelig, vi er i stand til å ta opp tjenestene igjen på kort varsel.  DNS-server som bare forsvinner kan jo medføre en del sure oppgulp fra publikum; selv om det bare er snakk om én av to servere vil mange kunne oppleve "ustabilt internett" pga dette.
+* Leverandøren føler seg fornærmet i sentralstyrereferatet, og får ikke svar på mail til styret/tech.
+* Generalsekretæren antyder ovenfor leverandøren at personlige stridigheter er noe av bakgrunnen for leverandørbyttet ("styret og administrasjonen må komme seg videre etter å ha stanget to år i veggen med dem som har inngått avtalen med Zetta" - dette er jo et internt problem som overhodet ikke angår leverandøren, og problemet er heller ikke særlig relevant ifht valg av leverandør).
+
 ## Vedtekter og ekstraordinært landsmøte
 
 Adgangen til å kreve ekstraordinært landsmøte er dekket i [vedtektene](https://www.piratpartiet.no/partiet/vedtekter/), §7.2.
@@ -72,7 +89,7 @@ I følge [wiki](https://wiki.piratpartiet.no/index.php?title=Sentralstyret) hadd
 
 Så finnes det et [referat fra 2016-08-31](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2016-08-31).  Ett av punktene i referatet er "oppsummering av sentralstyrets arbeid de tre siste månedene".  Tale har skrevet noe som hun ikke fikk publisert og som nå regnes som utdatert, noe flikking på nyhetsbrevabonnementsystem, og Gorm har holdt lokalt årsmøte i Trondheim.  Kort fortalt: ingen synlig sentralstyreaktivitet mellom 2016-03-17 og 2016-08-31.  I neste avsnitt skryter Raymond over hvor mye som er blitt utrettet og hvor flinke sentralstyret har vært med kommunikasjon, samt hvor god chatløsning vi har - dette til tross for at det ikke finnes noen referater eller synlig aktivitet fra perioden, varamedlemmer som har blitt holdt utenfor.  Har det vært gjort forsøk på å få Manuel inn på nevnte chatløsning?  Rett etterpå kan vi lese i referatet at man trenger en klar plan for internkommunikasjon, samt valg av chatsystem - var "observasjonen" fra Raymond seriøst ment?
 
-Neste referat er fra november - etter det begynner referatene å komme regelmessig igjen - men fem måneder uten synlig aktivitet, det er meget svakt.
+Neste referat er fra november - etter det begynner referatene å komme regelmessig igjen - men fem måneder uten synlig aktivitet, det er meget svakt - vi utelukker ikke at sentralstyret har gjort masse arbeid i mellomtiden som vi ikke har fanget opp.  Tale har skrevet 3 blogginnlegg på de offisielle websidene i femmånedersperioden, samt ett i oktober.
 
 ## Økonomi
 
