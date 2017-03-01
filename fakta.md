@@ -61,11 +61,12 @@ Altså:
 
 * Sekretariatet bestemmer seg for å flytte IT-infrastruktur ...
     * ... til fremmed statsmakts jord
-    * ... til en leverandør som er mer enn tre ganger dyrere enn eksisterende leverandør
-    * ... uten noen som helst saklig grunn
-    * ... uten at det foreligger noe vedtak på dette
+    * ... til en leverandør som er tre ganger dyrere enn eksisterende leverandør
+    * ... fra en leverandør som tar betalt etterskuddsvis hver måned ifh ressurser vi bruker, til en leverandør som krever forhåndsbetalt/binding for flere år av gangen
+    * ... og dette uten noen som helst saklig grunn
+    * ... og også uten at det foreligger noe vedtak på dette
 * Flytten medfører foruten masse arbeid for sekretariatet også betydelig risiko for driftsavvik
-* Flytten medfører også betydelig risiko for at ting rett og slett faller bort - og her holdt ting på å gå veldig galt: generalsekretær gjorde bevisst eller ubevisst - et alvorlig forsøk på å ta ned wiki, pad, DNS-server (1/2), samt slette mengder av historiske videoopptak og lignende natt til 1. mars.  Vi i "pir-reboot" har sørget for at ferske backups er tilgjengelig, vi er i stand til å ta opp tjenestene igjen på kort varsel.  DNS-server som bare forsvinner kan jo medføre en del sure oppgulp fra publikum; selv om det bare er snakk om én av to servere vil mange kunne oppleve "ustabilt internett" pga dette.
+* Flytten medfører også betydelig risiko for at ting rett og slett faller bort - og her holdt ting på å gå veldig galt: generalsekretær gjorde bevisst eller ubevisst - et alvorlig forsøk på å ta ned wiki, pad, DNS-server (1/2), samt slette mengder av historiske videoopptak og lignende natt til 1. mars.  Vi i "pir-reboot" har sørget for at ferske backups er tilgjengelig, vi er i stand til å ta opp tjenestene igjen på kort varsel.  DNS-server som bare forsvinner kan jo medføre en del sure oppgulp fra sympatisører og potensielle velgere; selv om det bare er snakk om én av to servere vil mange kunne oppleve "ustabilt internett" pga dette.
 * Leverandøren føler seg fornærmet i sentralstyrereferatet, og får ikke svar på mail.
 * Generalsekretæren antyder ovenfor leverandøren at personlige stridigheter er noe av bakgrunnen for leverandørbyttet ("styret og administrasjonen må komme seg videre etter å ha stanget to år i veggen med dem som har inngått avtalen med Zetta" - dette er jo et internt problem som overhodet ikke angår leverandøren, og problemet er heller ikke særlig relevant ifht valg av leverandør).
 * Mulig avkorting av partistøtten fra mars er også antydet som årsak.  Det er en nyhet som ikke er offentliggjort i andre kanaler.
