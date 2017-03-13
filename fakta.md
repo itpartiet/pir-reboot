@@ -41,7 +41,7 @@ Dette er ikke løse påstander, dette er fakta:
   Dette er ganske alvorlig – i tillegg til at det er et brudd på alt av demokratiske spilleregler, så vanskeliggjør det allminnelig styrearbeid, herunder innkalling til ordinære årsmøter og jobbing med stortingslister.
   Årsmøteinnkallelser og lister kan bli erklært ugyldige dersom sentralstyret velger å forbigå lovlig valgte lokallag.
 * Sentralstyret har valgt å suspendere Øyvind A. Holm, Tobias Brox, Ståle Olsen, Øyvind Nondal og Bjørn Gotheim.
-  Dette regnes som fakta og er dokumentert i [referatet](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497) fra et hastemøte i sentralstyret 2017-02-17 som generalsekretær Kleppe sendte ut innkalling til dagen før.
+  Dette regnes som fakta og er dokumentert i [referatet](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497) fra et hastemøte i sentralstyret 2017-02-17 som generalsekretæren sendte ut innkalling til dagen før.
   Generalsekretæren anbefalte i denne mailen å iverksette en suspensjon i henhold til [vedtektenes](https://www.piratpartiet.no/partiet/vedtekter/) §13.4 av de fem personene som undertegnet [mailen](orginalmail.txt) som ble sendt ut til partiets medlemmer 2017-02-14.
     * Grunnlaget til suspensjonene er at de suspenderte «motarbeider styret» gjennom å oppfordre folk til å kreve ekstraordinært landsmøte.
       Dette har vi full anledning til ihht vedtektene.
@@ -61,7 +61,7 @@ Sekretariatet anser at de kan gjøre dette uten noe sentralstyrevedtak; det virk
 Ihht styrereferatet virker imidlertid årsaken å være av politisk karakter: «Problemet med norske hostingtilbydere er at de er litt for flinke til å sensurere (etter vår smak).
 Islandske hostetilbydere, derimot, sperrer ingenting med mindre det ligger en rettskraftig dom til grunn».
 Vår kontaktperson hos vår norske leverandør ble oppmerksom på dette og [reagerte med vantro på dette referatet](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-01-07.dag-zetta.txt).
-Mailen ble aldri besvart, til tross for at det ble oppfordret til et møte i saken.
+Mailen hans ble aldri besvart, til tross for at det ble oppfordret til et møte i saken.
 28. februar, to timer før månedsskifte skriver generalsekretæren [mail med oppsigelse fra og med månedsskiftet](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-02-28.kleppe.txt).
 Dette resulterte i en ganske [krass mail](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-03-01.dag-zetta.txt) tilbake fra norsk leverandør.
 Pr 2017-03-02 er gammel infrastruktur fortsatt inntakt – heldigvis!
@@ -88,7 +88,7 @@ Altså:
 
 At tidligere organisasjonssekretær etterlot seg mye rot og kaos som måtte ryddes i, er det ingen tvil om - men at man etter to år fortsatt skylder på underslaget for alt som er galt, det holder ikke.  Hadde man fra første stund fått et profesjonelt regnskapsbyrå til å se på saken, og hadde man holdt et godt samarbeid med dette firmaet, så hadde antageligvis underslaget vært et lukket kapittel allerede sommeren 2015.  Nå har man byttet regnskapsfirma to ganger allerede, én revisor har også kastet kortene - det er vanskelig å tro at dette bare skyldes underslaget i seg selv.
 
-I 2014 og begynnelsen av 2015 var det organisajonssekretærens tante (!) som førte regnskapet.  Hun var ansatt i et bygningsfirma.  Ihht lovverket skal man ha autorisasjon fra myndighetene før man fører regnskap for andre - dette bygningsfirmaet hadde ikke noen slik autorisasjon.  I et nyoppstartet parti uten midler er det forståelig at man lener seg på personlige kontakter og velger billige løsninger.  I etterpåklokskapens lys skulle man selvfølgelig ha avviklet avtalen med bygningsfirmaet og søkt kompetent og profesjonell hjelp umiddelbart etter at organisasjonssekretæren forsvant.
+I 2014 og begynnelsen av 2015 var det organisajonssekretærens kusine (!) som førte regnskapet.  Hun var ansatt i et bygningsfirma.  Ihht lovverket skal man ha autorisasjon fra myndighetene før man fører regnskap for andre - dette bygningsfirmaet hadde ikke noen slik autorisasjon.  I et nyoppstartet parti uten midler er det forståelig at man lener seg på personlige kontakter og velger billige løsninger.  I etterpåklokskapens lys skulle man selvfølgelig ha avviklet avtalen med bygningsfirmaet og søkt kompetent og profesjonell hjelp umiddelbart etter at organisasjonssekretæren forsvant.
 
 I oktober 2015 begynte det å skje ting med regnskapssituasjonen:
 
@@ -143,8 +143,7 @@ Mer detaljer enn dette er ikke tilgjengelig for det allminnelige medlem.
 Hadde detaljene vært åpent tilgjengelig, eller om vi hadde hatt noe vis å kontrollere det på, hadde vi ikke hatt behov for å forholde oss til løse påstander og rykter.
 
 Mer enn hundre tusen kroner har gått til å bestille varer og tjenester fra enkeltmannsforetaket «GC TRADE ANDERS KLEPPE» (org.nr. 917 432 430) i 2016.
-Det behøver ikke være noe galt i dette, men det må være full åpenhet om slikt.
-Det tar seg heller ikke bra ut at Piratpartiet bestiller varer gjennom et privat foretak som er registrert på en sentral person i partiet.
+Det behøver ikke være noe galt i at generalsekretæren selger varer og tjenester til partiet gjennom et enkeltmannsforetak, men det tar seg ikke godt ut - det må i allefall være full åpenhet om slikt.
 
 En god del av underslaget skjedde i begynnelsen av 2015, eller dukket opp i form av regninger i begynnelsen av 2015.
 Burde ikke regnskapet si noe om størrelsen på underslaget?
