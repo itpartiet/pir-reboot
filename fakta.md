@@ -76,7 +76,7 @@ Altså:
     * ... og dette uten noen som helst saklig grunn
     * ... og også uten at det foreligger noe vedtak på dette
 * Flytten medfører foruten masse arbeid for sekretariatet også betydelig risiko for driftsavvik
-* Flytten medfører også betydelig risiko for at ting rett og slett faller bort – og her holdt ting på å gå veldig galt: generalsekretær gjorde (bevisst eller ubevisst) et alvorlig forsøk på å ta ned wiki, pad, DNS-server (1/2), samt slette mengder av historiske videoopptak og lignende natt til 1. mars.
+* Flytten medfører også betydelig risiko for at ting rett og slett faller bort – og her holdt ting på å gå veldig galt: generalsekretær gjorde (bevisst eller ubevisst) tilsynelatende et alvorlig forsøk på å ta ned wiki, pad, DNS-server (1/2), samt slette mengder av historiske videoopptak og lignende natt til 1. mars.
   Vi i «pir-reboot» har sørget for at ferske backups er tilgjengelig, vi er i stand til å ta opp tjenestene igjen på kort varsel.
   DNS-server som bare forsvinner kan jo medføre en del sure oppgulp fra sympatisører og potensielle velgere; selv om det bare er snakk om én av to servere vil mange kunne oppleve «ustabilt internett» pga dette.
 * Leverandøren føler seg fornærmet i sentralstyrereferatet, og får ikke svar på mail.
