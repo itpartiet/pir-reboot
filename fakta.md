@@ -42,7 +42,7 @@ Dette er ikke løse påstander, dette er fakta:
   Årsmøteinnkallelser og lister kan bli erklært ugyldige dersom sentralstyret velger å forbigå lovlig valgte lokallag.
 * Sentralstyret har valgt å suspendere Øyvind A. Holm, Tobias Brox, Ståle Olsen, Øyvind Nondal og Bjørn Gotheim.
   Dette regnes som fakta og er dokumentert i [referatet](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497) fra et hastemøte i sentralstyret 2017-02-17 som generalsekretæren sendte ut innkalling til dagen før.
-  Generalsekretæren anbefalte i denne mailen å iverksette en suspensjon i henhold til [vedtektenes](https://www.piratpartiet.no/partiet/vedtekter/) §13.4 av de fem personene som undertegnet [mailen](orginalmail.txt) som ble sendt ut til partiets medlemmer 2017-02-14.
+  Generalsekretæren anbefalte i denne mailen å iverksette en suspensjon i henhold til [vedtektenes](https://www.piratpartiet.no/partiet/vedtekter/) §13.4 av de fem personene som undertegnet [mailen](originalmail.txt) som ble sendt ut til partiets medlemmer 2017-02-14.
     * Grunnlaget til suspensjonene er at de suspenderte «motarbeider styret» gjennom å oppfordre folk til å kreve ekstraordinært landsmøte.
       Dette har vi full anledning til ihht vedtektene.
       Mistillit til sittende styre er ikke gyldig eksklusjonsgrunnlag ihht vedtektene; vi ønsker ikke å *motarbeide* styre og sekretæriat, vi ønsker *å få byttet ut* styre og sekretæriat.

@@ -3,7 +3,7 @@ Piratpartiet v2.0
 
 Dette er en samling med dokumenter relatert til «rebooten» av Piratpartiet Norge som er iverksatt av en gruppe desillusjonerte sentrale medlemmer som har vært med siden Piratpartiets spede begynnelse i 2012.
 
-Etter stor frustrasjon på grunn av partiets jevne nedgang i antall medlemmer, aktivitet og politisk relevans, og gjentatte forsøk på å sette dette på dagsorden i partiet, ble det sendt ut en [mail](orginalmail.txt) 14. februar 2017 til tidligere og nåværende partimedlemmer.
+Etter stor frustrasjon på grunn av partiets jevne nedgang i antall medlemmer, aktivitet og politisk relevans, og gjentatte forsøk på å sette dette på dagsorden i partiet, ble det sendt ut en [mail](originalmail.txt) 14. februar 2017 til tidligere og nåværende partimedlemmer.
 Mailen tok for seg denne problemstillingen, og medlemmene ble oppfordret til å kreve ekstraordinært landsmøte for å kaste det nåværende styre og generalsekretær.
 
 Sentralstyret i partiet reagerte med en øyeblikkelig suspensjon av de fem medlemmene som skrev under på denne mailen, noe som førte til at flere tungvektere innen partiet som hittil hadde sittet på gjerdet tok til motmæle mot suspensjonene og måten de ble utført på.
