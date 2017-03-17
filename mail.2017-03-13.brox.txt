@@ -1,0 +1,49 @@
+Date: Mon, 13 Mar 2017 11:15:48 +0100
+From: Tobias Brox <tobias@tobixen.no>
+To: Anders Kleppe - Piratpartiet <anders@piratpartiet.no>
+Subject: Re: Mistillitt i piratpartiet - oppdatering
+
+[Anders Kleppe - Piratpartiet @ 2017-03-11 12:50]
+> Det er TO Landsmøter som har vært 100% enig i at de to siste styrene skulle få fred til å rydde opp i totalt kaos og konkurstrussel som oppstod for to år siden. 
+
+... dessverre er referatet fra landsmøtene ikke tilgjengelig, men jeg kan ikke huske at det ble fattet noe vedtak av typen "sentralstyret og sekretariatet skal få leve sitt eget liv og skjermes for all kritikk frem til mai 2017".
+
+Hvis vi hadde visst at det skulle ta TO ÅR å rydde opp i kaoset, så hadde vi ganske sikkert funnet noen andre til å ta på seg jobben.  At organisasjonssekretæren hadde forduftet sammen med større mengder penger, masse bilag, og en ukjent mengde innkommende regninger var en god unskyldning for at ting ikke var helt på stell i 2015.  I 2017 er dette en meget tynnslitt unnskyldning, den er brukt opp.  Jeg er ganske sikker på at "utro tjener stikker av med midler og bilag" ikke er en unik sak som aldri har skjedd før.
+
+> Dere bør gå i dere selv å tenke nøye gjennom at dere har bidratt til at Piratpartiet i år har tatt et tap på ca 330.000,- NOK fordi dere ikke klarer å vente på et ordinært LM.  
+
+Ved å rote i offentlige postjournaler har vi funnet ut at partistøtten er avkortet med 10% fordi revisjonsplikten for 2015 ikke er overholdt.
+
+Jeg tror du roter i årsak/virkningsforhold her.  Noe av bakgrunnen for mistillitten er at sekretariatet ikke greier å få regnskapene ferdigstilt og revisorgodkjent - det er ikke slik at regnskapene ikke blir revisorgodkjent fordi vi har mistillitt til sekretariatet.  Ansvaret for å få regnskapene revidert ligger på sekretariatet og styret alene, helt uavhengig av pågående mistillitserklæringer.
+
+Informasjonsflyten om fremgang har vært minimal.  Et av prinsippene Piratpartiet hviler på er full åpenhet.  Lys og åpenhet motvirker korrupsjon og underslag, mørke kroker og mangel på informasjon oppfordrer til korrupsjon og underslag.  Jeg ser det som helt legitimt, faktisk en nødvendighet å spørre om midlene blir godt forvaltet når det ikke foreligger konkrete opplysninger om hva midlene blir brukt til, og SÆRLIG når man i tillegg ikke greier å få ferdigstilt revisorgodkjente regnskap til de tidsfristene myndighetene har fastsatt.  Revisorplikten eksisterer av en veldig god grunn.  Uten revisorgodkjente regnskap er det helt legitimt å anta at det foregår snusk av kriminell art.
+
+Det er ikke småpenger partiet får inn i partistøtte.  Slik jeg ser det, finnes det ikke fnugg av bevis på at midlene faktisk går til noe som helst nyttig (partiet var langt mer vitalt, levende og stort _før_ vi begynte å få partistøtte), derimot finnes det bevis for at regnskapene ikke er blitt revisorgodkjent.  Grasroten har ikke engang blitt gjort kjent med hvor mye organisasjonssekretæren stakk av med i årsskiftet 2014/2015; det ryktes at det er snakk om et beløp i hundretusenklassen - det er strengt tatt småpenger sammenlignet med alt partiet har fått i partistøtte siden.  Det regnskapet for 2015 som lå ute på wiki'en for litt siden viste at vi hadde ca en million i  "annen driftskostnad" uten at det var mer spesifisert enn dét.  Nå er til og med dette utilgjengelig.
+
+> Jeg må si at de som har krevd EOLM virker totalt uvitende om historien til de to siste styrene og også hva disse styrene har gjort. 
+
+Ja, vi er rimelig uvitende - særlig om hva som er blitt gjort i nåværende styreperiode.  Det er tilnærmet ingen referatført virksomhet fra mars til november 2016.
+
+> Det mangler også totalt dokumentasjon på falske påstander om styret og generalsekretær. Les Piratkodeksen! 
+
+Utsnitt av piratkodeksen er tilgjengeliggjort i https://gitlab.com/pir-reboot/pir-reboot/blob/master/fakta.md - konkret, de utsnittene vi mener sekretariatet og styret ikke later til å ha fortstått.
+
+Du har helt rett i at mye av dokumentasjonen mangler - mye av dokumentasjonen fantes nemlig på wiki'en, og den fungerer ikke.  Hvorfor?
+
+Dersom noen av de udokumenterte påstandene våre faktisk ikke stemmer, så bør det jo være lett å motbevise dette.  Hadde åpenhet vært normen snarere enn unntaket, så hadde alt av påstander vært godt dokumentert eller ikke fremmet i det hele tatt.
+
+> Jeg anbefaler de gjeldende medlemmene å skjerpe seg kraftig og heller sette seg inn i fakta
+
+Jeg anbefaler også alle medlemmer å sette seg inn i de fakta, noen av dem ligger tilgjengelig på https://gitlab.com/pir-reboot/pir-reboot/blob/master/fakta.md
+
+-- 
+Tobias Brox - +47-91700050
+
+
+
+_______________________________________________
+piratdiskusjoner mailing list
+piratdiskusjoner@mailman.kunnskapsallmenning.no
+http://mailman.kunnskapsallmenning.no/mailman/listinfo/piratdiskusjoner
+
+
