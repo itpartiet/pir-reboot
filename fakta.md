@@ -71,7 +71,7 @@ Altså:
 
 * Sekretariatet bestemmer seg for å flytte IT-infrastruktur ...
     * ... til fremmed statsmakts jord
-    * ... til en leverandør som er tre ganger dyrere enn eksisterende leverandør
+    * ... til en leverandør som er tre ganger dyrere enn eksisterende leverandør ifht ressurser brukt (det kan hende at vi totalt sett betaler mindre nå, men kostnadsbesparelsen kunne vi nok også tatt ved å redusere ressursene hos Zetta)
     * ... fra en leverandør som tar betalt etterskuddsvis hver måned ifh ressurser vi bruker, til en leverandør som krever forhåndsbetalt/binding for flere år av gangen
     * ... og dette uten noen som helst saklig grunn
     * ... og også uten at det foreligger noe vedtak på dette
@@ -83,6 +83,17 @@ Altså:
 * Generalsekretæren antyder ovenfor leverandøren at personlige stridigheter er noe av bakgrunnen for leverandørbyttet («styret og administrasjonen må komme seg videre etter å ha stanget to år i veggen med dem som har inngått avtalen med Zetta») – dette er jo et internt problem som overhodet ikke angår leverandøren, og problemet er heller ikke særlig relevant ifht valg av leverandør.
 * Mulig avkorting av partistøtten fra mars er også antydet som årsak.
   Det er en nyhet som ikke er offentliggjort i andre kanaler.
+
+Vi ser nå at det er en hotelløsning som er valgt, wordpressinstansen vår deler IP-adresse med et femtitalls andre websider.
+Dette kan gi fordeler og kostnadsbesparelser og ville antageligvis være en god ting - om ikke medlemsdatabasen hadde blitt underlagt wordpressinstansen.
+Fra et sikkerhetsmessig ståsted er dette meget bekymringsverdig.
+
+Vi har hørt rykter om at generalsekretæren har valgt å flytte fordi han "ikke fikk tilgang" til de eksisterende serverene.
+Hvordan kan migreringen ha foregått dersom sekretariatet ikke hadde tilgang?
+Gorm ringte Tobias for et halvt år siden og ba om "administratorpassord".
+Tobias svarte da at han ikke hadde root-passordet, men at han kunne legge inn Gorm som bruker i systemene dersom Gorm sendte en ssh-nøkkel.
+Gorm sendte aldri noen ssh-nøkkel fra seg.
+Vi kan forsåvidt forstå at det kan være mulig å drifte wiki og wordpress fra en hotelløsning men ikke fra et VM dersom man mangler kunnskapen som skal til for å generere en ssh-nøkkel og logge seg inn med ssh.
 
 ## Underslagssaken og regnskapskaoset
 
