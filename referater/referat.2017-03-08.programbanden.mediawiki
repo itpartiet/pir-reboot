@@ -1,0 +1,77 @@
+=Møte i Programbanden til Piratpartiet=
+
+'''Stad:''' Mumble-server til Young Pirates EU, rom "Unge Pirater"
+
+'''Start:''' 21:00
+
+Frammøtte: Targeir Attestog (leiar) - fungerte som møteleiar og referent på same tid
+Asbjørn Ulsberg
+Thomas Gramstad (frammøtt frå klokka 21:10)
+Anders Kleppe (observatør i komitéen, for han er partisekretær; frammøtt fram til klokka 21:22)
+
+Meldt om fråfall: Geir Martin Ohna
+
+Anders meiner at GitHub ikkje er eigna til bruk for vanlege folk. 
+
+Asbjørn meiner at Git er bra for å vise kor i teksten det er gjort endringar.
+Anders er einig med Asbjørn, men er einig i at GitHub er for vanskeleg for ikkje-teknikarar å bruke.
+
+Thomas kjem klokka 21:10.
+
+Asbjørn: Vi må ha verktøy for å gjere jobben enklast muleg.
+Asbjørn: Unikt løpenummer for forslag for diskusjon i andre kanalar.
+Den type kilde til sanning finst ikkje andre stader, og vi må lage forslagnummer manuelt.
+
+Anders: Ikkje rekne med at folk kjem med endringsforslag på GitHub.
+Asbjørn: Kan lære opp folk med video for å bruke GitHub. Han spør Anders om det er heilt utopisk?
+
+Anders: Vi må ikkje kaste bort tida til styret og sekretariatet.
+
+Anders går frå møtet 21:22.
+
+Thomas meiner at det er terskel for å lære seg å bruke wikien, og også GitHub.
+
+GitLab blir nemnt.
+Asbjørn seier at det er Open Source. Ein episode nyleg der mykje data blei tapt.
+For risikabelt meiner Asbjørn og Targeir.
+
+Vi prøver med GitHub for organisering internt i Programbanden, og Reddit for diskusjon blant medlemmar. Folk kan også kommentere forslag på e-post til programbanden@piratpartiet.no.
+Targeir og Asbjørn tar ansvar for at GitHub fungerer. Geir er også positivt innstilt til GitHub, og vil bidra også til at det fungerer. Thomas ønskjer å berre hjelpe til med å kommentere forslag som kjem inn fram mot landsmøtet, og vurdere å bli med på bruk av GitHub etter landsmøtet.
+
+Asbjørn skal lage video-tutorial. Han har laga det med tekst.
+
+Asbjørn foreslår opplæring av Targeir i GitHub i morgon klokka 21.
+
+Vi som er til stades synest at Targeir sitt omstruktureringsforslag er ryddig, men er naturlegvis omfatande.
+
+Targeir opplyser om at ting vi ikkje rekk å ta opp på landsmøtet i Bergen i mai, tar vi ved behov opp på ekstraordinære landsmøtet i Arendal i august.
+
+Piratkodeksen inn i kjerneprogrammet: Thomas er positiv.
+
+Targeir diskuterer introduksjonsomstrukturering. Thomas og Asbjørn er einige i forslaga.
+
+TIV5: Einig. Kanskje bytte ut "siden" med "da".
+
+Asbjørn: Kva kan vi endre sjølv ved korrektur?
+Targeir: Vi kan kanskje endre rekkjefølgje i konkret-liste, så lenge vi ikkje flyttar innhald til ann søyle.
+Vi kan rette skrivefeil.
+
+Diskusjon om Kenneth Poldens og Geir Martin Ohnas foslag om bevæpning av politiet. 
+Asbjørn: Kriminaliteten blir hardna. Prøve å finne kombinasjon av forslaget til Polden og Ohna.
+Thomas: Bør ha med utdjupingstekst frå Geir uansett i programmet.
+
+Fjerning av punkt om sletting av politiregister etter 10 år: Targeir påpeiker at det ikkje passar med anna punkt om forfølging av korrupsjon 20 år tilbake i tid. Vi må diskutere det med sletting av politiregister, slik at det blir gjennomtenkt. Greitt med fjerningsforslag no, så vi kan diskutere det i ro seinare.
+
+Diskusjon om Hollunds Open Source. Er snakk om presisering, så forslaget er greitt for oss i komitéen.
+
+Thomas støttar kombinasjon av ulike endringsforslag for utdanning frå Targeir og Rune Mathisen.
+
+Diskusjon av TiV3 om offentleg finansiert forsking: Alle tre igjen på møtet meiner at det er punkt som må inn.
+
+Vi tar ein rask prat om valprogramforslag og blir einige om å prate meir om det på neste møte.
+Vi meiner at vi sannsynlegvis bør vente med forslaga frå Morten Olsen i Næringspartiet til etter landsmøtet i Bergen og ta det opp i Arendal i august. Dei treng god tid på behandling.
+
+På neste møte må vi også bli einige om kva slags forslag som skal prioriterast.
+Vi håper at nokre av dei minste endringane kan bli sett på som retting av skrivefeil, som vi ikkje treng å bruke tid på på landsmøtet.
+
+Slutt: 22:20
