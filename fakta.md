@@ -15,21 +15,6 @@ På grunn av manglende åpenhet i partiet er det enkelte punkter som vi ikke har
 Vi er takknemlige for informasjon og dokumentasjon som kan hjelpe oss å avklare dette.
 Ikke minst er vi veldig interesserte i informasjon som kan avkrefte mistanker som er presentert her i henhold til driften av partiet.
 
-## Piratkodeks og kjerneprogram
-
-Her kommer noen utdrag fra [Piratkodeksen](https://www.piratpartiet.no/kjerneprogrammet/politikken-fra-a-til-a/piratkodeksen/) og [kjerneprogrammet](https://www.piratpartiet.no/kjerneprogrammet/):
-
-* Pirater misliker blind lydighet.
-* Pirater lærer av sine feil.
-* Pirater er rettferdige
-* Pirater ivrer etter kunnskap
-* Piratpartiet vil etablere demokratiske spilleregler som er tilpasset informasjonsalderen.
-* Piratpartiet vil at borgere skal ha tilgang til all relevant informasjon for å kunne ta informerte beslutninger, og for å utføre nødvendig tilsyn med statsadministrasjonen.
-* Tidligere avgjørelser gjort av Piratpartiet er alltid åpne for endringer.
-* En enkeltpersons rett til å være informert skal aldri forhindres.
-
-Etterlever styre og sekretariat disse punktene?
-
 ## Konkrete anklager
 
 Sentralstyret og sekretariatet burde vise litt ydmykhet når rundt 20% av medlemmene bekrefter mistillit.
@@ -177,3 +162,18 @@ Piratpartiet var langt mer vitalt i 2013, da vi ikke hadde signifikante inntekte
 Om forbruket har vært hensiktsmessig eller ikke er uansett av underordnet betydning, poenget er at vi burde hatt full åpenhet om økonomien fra dag én.
 I kjølvannet av underslagssaken ble det lovet at man skulle få nye og bedre rutiner på økonomi, men er det gjort noen som helst endringer?
 Finnes det andre enn generalsekretæren som har full kontroll og innsyn over økonomien?
+
+## Piratkodeks og kjerneprogram
+
+Her kommer noen utdrag fra [Piratkodeksen](https://www.piratpartiet.no/kjerneprogrammet/politikken-fra-a-til-a/piratkodeksen/) og [kjerneprogrammet](https://www.piratpartiet.no/kjerneprogrammet/):
+
+* Pirater misliker blind lydighet.
+* Pirater lærer av sine feil.
+* Pirater er rettferdige
+* Pirater ivrer etter kunnskap
+* Piratpartiet vil etablere demokratiske spilleregler som er tilpasset informasjonsalderen.
+* Piratpartiet vil at borgere skal ha tilgang til all relevant informasjon for å kunne ta informerte beslutninger, og for å utføre nødvendig tilsyn med statsadministrasjonen.
+* Tidligere avgjørelser gjort av Piratpartiet er alltid åpne for endringer.
+* En enkeltpersons rett til å være informert skal aldri forhindres.
+
+Etterlever styre og sekretariat disse punktene?
