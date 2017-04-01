@@ -35,8 +35,12 @@ Dette er ikke løse påstander, dette er fakta:
     * Mange av de som krever ekstraordinært landsmøte gjør det pga suspensjonene.
     * Sentralstyret har ikke revurdert sitt ståsted, men vil *vurdere* å *midlertidig* oppheve suspensjonene dersom vi ringer generalsekretæren og utfører arbeid på hans instrukser, ref [møtereferat](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-23) og [mail sendt til de suspenderte](mail.2017-02-24.gorm-hanssen.mulig-oppheving-av-suspensjon.txt).
       Det er ikke akseptabelt.
-* Sekretariatet nekter å opplyse om hvor mange medlemmer partiet har, ref [mailtråd mellom generalsekretær og Nondal](mail.2017-02-22.anders-kleppe.txt).
+* Sekretariatet nektet å opplyse om hvor mange medlemmer partiet har, ref [mailtråd mellom generalsekretær og Nondal](mail.2017-02-22.anders-kleppe.txt).
 * Sentralstyret nekter å rette seg etter et legitimt krav om ekstraordinært landsmøte.
+* I en tid hvor alt fokus burde ha ligget på å tilrettelegge for listeinnlevering i landets 19 fylker har sentralstyret og sekretariatet i stedet brukt svært mye av sin tid og krefter på å sabotere arbeidet for Hordaland og Oslo.  Aldri før har listearbeidet vært så dårlig koordinert som i år, antageligvis stiller vi lister i færre fylker enn i lokalvalget 2015.
+  Pad'en ble flittig brukt i koordineringsarbeidet både i 2013 og i 2015, i hele mars 2017 var pad'en nede som følge av flyttingen til Island.
+  Kenneth Polden skriver på [Facebook](facebook.pdf) at det helt og holdent er vår feil at vi ikke er i stand til å stille med lister i landets 19 fylker i år.
+* Til tross for at Oslo og Hordaland har vært svært åpne på at de har jobbet med valglister, har sentralstyret valgt å levere inn alternative lister i Hordaland og Oslo.  Dette må ha kostet mye tid og ressurser, det er fullstendig meningsløst og skader partiet.
 * Vanlige medlemmer og tillitsvalgte utenom sentralstyret har svært begrenset innsynsrett i partiets økonomiske disposisjoner.
 
 ## Skandaløs IT-flytting
@@ -61,6 +65,7 @@ Altså:
     * ... og dette uten noen som helst saklig grunn
     * ... og også uten at det foreligger noe vedtak på dette
 * Flytten medfører foruten masse arbeid for sekretariatet også betydelig risiko for driftsavvik
+* Ryktene har det til at "vi" får skylden for mye av problemene med flytten, fordi vi ikke hadde vilje til å hjelpe til.  Hvorfor skulle vi hjelpe til med å utføre en flytt som vi anser som totalt meningsløs?  Har "vi" blitt spurt om å hjelpe til?
 * Flytten medfører også betydelig risiko for at ting rett og slett faller bort – og her holdt ting på å gå veldig galt: generalsekretær gjorde (bevisst eller ubevisst) tilsynelatende et alvorlig forsøk på å ta ned wiki, pad, DNS-server (1/2), samt slette mengder av historiske videoopptak og lignende natt til 1. mars.
   Vi i «pir-reboot» har sørget for at ferske backups er tilgjengelig, vi er i stand til å ta opp tjenestene igjen på kort varsel.
   DNS-server som bare forsvinner kan jo medføre en del sure oppgulp fra sympatisører og potensielle velgere; selv om det bare er snakk om én av to servere vil mange kunne oppleve «ustabilt internett» pga dette.
@@ -70,10 +75,11 @@ Altså:
   Det er en nyhet som ikke er offentliggjort i andre kanaler.
 
 Vi ser nå at det er en hotelløsning som er valgt, wordpressinstansen vår deler IP-adresse med et femtitalls andre websider.
-Dette kan gi fordeler og kostnadsbesparelser og ville antageligvis være en god ting - om ikke medlemsdatabasen hadde blitt underlagt wordpressinstansen.
-Fra et sikkerhetsmessig ståsted er dette meget bekymringsverdig.
+Dette kan gi fordeler og kostnadsbesparelser, det er ikke dumt å bruke en hotelleverandør når man først leverer websidene fra en standard wordpressinstallasjon.
+Medlemsdatabasen, som er å regne som personvernsensitiv informasjon ligger imidlertid under Wordpress.  Fra et sikkerhetsmessig ståsted er dette meget bekymringsverdig - og at det nå i tillegg ligger på et webhotell hjelper ikke på.
 
 Vi har hørt rykter om at generalsekretæren har valgt å flytte fordi han "ikke fikk tilgang" til de eksisterende serverene.
+Det fremkommer også i mailen til Zetta at intern krangel er hovedmotivasjonen for flytten.
 Hvordan kan migreringen ha foregått dersom sekretariatet ikke hadde tilgang?
 Gorm ringte Tobias for et halvt år siden og ba om "administratorpassord".
 Tobias svarte da at han ikke hadde root-passordet, men at han kunne legge inn Gorm som bruker i systemene dersom Gorm sendte en ssh-nøkkel.
@@ -94,11 +100,17 @@ I oktober 2015 begynte det å skje ting med regnskapssituasjonen:
 * Vi avsluttet forholdet med bygningsfirmaet.  Det fremkommer ikke konkret fra [referatet](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2015-10-15), men avslutningen var konfliktfylt, de krevde penger fra oss og generalsekretæren mente at vi heller skulle kreve penger fra dem.
 * [Mermista ble vår nye regnskapsfører](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2015-10-29)
 
-Det er ikke offisielt referatført noe sted, men bygningsfirmaet sendte oss faktura for utført arbeid, generalsekretæren mente at det ble krevd inn betaling for arbeid som ikke var utført, samt at det etter så mange forsinkelser ikke kunne komme på tale å betale såpass mye.  Bygningsfirmaet holdt på regnskap og bilag som "pant" eller "gissel" frem til regningen ble betalt.  Regningen var ikke astronomiske, vara var villig til å legge ut dersom det hadde avhjulpet situasjonen.  Vi vet ikke fasit, men med den informasjonen vi (de av oss i pir-reboot som også satt i sentralstyret) satt på virket det som rimelig å anta at vi endelig kunne bli ferdige med regnskapet for 2014 dersom vi betalte denne regningen, og at hovedproblemet nå var sklidd over fra å være forsinkelser fra regnskapsfører til å være konflikt mellom regnskapsfører og generalsekretær.  Dersom generalsekretæren faktisk hadde rett i at regningen ikke var legitim så ville det fortsatt vært en mulighet å betale for å få tilgang til filene, samtidig som at man anfører at man er uenig i kravet og forbeholder seg retten å komme med motregning og ta kravet til forliksråd.
+Det er ikke offisielt referatført noe sted, men bygningsfirmaet sendte oss faktura for utført arbeid, generalsekretæren mente at det ble krevd inn betaling for arbeid som ikke var utført, samt at det etter så mange forsinkelser ikke kunne komme på tale å betale såpass mye.  Bygningsfirmaet holdt på regnskap og bilag som "pant" eller "gissel" frem til regningen ble betalt.  Regningen var ikke astronomiske, tredjevara var villig til å legge ut dersom det hadde avhjulpet situasjonen.  Generalsekretæren hisset seg veldig opp, tredjevara fikk veldig mye kjeft for å blande seg inn i ting han ikke hadde kompetanse til å vite noe om, så han fikk viljen sin: vi betalte ikke noe og begynte med blanke ark hos ny regnskapsfører.  Vi vet ikke fasit, men med den informasjonen vi (de av oss i pir-reboot som også satt i sentralstyret) satt på virket det som rimelig å anta at vi endelig kunne bli ferdige med regnskapet for 2014 dersom vi betalte denne regningen, og at hovedproblemet nå var sklidd over fra å være forsinkelser fra regnskapsfører til å være konflikt mellom regnskapsfører og generalsekretær.  Dersom generalsekretæren faktisk hadde rett i at regningen ikke var legitim så ville det fortsatt vært en mulighet å betale for å få tilgang til filene, samtidig som at man anfører at man er uenig i kravet og forbeholder seg retten å komme med motregning og ta kravet til forliksråd.
 
 Vi beholdt heller ikke Mermista som regningsfører, hvorfor?
 
 En revisor gav opp og trakk seg etter å ha forsøkt å revidere regnskapene - hvorfor?
+
+I månedsskiftet februar/mars blir det vedtatt at partistøtten vår blir redusert med 10% for 2017 som følge av at sekretariatet enda ikke har vært i stand til å levere revisorgodkjente regnskap for 2014, 2015 og 2016.
+Dette fikk vi første gang nyss i gjennom [mail fra generalsekretæren 2017-03-11](mail.2017-03-11.kleppe.txt).
+Eksakt referat:
+«Dere bør gå i dere selv å tenke nøye gjennom at dere har bidratt til at Piratpartiet i år har tatt et tap på ca 330.000,- NOK fordi dere ikke klarer å vente på et ordinært LM».
+For å få tak i selve vedtaket måtte vi be om innsyn i offentlige postjournaler.
 
 ## Vedtekter og ekstraordinært landsmøte
 
@@ -117,14 +129,14 @@ Kravet om ekstraordinært landsmøte er i såfall absolutt, unnlatelse er i stri
 
 I følge [wiki](https://wiki.piratpartiet.no/index.php?title=Sentralstyret) hadde sentralstyret ukentlige møter frem til og med 2016-03-17 – dette var konstituerende møte for det nye sentralstyret.
 Det ble vedtatt å møtes fysisk ei helg.
-Vara ble ikke invitert.
+Tredjevara ble ikke invitert.
 Møtet ble ihht wiki'en avholdt i uke 14 2016, men det finnes ikke noe referat.
 
 Så finnes det et [referat fra 2016-08-31](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2016-08-31).
 Ett av punktene i referatet er «oppsummering av sentralstyrets arbeid de tre siste månedene».
 Tale har skrevet noe som hun ikke fikk publisert og som nå regnes som utdatert, noe flikking på nyhetsbrevabonnementsystem, og Gorm har holdt lokalt årsmøte i Trondheim.
 Kort fortalt: ingen synlig sentralstyreaktivitet mellom 2016-03-17 og 2016-08-31.
-I neste avsnitt skryter Raymond over hvor mye som er blitt utrettet og hvor flinke sentralstyret har vært med kommunikasjon, samt hvor god chatløsning vi har – dette til tross for at det ikke finnes noen referater eller synlig aktivitet fra perioden, varamedlemmer som har blitt holdt utenfor.
+I neste avsnitt skryter Raymond over hvor mye som er blitt utrettet og hvor flinke sentralstyret har vært med kommunikasjon, samt hvor god chatløsning vi har – dette til tross for at det ikke finnes noen referater eller synlig aktivitet fra perioden, samt varamedlemmer som har blitt holdt utenfor.
 Har det vært gjort forsøk på å få Manuel inn på nevnte chatløsning?
 Rett etterpå kan vi lese i referatet at man trenger en klar plan for internkommunikasjon, samt valg av chatsystem – var «observasjonen» fra Raymond seriøst ment?
 
