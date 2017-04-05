@@ -1,0 +1,88 @@
+=Møtereferat for Programbanden i Piratpartiet den 13. mars 2017=
+
+'''Oppmøtte:''' Targeir Attestog (leiar og møteleiar), Anders Kleppe (observatør og partisekretær), Asbjørn Ulsberg, Thomas Gramstad, Geir Martin Ohna (referent)
+
+'''Sted:''' Mumble-server til Young Pirates EU, rom: «Unge Pirater»
+
+'''Start:''' 21:30
+
+'''Slutt:''' 23:30
+
+
+==Diskusjon om bruk av wiki==
+
+Targeir: Hvorfor Wiki?
+
+Anders: I enhver organisasjon må du ha eller annen form for administrasjon, en administrasjon har en langsiktige perspektiv, en administrasjon skal sørge for at Piratpartiet kan ha interraksjon med alle. Det er piraters løsslupne bruk av kommuniasjon og protokolløfring som har ført til en del av kaoset i partiet. Det er viktig å bygge opp det organisatoriske, slik at vi har et fundament å bruke til å engasjere de riktige folkene, og etter hvert kunne være med å påvirke lovgiving. Det må aksepteres at vi smales rundt en felles plattform, slik at vi kjenner våre verktøy godt.
+
+
+Det er virksomhetskritisk at vi bruker samme rutiner, som også forstås av alle medlemmer. Vi har som parti vært innom flere tjenester, og vi sitter igjen med lite dokumentasjon og mye rot i partiarbeidet. Det må også være hensikten og samarbeide med administrasjon, og ta kritikk i rette fora og i henhold.
+
+Wiki-lenker godtas av offentlige myndigheter, noe GitHub for eksempel ikke gjør, for arbeid på GitHub må konverteres til wiki for at sentralstyret skal få sendt dokumentasjon til myndigheter, slik at vi får støtte vi har krav på.
+
+==Hva er programbanden?==
+
+Anders: Det arbeidet programbanden gjør, er å kvalitetssikre programforslag. Programbanden gjør både politisk arbeid og organisatorisk arbeid. Sentralstyret er organisatorisk, og skal samle arbeidet til alle pirater og organisere arbeidet slik at vi får effekt.
+
+Strukturen til sekretariatet og programbanden ifølge Anders: Programbanden må vise til program og vedtekter, naturligvis. Det er akseptert regelverk for å drive en organisasjon. Mange myndigheter krever lenker til vedtekter og program. Vedtektene og programmet må være forståelig for myndighetene. Sekretariatet er bindeleddet mellom myndighetene og vedtektene/programmet. Programbandens ansvar å holde orden på programmet ved kvalitetssikring.
+
+Til landsmøtet 2017 er det for eksempel behov for å fjerne en problematiskvedtekt, som i praksis har ført at vi har blitt regnet som et kommunistisk parti.
+
+==Sidespor i diskusjonen: Ny nettlevarandør for Piratpartiet==
+
+Anders: Er den nye nettleverandøravtalen gunstigere? Det er ikke sikkert det er gunstigere, men vi trenger full tilgang, noe gammel leverandør ikke ville gi, slik at vi i driftsstans mister alt. Det er på kort sikt ikke billigere på grunn av at flytting av data er dyrt, men på lang sikt vil det blir rimeligere, cirka 3000 norske kroner mindre i måneden. Island er for nå en billig havn, og vil mest sannsynlig være det i lang tid på grunn av kronekurs. Mer detaljer blir gitt på LM17. 
+
+Targeir: Det må nevnes at det er folk som tror at ny nettleverandør er dyr fordi de ikke har tenkt på at en islandsk krone er verdt 8 norske øre.
+
+Hva kan programbanden gjøre av endringer i program uten avstemning fra medlemmer?
+Anders: Redaksjonelle endringer er lov, også nyformuleringer så lenge de ikke endrer på meningen til den orginale teksten. Lettere omstrukturering er lov, men burde holdes til et minimum. Rekkefølge på punkt i en «Piratpartiet vil konkret»-liste kan endres og til og med flyttes over til en annen «... konkret»-liste i kjerneprogrammet. Oppretting av to nye søyler og flytting av innhold dit, slik Targeir Attestog foreslår det, må bli tatt opp på landsmøtet.
+
+Kan de relevante punktene til «Piratpartiet vil konkret» flyttes til valgprogram? Piratpartiet er eit prosessparti, ikke ett konkret parti. Vi skal revolusjonere de politiske prosessene.
+
+==Diskusjon om forslag til kjerneprogram== 
+
+Kenneth Polden forslår å fjerne punktet om seksualundervisning, da vi har grei undervisning i naturfag fra før.
+
+Anders: Et slikt programpunkt er ikke noe for Piratpartiet, da det blir for konkret. Vi skal heller jobbe for å lage en god ramme i skolen, som naturlig sikre at elever lærer det de har behov for.
+
+
+==Diskusjon om forslag til valgprogram==
+
+
+===Narkotikalovgivning===
+Geir Martin: Viktig å endre synet fra justis til helsepolitisk, da politi ikke har noe med rusmisbruk å gjøre.  Anders er enig i det.
+
+Asbjørn: Enig i at det burde baseres på vitenskap og skadereduksjon.
+
+Thomas: Har hatt et tidligere forslag om alkohol, tobakk og narkotika, der disse er underlagt produktkontrolloven. Få alle rusmidler inn under produktkontrollloven kanskje?
+
+Det skal samarbeides mer på eit godt forslag med Anders, Geir Martin , Asbjørn og Thomas. Targeir innrømmer at han ikke har så kompetanse på ruspolitikk.
+
+===Sidespor om direkte demokrati===
+Piratpartiet er ikke for at alt skal være folkeavstemning, men at det i mye større grad må brukes folkeavstemning enn idag.
+
+===Ishallforslag===
+Anders: Forslaget må formuleres mindre konkret og mer generelt. Vi bør kanskje heller skrive i valgprogrammet at vi fokuserer på å forbedre idrettsinfrastruktur. Vi må ikke bruke konkrete tall.
+
+Targeir og Geir Martin: Vi må kke nevne kroner og antall i programmet.
+
+Thomas: Hvis alle kommer med hjertesaker, så vil programmet bli en laupskaus av hjertesaker for medlemmer i partiet, og tilfeldig. Bedre med en prinsipielt standpunkt for idrettsinfrastruktur. Ishaller kan brukes som eksempel for å forklare en mer generell tilnærming til idrettsinfrastruktur.
+
+===Forslag fra Næringspartiet===
+Morten Olsen har sendt programbanden programforslag i blant annet kommunesammenslåing, EU og generell næringspolitikk, forenkling av byråkrati , fordi hans parti Næringspartiet ikke greide å samle underskirfter i tide for stortingsvalg i 2017:
+
+Targeirs forslag er at vi avventer med disse forslagene til etter landsmøtet.
+
+Anders: Vi burde bruke vår egen politikk, vi har teknologi som gjør at vi kan bruke virtuelle grenser, feks at man digitalt kan endre sitt sjukehus, og skattekommune. Virtuelle grenser, som kan flyttes etter innbyggerens behov.
+
+Thomas: Muligheter for telemedisin, derav behov for en mer pirataktig politikk enn næringspartiet sitt.
+
+==Avslutning av møte==
+
+Ekstraordinært landsmøte i Arendalsuka i august er hensiktsmessig, og vi vil prøve å få til vedtak om dette på landsmøtet i Bergen i mai, slik at vi kan restbehandle programsaker før stortingsvalget.
+
+
+Dette var eit fint møte, og vi fikk diskutert mange saker godt.
+
+
+Vedtatt ensteming: Tid for neste møte:  Mandag 20. mars kl 21:30 på Mumble, i samme rom.
