@@ -47,7 +47,7 @@ Dette er ikke løse påstander, dette er fakta:
 
 ## Doble valglister
 
-Generalsekretærens har en personlig vendetta på gang mot to fylkeslag.  Han har skrevet at han [kommer til å gjøre alt som står i sin makt](mail.2017-04-01.kleppe.txt) for å få listeforslaget fra Hordaland fylkeslag og [listeforslaget fra Oslo fylkeslag](valglister/valgliste-oslo-piratparti-2017.pdf) underkjent.  Er dette i partiets interesse?
+Generalsekretærens har en personlig vendetta på gang mot to fylkeslag.  Han har skrevet at han [kommer til å gjøre alt som står i sin makt](mail.2017-04-01.kleppe.txt) for å få [listeforslaget fra Hordaland fylkeslag](valglister/valglister-hordaland.pdf) og [listeforslaget fra Oslo fylkeslag](valglister/valgliste-oslo-piratparti-2017.pdf) underkjent.  Er dette i partiets interesse?
 
 Det er blitt levert inn alternative lister i Oslo og Hordaland.  Første forsøk på å levere den [alternative listen i Oslo](valglister/valgliste-oslo-kleppe-2017.pdf) ble gjort 11:57, første forsøk var ikke iht. formkrav, manglet signaturer og var ikke levert på papir.  Lista inneholder ingen Oslonavn.  Valgmedarbeiderene ble lovet at papirkopi med signaturer skulle komme ila helga - det er blitt gjort en ringekampanje gjennom hele helga og mandagen for å få tak i folk i Oslo som kunne ta på seg jobben å signere lista.
 
