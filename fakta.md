@@ -1,9 +1,4 @@
-TLDR?
-Les [kortversjonen](fakta-kort.txt) som ble sendt som epost til piratdiskusjoner-mailinglisten samt Middelthuns midlertidige styremedlemsliste.
-
 # Hva skjer i Piratpartiet - 2.0
-
-(Se også [forrige nyhetsbrev](tobias-kort.md))
 
 Dette dokumentet inneholder fakta og status omkring ting i Piratpartiet som det stilles spørsmål ved, og som er medvirkende årsaker til at kravet om ekstraordinært landsmøte fortsatt står ved lag.
 Dokumentet blir oppdatert fortløpende etterhvert som vi får ny informasjon.
@@ -21,14 +16,17 @@ Sentralstyret og sekretariatet burde vise litt ydmykhet når rundt 20% av medlem
 I stedet ser vi at kritikken bare avfeies som «grunnløse påstander».
 Dette er ikke løse påstander, dette er fakta:
 
+* Sekretariatet har ikke innkalt til landsmøte ihht vedtektene.  Noen har fått innkalling, andre ikke - og sentralstyret [trekker på skuldrene](mail-gorm-middeltun-2017-04) når de konfronteres med dette.  Ihht vedtektene skal også være godt synlig på http://www.piratpartiet.no - en klokke som viser hvor lenge det er igjen til landsmøtet er ikke godt nok.  Ihht vedtektene skal landsmøtet annonseres på forumet - det er heller ikke gjort.  Mao kan landsmøtet allerede nå like godt kanselleres - dersom én person klager på at møteinnkallingen ikke var godt nok annonsert, så er landsmøtet ikke vedtaksdyktig.  Er det hensikten?  Er det på noen måte fordelaktig for Piratpartiet?  Neppe.
+* Sekretariatet gjør en meget slett jobb på å vedlikeholde medlemsregister og mailinglister.  Når Oslo kaller inn til årsmøte til alle.oslo@piratpartiet.no - slik det alltid har blitt gjort - påstår generalsekretæren at ettersom man ikke har giddet å sende innkallingen til 13 ikke-navngitte Oslomedlemmer, så er årsmøtet ugyldig.  I henhold til sekretariatets logikk eksisterer dermed ikke Oslo Piratparti lengre.
+* Det er i år lagt opp til at man ikke bare stiller til valg eller blir nominert, det legges i år nærmest opp til at man skal igjennom en søknadsprossess for å kunne bli valgt inn.  Piratpartiet trenger dyktige folk, og det er selvfølgelig positivt at landsmøtet er mest mulig opplyst om kandidatene som stiller, men det er ikke rom i vedtektene for at sekretariatet skal kunne influere hvem som blir valgt, legge ned veto for kandidater sekretariatet ikke finner skikket til stillingen, eller legge krav til hvordan kandidatene presenterer seg.  Det kan se ut som at det gjøres iherdige forsøk på å trekke opp stigen og hindre nye kandidater å komme inn i sentralstyre, sekretariat og programbande?
+* Til tross for at Oslo og Hordaland har vært svært åpne på at de har jobbet med valglister, har sentralstyret valgt å levere inn alternative lister i Hordaland og Oslo.  Dette må ha kostet mye tid og ressurser, det er fullstendig meningsløst og skader partiet.  Videre, generalsekretæren anfører at han kommer til å gjøre alt som står i sin makt for å få listene i Hordaland og Oslo underkjent.  Det burde være åpenbart at det ikke er i partiets interesse at vi blir stående uten valglister i Oslo og Hordaland!
 * Noen har i all hemmelighet innført kommunikasjonskontroll – mail til fylkeslagsstyrene (unntatt tre fylker) går rett til sekretariatet og ikke til fylkeslagenes styremedlemmer.
   Dette ble [oppdaget av Middelthun](mail.2017-02-20.middelthun.txt) 20. februar, og er fortsatt ikke rettet opp i, til tross for at partileder lovet rask opprydning.
   Dette er ganske alvorlig – i tillegg til at det er et brudd på alt av demokratiske spilleregler, så vanskeliggjør det allminnelig styrearbeid, herunder innkalling til ordinære årsmøter og jobbing med stortingslister.
   Årsmøteinnkallelser og lister kan bli erklært ugyldige dersom sentralstyret velger å forbigå lovlig valgte lokallag.
-* Til tross for at Oslo og Hordaland har vært svært åpne på at de har jobbet med valglister, har sentralstyret valgt å levere inn alternative lister i Hordaland og Oslo.  Dette må ha kostet mye tid og ressurser, det er fullstendig meningsløst og skader partiet.  Videre, generalsekretæren anfører at han kommer til å gjøre alt som står i sin makt for å få listene i Hordaland og Oslo underkjent.  Det burde være åpenbart at det ikke er i partiets interesse at vi blir stående uten valglister i Oslo og Hordaland!
 * Sentralstyret har valgt å suspendere Øyvind A. Holm, Tobias Brox, Ståle Olsen, Øyvind Nondal og Bjørn Gotheim,
   ref [sentralstyrereferat](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497) fra et hastemøte i sentralstyret 2017-02-17 som generalsekretæren sendte ut innkalling til dagen før.
-  Generalsekretæren anbefalte i denne mailen å iverksette en suspensjon i henhold til [vedtektenes](https://www.piratpartiet.no/partiet/vedtekter/) §13.4 av de fem personene som undertegnet [mailen](originalmail.txt) som ble sendt ut til partiets medlemmer 2017-02-14.
+  Generalsekretæren anbefalte i denne mailen å iverksette en suspensjon i henhold til [vedtektenes](https://www.piratpartiet.no/partiet/vedtekter/) §13.4 av de fem personene som undertegnet [mailen](originalmail.txt) som ble sendt ut til partiets medlemmer 2017-02-14. 
     * Grunnlaget til suspensjonene er at de suspenderte «motarbeider styret» gjennom å oppfordre folk til å kreve ekstraordinært landsmøte.
       Dette har vi full anledning til ihht vedtektene.
       Mistillit til sittende styre er ikke gyldig eksklusjonsgrunnlag ihht vedtektene; vi ønsker ikke å *motarbeide* styre og sekretæriat, vi ønsker *å få byttet ut* styre og sekretæriat.
@@ -39,7 +37,7 @@ Dette er ikke løse påstander, dette er fakta:
       Noe av grunnlaget for kravet om EOLM er at vi finner det svært vanskelig å samarbeide med generalsekretæren.
 * Sekretariatet nektet å opplyse om hvor mange medlemmer partiet har, ref [mailtråd mellom generalsekretær og Nondal](mail.2017-02-22.anders-kleppe.txt).
 * Sentralstyret nekter å rette seg etter et legitimt krav om ekstraordinært landsmøte.
-* I en tid hvor alt fokus burde ha ligget på å tilrettelegge for listeinnlevering i landets 19 fylker har sentralstyret og sekretariatet i stedet brukt svært mye av sin tid og krefter på å sabotere arbeidet for Hordaland og Oslo.  Aldri før har listearbeidet vært så dårlig koordinert som i år, antageligvis stiller vi lister i færre fylker enn i lokalvalget 2015.
+* I en tid hvor alt fokus burde ha ligget på å tilrettelegge for listeinnlevering i landets 19 fylker (samt sørge for å få levert revisorgodkjente regnskaper) har sentralstyret og sekretariatet i stedet brukt svært mye av sin tid og krefter på å sabotere arbeidet for Hordaland og Oslo.  Aldri før har listearbeidet vært så dårlig koordinert som i år, antageligvis stiller vi lister i færre fylker enn i lokalvalget 2015.
   Pad'en ble flittig brukt i koordineringsarbeidet både i 2013 og i 2015, i hele mars 2017 var pad'en nede som følge av flyttingen til Island.
   Kenneth Polden skriver på [Facebook](facebook.pdf) at det helt og holdent er vår feil at vi ikke er i stand til å stille med lister i landets 19 fylker i år.
   Dette til tross for at Hordaland og Oslo har levert lister, og ellers hjulpet til etter beste evne ved forespørsel om hjelp fra andre fylker.
