@@ -1,0 +1,10 @@
+`it-flytt.md`
+
+File ID: f7b81ed8-21a8-11e7-89a8-db5caa6d21d3
+Author: Øyvind A. Holm <sunny@sunbase.org>
+
+
+----
+
+    vim: set ts=2 sw=2 sts=2 tw=72 et fo=tcqw fenc=utf8 :
+    vim: set com=b\:#,fb\:-,fb\:*,n\:> ft=markdown :
