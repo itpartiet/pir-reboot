@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
 Forslag om å reversere IT-flytten
 =================================
 
@@ -47,3 +50,10 @@ Fremmet av
 Øyvind A. Holm <oyvind@piratpartiet.no> / <sunny@sunbase.org>
 
 File ID: f7b81ed8-21a8-11e7-89a8-db5caa6d21d3
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEARECAAYFAljx0NIACgkQ+wy+6JSlBuVd/wCcCoVY6geFaJimzcA9Ezp2ZEtd
+ekQAniSro1d/GNr4pWa7apVFHiUFSd+2
+=/369
+-----END PGP SIGNATURE-----
