@@ -101,7 +101,7 @@ Ihht styrereferatet virker imidlertid årsaken å være av politisk karakter: «
 Islandske hostetilbydere, derimot, sperrer ingenting med mindre det ligger en rettskraftig dom til grunn».
 Vår kontaktperson hos vår norske leverandør ble oppmerksom på dette og [reagerte med vantro på dette referatet](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-01-07.dag-zetta.txt).
 Mailen hans ble aldri besvart, til tross for at det ble oppfordret til et møte i saken.
-28. februar, to timer før månedsskifte skriver generalsekretæren [mail med oppsigelse fra og med månedsskiftet](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-02-28.kleppe.txt).
+Den 28. februar, to timer før månedsskifte skriver generalsekretæren [mail med oppsigelse fra og med månedsskiftet](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-02-28.kleppe.txt).
 Dette resulterte i en ganske [krass mail](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-03-01.dag-zetta.txt) tilbake fra norsk leverandør.
 Pr 2017-03-02 er gammel infrastruktur fortsatt inntakt – heldigvis!
 Wiki og pad lever fortsatt der, sammen med DNS-serveren vår og lagring/backup av masse historisk materiale, som videoopptak fra landsmøter, etc
