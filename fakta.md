@@ -16,7 +16,7 @@ Sentralstyret og sekretariatet burde vise litt ydmykhet når rundt 20% av medlem
 I stedet ser vi at kritikken bare avfeies som «grunnløse påstander».
 Dette er ikke løse påstander, dette er fakta:
 
-* Sekretariatet har ikke innkalt til landsmøte ihht vedtektene, §6.6: 
+* Sekretariatet har ikke innkalt til landsmøte ihht vedtektene, §6.6:
   «Sentralstyret innkaller alle medlemmer til landsmøtet minst 30 dager før landsmøtets avholdelse via elektronisk post samt ved oppslag på partiets forum og nettside.»
   Noen har fått innkalling, andre ikke - og sentralstyret [trekker på skuldrene](mail.2017-04-11.gorm-middelthun.txt) når de konfronteres med dette.
   En nedtellingsklokke på partiets nettside, uten noe link til mer informasjon er heller ikke godt nok.  Det er ikke blitt annonseres på forumet.  Landsmøtet kan omtrent allerede nå like godt kanselleres - dersom én person klager på at møteinnkallingen ikke var godt nok annonsert, så er ikke landsmøtet vedtaksdyktig.  Er det hensikten?  Er det på noen måte fordelaktig for Piratpartiet?  Neppe.
@@ -29,7 +29,7 @@ Dette er ikke løse påstander, dette er fakta:
   Årsmøteinnkallelser og lister kan bli erklært ugyldige dersom sentralstyret velger å forbigå lovlig valgte lokallag.
 * Sentralstyret har valgt å suspendere Øyvind A. Holm, Tobias Brox, Ståle Olsen, Øyvind Nondal og Bjørn Gotheim,
   ref [sentralstyrereferat](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497) fra et hastemøte i sentralstyret 2017-02-17 som generalsekretæren sendte ut innkalling til dagen før.
-  Generalsekretæren anbefalte i denne mailen å iverksette en suspensjon i henhold til [vedtektenes](https://www.piratpartiet.no/partiet/vedtekter/) §13.4 av de fem personene som undertegnet [mailen](originalmail.txt) som ble sendt ut til partiets medlemmer 2017-02-14. 
+  Generalsekretæren anbefalte i denne mailen å iverksette en suspensjon i henhold til [vedtektenes](https://www.piratpartiet.no/partiet/vedtekter/) §13.4 av de fem personene som undertegnet [mailen](originalmail.txt) som ble sendt ut til partiets medlemmer 2017-02-14.
     * Grunnlaget til suspensjonene er at de suspenderte «motarbeider styret» gjennom å oppfordre folk til å kreve ekstraordinært landsmøte.
       Dette har vi full anledning til ihht vedtektene.
       Mistillit til sittende styre er ikke gyldig eksklusjonsgrunnlag ihht vedtektene; vi ønsker ikke å *motarbeide* styre og sekretæriat, vi ønsker *å få byttet ut* styre og sekretæriat.
