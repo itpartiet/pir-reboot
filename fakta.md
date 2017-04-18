@@ -118,9 +118,9 @@ Altså:
 * En slik flytt medfører også betydelig risiko for driftsavvik - og ja, vi har hatt veldig mye driftsavvik.
   En måned etter at generalsekretæren proklamerte at systemene på Zetta kunne avvikles er wiki'en og pad'en fortsatt nede.
   Mailinglistene til alle medlemmer er vid åpne for spamming; i Oslo har det vært mye bråk på alle.oslo-mailinglista.
-* Ryktene har det til at "vi" får skylden for mye av problemene med flytten, fordi vi ikke hadde vilje til å hjelpe til.
+* Ryktene har det til at «vi» får skylden for mye av problemene med flytten, fordi vi ikke hadde vilje til å hjelpe til.
   Hvorfor skulle vi hjelpe til med å utføre en flytt som vi anser som totalt meningsløs?
-  Har "vi" blitt spurt om å hjelpe til?
+  Har «vi» blitt spurt om å hjelpe til?
 * Flytten medfører også betydelig risiko for at ting rett og slett faller bort – og her holdt ting på å gå veldig galt: generalsekretær gjorde (bevisst eller ubevisst) tilsynelatende et alvorlig forsøk på å ta ned wiki, pad, DNS-server (1/2), samt slette mengder av historiske videoopptak og lignende natt til 1. mars.
   Vi i «pir-reboot» har sørget for at ferske backups er tilgjengelig, vi er i stand til å ta opp tjenestene igjen på kort varsel.
   DNS-server som bare forsvinner kan jo medføre en del sure oppgulp fra sympatisører og potensielle velgere; selv om det bare er snakk om én av to servere vil mange kunne oppleve «ustabilt internett» pga dette.
@@ -134,10 +134,10 @@ Dette kan gi fordeler og kostnadsbesparelser, det er ikke dumt å bruke en hotel
 Medlemsdatabasen, som er å regne som personvernsensitiv informasjon ligger imidlertid under Wordpress.
 Fra et sikkerhetsmessig ståsted er dette meget bekymringsverdig - og at det nå i tillegg ligger på et webhotell hjelper ikke på.
 
-Vi har hørt rykter om at generalsekretæren har valgt å flytte fordi han "ikke fikk tilgang" til de eksisterende serverene.
+Vi har hørt rykter om at generalsekretæren har valgt å flytte fordi han «ikke fikk tilgang» til de eksisterende serverene.
 Det fremkommer også i mailen til Zetta at intern krangel er hovedmotivasjonen for flytten.
 Hvordan kan migreringen ha foregått dersom sekretariatet ikke hadde tilgang?
-Gorm ringte Tobias for et halvt år siden og ba om "administratorpassord".
+Gorm ringte Tobias for et halvt år siden og ba om «administratorpassord».
 Tobias svarte da at han ikke hadde root-passordet, men at han kunne legge inn Gorm som bruker i systemene dersom Gorm sendte en ssh-nøkkel.
 Gorm sendte aldri noen ssh-nøkkel fra seg.
 Vi kan forsåvidt forstå at det kan være mulig å drifte wiki og wordpress fra en hotelløsning men ikke fra et VM dersom man mangler kompetansen som skal til for å generere en ssh-nøkkel og logge seg inn med ssh.
@@ -165,7 +165,7 @@ I oktober 2015 begynte det å skje ting med regnskapssituasjonen:
 * [Mermista ble vår nye regnskapsfører](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2015-10-29)
 
 Det er ikke offisielt referatført noe sted, men bygningsfirmaet sendte oss faktura for utført arbeid, generalsekretæren mente at det ble krevd inn betaling for arbeid som ikke var utført, samt at det etter så mange forsinkelser ikke kunne komme på tale å betale såpass mye.
-Bygningsfirmaet holdt på regnskap og bilag som "pant" eller "gissel" frem til regningen ble betalt.
+Bygningsfirmaet holdt på regnskap og bilag som «pant» eller «gissel» frem til regningen ble betalt.
 Regningen var ikke astronomiske, tredjevara var villig til å legge ut dersom det hadde avhjulpet situasjonen.
 Generalsekretæren hisset seg veldig opp, tredjevara fikk veldig mye kjeft for å blande seg inn i ting han ikke hadde kompetanse til å vite noe om, så han fikk viljen sin: vi betalte ikke noe og begynte med blanke ark hos ny regnskapsfører.
 Vi vet ikke fasit, men med den informasjonen vi (de av oss i pir-reboot som også satt i sentralstyret) satt på virket det som rimelig å anta at vi endelig kunne bli ferdige med regnskapet for 2014 dersom vi betalte denne regningen, og at hovedproblemet nå var sklidd over fra å være forsinkelser fra regnskapsfører til å være konflikt mellom regnskapsfører og generalsekretær.
