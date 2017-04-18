@@ -19,10 +19,22 @@ Dette er ikke løse påstander, dette er fakta:
 * Sekretariatet har ikke innkalt til landsmøte ihht vedtektene, §6.6:
   «Sentralstyret innkaller alle medlemmer til landsmøtet minst 30 dager før landsmøtets avholdelse via elektronisk post samt ved oppslag på partiets forum og nettside.»
   Noen har fått innkalling, andre ikke - og sentralstyret [trekker på skuldrene](mail.2017-04-11.gorm-middelthun.txt) når de konfronteres med dette.
-  En nedtellingsklokke på partiets nettside, uten noe link til mer informasjon er heller ikke godt nok.  Det er ikke blitt annonseres på forumet.  Landsmøtet kan omtrent allerede nå like godt kanselleres - dersom én person klager på at møteinnkallingen ikke var godt nok annonsert, så er ikke landsmøtet vedtaksdyktig.  Er det hensikten?  Er det på noen måte fordelaktig for Piratpartiet?  Neppe.
-* Sekretariatet gjør en meget slett jobb på å vedlikeholde medlemsregister og mailinglister.  Når Oslo kaller inn til årsmøte til alle.oslo@piratpartiet.no - slik det alltid har blitt gjort - påstår generalsekretæren at ettersom man ikke har giddet å sende innkallingen til 13 ikke-navngitte Oslomedlemmer, så er årsmøtet ugyldig.  I henhold til sekretariatets logikk eksisterer dermed ikke Oslo Piratparti lengre.
-* Det er i år lagt opp til at man ikke bare stiller til valg eller blir nominert, det legges i år nærmest opp til at man skal igjennom en søknadsprossess for å kunne bli valgt inn.  Piratpartiet trenger dyktige folk, og det er selvfølgelig positivt at landsmøtet er mest mulig opplyst om kandidatene som stiller, men det er ikke rom i vedtektene for at sekretariatet skal kunne influere hvem som blir valgt, legge ned veto for kandidater sekretariatet ikke finner skikket til stillingen, eller legge krav til hvordan kandidatene presenterer seg.  Det kan se ut som at det gjøres iherdige forsøk på å trekke opp stigen og hindre nye kandidater å komme inn i sentralstyre, sekretariat og programbande?
-* Til tross for at Oslo og Hordaland har vært svært åpne på at de har jobbet med valglister, har sentralstyret valgt å levere inn alternative lister i Hordaland og Oslo.  Dette må ha kostet mye tid og ressurser, det er fullstendig meningsløst og skader partiet.  Videre, generalsekretæren anfører at han kommer til å gjøre alt som står i sin makt for å få listene i Hordaland og Oslo underkjent.  Det burde være åpenbart at det ikke er i partiets interesse at vi blir stående uten valglister i Oslo og Hordaland!
+  En nedtellingsklokke på partiets nettside, uten noe link til mer informasjon er heller ikke godt nok.
+  Det er ikke blitt annonseres på forumet.
+  Landsmøtet kan omtrent allerede nå like godt kanselleres - dersom én person klager på at møteinnkallingen ikke var godt nok annonsert, så er ikke landsmøtet vedtaksdyktig.
+  Er det hensikten?
+  Er det på noen måte fordelaktig for Piratpartiet?
+  Neppe.
+* Sekretariatet gjør en meget slett jobb på å vedlikeholde medlemsregister og mailinglister.
+  Når Oslo kaller inn til årsmøte til alle.oslo@piratpartiet.no - slik det alltid har blitt gjort - påstår generalsekretæren at ettersom man ikke har giddet å sende innkallingen til 13 ikke-navngitte Oslomedlemmer, så er årsmøtet ugyldig.
+  I henhold til sekretariatets logikk eksisterer dermed ikke Oslo Piratparti lengre.
+* Det er i år lagt opp til at man ikke bare stiller til valg eller blir nominert, det legges i år nærmest opp til at man skal igjennom en søknadsprossess for å kunne bli valgt inn.
+  Piratpartiet trenger dyktige folk, og det er selvfølgelig positivt at landsmøtet er mest mulig opplyst om kandidatene som stiller, men det er ikke rom i vedtektene for at sekretariatet skal kunne influere hvem som blir valgt, legge ned veto for kandidater sekretariatet ikke finner skikket til stillingen, eller legge krav til hvordan kandidatene presenterer seg.
+  Det kan se ut som at det gjøres iherdige forsøk på å trekke opp stigen og hindre nye kandidater å komme inn i sentralstyre, sekretariat og programbande?
+* Til tross for at Oslo og Hordaland har vært svært åpne på at de har jobbet med valglister, har sentralstyret valgt å levere inn alternative lister i Hordaland og Oslo.
+  Dette må ha kostet mye tid og ressurser, det er fullstendig meningsløst og skader partiet.
+  Videre, generalsekretæren anfører at han kommer til å gjøre alt som står i sin makt for å få listene i Hordaland og Oslo underkjent.
+  Det burde være åpenbart at det ikke er i partiets interesse at vi blir stående uten valglister i Oslo og Hordaland!
 * Noen har i all hemmelighet innført kommunikasjonskontroll – mail til fylkeslagsstyrene (unntatt tre fylker) går rett til sekretariatet og ikke til fylkeslagenes styremedlemmer.
   Dette ble [oppdaget av Middelthun](mail-2017-02-20.middelthun.txt) 20. februar, og er fortsatt ikke rettet opp i, til tross for at partileder lovet rask opprydning.
   Dette er ganske alvorlig – i tillegg til at det er et brudd på alt av demokratiske spilleregler, så vanskeliggjør det allminnelig styrearbeid, herunder innkalling til ordinære årsmøter og jobbing med stortingslister.
@@ -40,7 +52,8 @@ Dette er ikke løse påstander, dette er fakta:
       Noe av grunnlaget for kravet om EOLM er at vi finner det svært vanskelig å samarbeide med generalsekretæren.
 * Sekretariatet nektet å opplyse om hvor mange medlemmer partiet har, ref [mailtråd mellom generalsekretær og Nondal](mail.2017-02-22.anders-kleppe.txt).
 * Sentralstyret nekter å rette seg etter et legitimt krav om ekstraordinært landsmøte.
-* I en tid hvor alt fokus burde ha ligget på å tilrettelegge for listeinnlevering i landets 19 fylker (samt sørge for å få levert revisorgodkjente regnskaper) har sentralstyret og sekretariatet i stedet brukt svært mye av sin tid og krefter på å sabotere arbeidet for Hordaland og Oslo.  Aldri før har listearbeidet vært så dårlig koordinert som i år, antageligvis stiller vi lister i færre fylker enn i lokalvalget 2015.
+* I en tid hvor alt fokus burde ha ligget på å tilrettelegge for listeinnlevering i landets 19 fylker (samt sørge for å få levert revisorgodkjente regnskaper) har sentralstyret og sekretariatet i stedet brukt svært mye av sin tid og krefter på å sabotere arbeidet for Hordaland og Oslo.
+  Aldri før har listearbeidet vært så dårlig koordinert som i år, antageligvis stiller vi lister i færre fylker enn i lokalvalget 2015.
   Pad'en ble flittig brukt i koordineringsarbeidet både i 2013 og i 2015, i hele mars 2017 var pad'en nede som følge av flyttingen til Island.
   Kenneth Polden skriver på [Facebook](facebook.pdf) at det helt og holdent er vår feil at vi ikke er i stand til å stille med lister i landets 19 fylker i år.
   Dette til tross for at Hordaland og Oslo har levert lister, og ellers hjulpet til etter beste evne ved forespørsel om hjelp fra andre fylker.
@@ -48,9 +61,14 @@ Dette er ikke løse påstander, dette er fakta:
 
 ## Doble valglister
 
-Generalsekretærens har en personlig vendetta på gang mot to fylkeslag.  Han har skrevet at han [kommer til å gjøre alt som står i sin makt](mail.2017-04-01.kleppe.txt) for å få [listeforslaget fra Hordaland fylkeslag](valglister/valglister-hordaland.pdf) og [listeforslaget fra Oslo fylkeslag](valglister/valgliste-oslo-piratparti-2017.pdf) underkjent.  Er dette i partiets interesse?
+Generalsekretærens har en personlig vendetta på gang mot to fylkeslag.
+Han har skrevet at han [kommer til å gjøre alt som står i sin makt](mail.2017-04-01.kleppe.txt) for å få [listeforslaget fra Hordaland fylkeslag](valglister/valglister-hordaland.pdf) og [listeforslaget fra Oslo fylkeslag](valglister/valgliste-oslo-piratparti-2017.pdf) underkjent.
+Er dette i partiets interesse?
 
-Det er blitt levert inn alternative lister i Oslo og Hordaland.  Første forsøk på å levere den [alternative listen i Oslo](valglister/valgliste-oslo-kleppe-2017.pdf) ble gjort 11:57, første forsøk var ikke iht. formkrav, manglet signaturer og var ikke levert på papir.  Lista inneholder ingen Oslonavn.  Valgmedarbeiderene ble lovet at papirkopi med signaturer skulle komme ila helga - det er blitt gjort en ringekampanje gjennom hele helga og mandagen for å få tak i folk i Oslo som kunne ta på seg jobben å signere lista.
+Det er blitt levert inn alternative lister i Oslo og Hordaland.
+Første forsøk på å levere den [alternative listen i Oslo](valglister/valgliste-oslo-kleppe-2017.pdf) ble gjort 11:57, første forsøk var ikke iht. formkrav, manglet signaturer og var ikke levert på papir.
+Lista inneholder ingen Oslonavn.
+Valgmedarbeiderene ble lovet at papirkopi med signaturer skulle komme ila helga - det er blitt gjort en ringekampanje gjennom hele helga og mandagen for å få tak i folk i Oslo som kunne ta på seg jobben å signere lista.
 
 Det er betimelig å spørre seg:
 
@@ -58,15 +76,20 @@ Det er betimelig å spørre seg:
 
 * Hvilke Oslopirater tror dere vil hjelpe til med rigging og bemanning av en valgbod for å fremme en Osloliste uten et eneste Oslonavn?
 
-* Oslolista vår inneholder en overvekt av grasrotpirater som, så vidt jeg vet ikke har tatt noen stilling til konflikten som pågår. Hvilken side tror dere disse kommer til å lande på når lista de står oppført på blir aktivt motarbeidet av sentralstyret?
+* Oslolista vår inneholder en overvekt av grasrotpirater som, så vidt jeg vet ikke har tatt noen stilling til konflikten som pågår.
+  Hvilken side tror dere disse kommer til å lande på når lista de står oppført på blir aktivt motarbeidet av sentralstyret?
 
-* Vi registrerer at Demokratene er eneste parti i Oslo som har levert to lister, da antar vi at bystyret har valgt å spare seg selv for å måtte ta part i konflikten ved å droppe den alternative listen pga. rene formkrav. I såfall - dersom generalsekretæren lykkes i sin kamp om å få listen vår underkjent, så blir det ingen liste i Oslo. Hvor mange stemmer kommer Piratpartiet til å miste pga. dette?
+* Vi registrerer at Demokratene er eneste parti i Oslo som har levert to lister, da antar vi at bystyret har valgt å spare seg selv for å måtte ta part i konflikten ved å droppe den alternative listen pga. rene formkrav.
+  I såfall - dersom generalsekretæren lykkes i sin kamp om å få listen vår underkjent, så blir det ingen liste i Oslo.
+  Hvor mange stemmer kommer Piratpartiet til å miste pga. dette?
 
 * Vil det på noen som helst måte være positivt for Piratpartiet om generalsekretæren lykkes i å underkjenne valglista for Oslo?
 
-* Piratpartiet stiller valglister i bare ca. halvparten av landets fylker fordi generalsekretæren og styret har prioritert å bekjempe valglistene til fylkeslagene i Oslo og Hordaland istedenfor å prioritere å arbeide med valglister i de fylkene som mangler valglister. Hvor mye har dette kostet Piratpartiet allerede i form av tapte stemmer?
+* Piratpartiet stiller valglister i bare ca. halvparten av landets fylker fordi generalsekretæren og styret har prioritert å bekjempe valglistene til fylkeslagene i Oslo og Hordaland istedenfor å prioritere å arbeide med valglister i de fylkene som mangler valglister.
+  Hvor mye har dette kostet Piratpartiet allerede i form av tapte stemmer?
 
-* Er sentralstyret kjent med at innsending av lister som ikke er signert av styremedlemmer i lokallaget er et brudd på valgloven §6.3? Selv om man anser at Oslo Piratparti ikke lengre representerer piratene i Oslo (fordi det i Kleppes hode eksister 13 flere Oslomedlemmer enn i medlemsdatabasen?), hvor er logikken i at en liste uten et eneste Oslonavn og signert av to tilfeldige personer i Oslo skulle være mer representativ enn vår liste?
+* Er sentralstyret kjent med at innsending av lister som ikke er signert av styremedlemmer i lokallaget er et brudd på valgloven §6.3?
+  Selv om man anser at Oslo Piratparti ikke lengre representerer piratene i Oslo (fordi det i Kleppes hode eksister 13 flere Oslomedlemmer enn i medlemsdatabasen?), hvor er logikken i at en liste uten et eneste Oslonavn og signert av to tilfeldige personer i Oslo skulle være mer representativ enn vår liste?
 
 * Har man tenkt på at konflikten fort kunne ha lekket ut i media dersom Piratpartiet hadde kommet med to listeforslag i Oslo?
 
@@ -77,8 +100,8 @@ Sekretariatet anser at de kan gjøre dette uten noe sentralstyrevedtak; det virk
 Ihht styrereferatet virker imidlertid årsaken å være av politisk karakter: «Problemet med norske hostingtilbydere er at de er litt for flinke til å sensurere (etter vår smak).
 Islandske hostetilbydere, derimot, sperrer ingenting med mindre det ligger en rettskraftig dom til grunn».
 Vår kontaktperson hos vår norske leverandør ble oppmerksom på dette og [reagerte med vantro på dette referatet](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-01-07.dag-zetta.txt).
-Mailen hans ble aldri besvart, til tross for at det ble oppfordret til et møte i saken.  28. februar,
-to timer før månedsskifte skriver generalsekretæren [mail med oppsigelse fra og med månedsskiftet](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-02-28.kleppe.txt).
+Mailen hans ble aldri besvart, til tross for at det ble oppfordret til et møte i saken.
+28. februar, to timer før månedsskifte skriver generalsekretæren [mail med oppsigelse fra og med månedsskiftet](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-02-28.kleppe.txt).
 Dette resulterte i en ganske [krass mail](https://gitlab.com/pir-reboot/pir-reboot/blob/master/mail.2017-03-01.dag-zetta.txt) tilbake fra norsk leverandør.
 Pr 2017-03-02 er gammel infrastruktur fortsatt inntakt – heldigvis!
 Wiki og pad lever fortsatt der, sammen med DNS-serveren vår og lagring/backup av masse historisk materiale, som videoopptak fra landsmøter, etc
@@ -108,7 +131,8 @@ Altså:
 
 Vi ser at det er en hotelløsning som er valgt, wordpressinstansen vår deler IP-adresse med et femtitalls andre websider.
 Dette kan gi fordeler og kostnadsbesparelser, det er ikke dumt å bruke en hotelleverandør når man først leverer websidene fra en standard wordpressinstallasjon.
-Medlemsdatabasen, som er å regne som personvernsensitiv informasjon ligger imidlertid under Wordpress.  Fra et sikkerhetsmessig ståsted er dette meget bekymringsverdig - og at det nå i tillegg ligger på et webhotell hjelper ikke på.
+Medlemsdatabasen, som er å regne som personvernsensitiv informasjon ligger imidlertid under Wordpress.
+Fra et sikkerhetsmessig ståsted er dette meget bekymringsverdig - og at det nå i tillegg ligger på et webhotell hjelper ikke på.
 
 Vi har hørt rykter om at generalsekretæren har valgt å flytte fordi han "ikke fikk tilgang" til de eksisterende serverene.
 Det fremkommer også i mailen til Zetta at intern krangel er hovedmotivasjonen for flytten.
@@ -120,19 +144,32 @@ Vi kan forsåvidt forstå at det kan være mulig å drifte wiki og wordpress fra
 
 ## Underslagssaken og regnskapskaoset
 
-At tidligere organisasjonssekretær etterlot seg mye rot og kaos som måtte ryddes i, er det ingen tvil om - men at man etter to år fortsatt skylder på underslaget for alt som er galt, det holder ikke.  Hadde man fra første stund fått et profesjonelt regnskapsbyrå til å se på saken, og hadde man holdt et godt samarbeid med dette firmaet, så hadde antageligvis underslaget vært et lukket kapittel allerede sommeren 2015.  Nå har man byttet regnskapsfirma to ganger allerede, én revisor har også kastet kortene - det er vanskelig å tro at dette bare skyldes underslaget i seg selv.
+At tidligere organisasjonssekretær etterlot seg mye rot og kaos som måtte ryddes i, er det ingen tvil om - men at man etter to år fortsatt skylder på underslaget for alt som er galt, det holder ikke.
+Hadde man fra første stund fått et profesjonelt regnskapsbyrå til å se på saken, og hadde man holdt et godt samarbeid med dette firmaet, så hadde antageligvis underslaget vært et lukket kapittel allerede sommeren 2015.
+Nå har man byttet regnskapsfirma to ganger allerede, én revisor har også kastet kortene - det er vanskelig å tro at dette bare skyldes underslaget i seg selv.
 
-I 2014 og begynnelsen av 2015 var det organisajonssekretærens kusine (!) som førte regnskapet.  Hun var ansatt i et bygningsfirma.  Ihht lovverket skal man ha autorisasjon fra myndighetene før man fører regnskap for andre - dette bygningsfirmaet hadde ikke noen slik autorisasjon.  I et nyoppstartet parti uten midler er det forståelig at man lener seg på personlige kontakter og velger billige løsninger.  I etterpåklokskapens lys skulle man selvfølgelig ha avviklet avtalen med bygningsfirmaet og søkt kompetent og profesjonell hjelp umiddelbart etter at organisasjonssekretæren forsvant.
+I 2014 og begynnelsen av 2015 var det organisajonssekretærens kusine (!) som førte regnskapet.
+Hun var ansatt i et bygningsfirma.
+Ihht lovverket skal man ha autorisasjon fra myndighetene før man fører regnskap for andre - dette bygningsfirmaet hadde ikke noen slik autorisasjon.
+I et nyoppstartet parti uten midler er det forståelig at man lener seg på personlige kontakter og velger billige løsninger.
+I etterpåklokskapens lys skulle man selvfølgelig ha avviklet avtalen med bygningsfirmaet og søkt kompetent og profesjonell hjelp umiddelbart etter at organisasjonssekretæren forsvant.
 
 I oktober 2015 begynte det å skje ting med regnskapssituasjonen:
 
 * Det begynte å brenne under føttene våre, i form av diverse trusler fra myndighetene (ikke konkret referatført noe sted, men generalsekretæren benyttet enhver anledning til å klage over tingenes tilstand)
 * Piratpartiet begynte å lete etter ny regnskapsfører ([referat 1. oktober](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2015-10-01))
-* Regnskapet for 2014 ble meldt ferdigstilt fra bygningsfirmaet.  Dette har ikke blitt referatført noe sted.
-* Vi avsluttet forholdet med bygningsfirmaet.  Det fremkommer ikke konkret fra [referatet](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2015-10-15), men avslutningen var konfliktfylt, de krevde penger fra oss og generalsekretæren mente at vi heller skulle kreve penger fra dem.
+* Regnskapet for 2014 ble meldt ferdigstilt fra bygningsfirmaet.
+  Dette har ikke blitt referatført noe sted.
+* Vi avsluttet forholdet med bygningsfirmaet.
+  Det fremkommer ikke konkret fra [referatet](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2015-10-15), men avslutningen var konfliktfylt, de krevde penger fra oss og generalsekretæren mente at vi heller skulle kreve penger fra dem.
 * [Mermista ble vår nye regnskapsfører](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2015-10-29)
 
-Det er ikke offisielt referatført noe sted, men bygningsfirmaet sendte oss faktura for utført arbeid, generalsekretæren mente at det ble krevd inn betaling for arbeid som ikke var utført, samt at det etter så mange forsinkelser ikke kunne komme på tale å betale såpass mye.  Bygningsfirmaet holdt på regnskap og bilag som "pant" eller "gissel" frem til regningen ble betalt.  Regningen var ikke astronomiske, tredjevara var villig til å legge ut dersom det hadde avhjulpet situasjonen.  Generalsekretæren hisset seg veldig opp, tredjevara fikk veldig mye kjeft for å blande seg inn i ting han ikke hadde kompetanse til å vite noe om, så han fikk viljen sin: vi betalte ikke noe og begynte med blanke ark hos ny regnskapsfører.  Vi vet ikke fasit, men med den informasjonen vi (de av oss i pir-reboot som også satt i sentralstyret) satt på virket det som rimelig å anta at vi endelig kunne bli ferdige med regnskapet for 2014 dersom vi betalte denne regningen, og at hovedproblemet nå var sklidd over fra å være forsinkelser fra regnskapsfører til å være konflikt mellom regnskapsfører og generalsekretær.  Dersom generalsekretæren faktisk hadde rett i at regningen ikke var legitim så ville det fortsatt vært en mulighet å betale for å få tilgang til filene, samtidig som at man anfører at man er uenig i kravet og forbeholder seg retten å komme med motregning og ta kravet til forliksråd.
+Det er ikke offisielt referatført noe sted, men bygningsfirmaet sendte oss faktura for utført arbeid, generalsekretæren mente at det ble krevd inn betaling for arbeid som ikke var utført, samt at det etter så mange forsinkelser ikke kunne komme på tale å betale såpass mye.
+Bygningsfirmaet holdt på regnskap og bilag som "pant" eller "gissel" frem til regningen ble betalt.
+Regningen var ikke astronomiske, tredjevara var villig til å legge ut dersom det hadde avhjulpet situasjonen.
+Generalsekretæren hisset seg veldig opp, tredjevara fikk veldig mye kjeft for å blande seg inn i ting han ikke hadde kompetanse til å vite noe om, så han fikk viljen sin: vi betalte ikke noe og begynte med blanke ark hos ny regnskapsfører.
+Vi vet ikke fasit, men med den informasjonen vi (de av oss i pir-reboot som også satt i sentralstyret) satt på virket det som rimelig å anta at vi endelig kunne bli ferdige med regnskapet for 2014 dersom vi betalte denne regningen, og at hovedproblemet nå var sklidd over fra å være forsinkelser fra regnskapsfører til å være konflikt mellom regnskapsfører og generalsekretær.
+Dersom generalsekretæren faktisk hadde rett i at regningen ikke var legitim så ville det fortsatt vært en mulighet å betale for å få tilgang til filene, samtidig som at man anfører at man er uenig i kravet og forbeholder seg retten å komme med motregning og ta kravet til forliksråd.
 
 Vi beholdt heller ikke Mermista som regningsfører, hvorfor?
 
@@ -144,7 +181,8 @@ Eksakt referat:
 «Dere bør gå i dere selv å tenke nøye gjennom at dere har bidratt til at Piratpartiet i år har tatt et tap på ca 330.000,- NOK fordi dere ikke klarer å vente på et ordinært LM».
 For å få tak i selve vedtaket måtte vi be om innsyn i offentlige postjournaler.
 
-Det er meget imponerende at vi fortsatt får statsstøtte, det burde i utgangspunktet ikke være mulig å oversitte fristene for innlevering av revisorgodkjente regnskaper i så lang tid uten å miste statsstøtten.  Dersom generalsekretæren fortjener ros for noe, må det være dette - men det hadde jo vært bedre å få levert inn revisorgodkjente regnskap innen rimelig tid.
+Det er meget imponerende at vi fortsatt får statsstøtte, det burde i utgangspunktet ikke være mulig å oversitte fristene for innlevering av revisorgodkjente regnskaper i så lang tid uten å miste statsstøtten.
+Dersom generalsekretæren fortjener ros for noe, må det være dette - men det hadde jo vært bedre å få levert inn revisorgodkjente regnskap innen rimelig tid.
 
 ## Vedtekter og ekstraordinært landsmøte
 
@@ -223,5 +261,3 @@ Her kommer noen utdrag fra [Piratkodeksen](https://www.piratpartiet.no/kjernepro
 * En enkeltpersons rett til å være informert skal aldri forhindres.
 
 Etterlever styre og sekretariat disse punktene?
-
-
