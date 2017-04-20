@@ -16,10 +16,9 @@ Sentralstyret og sekretariatet burde vise litt ydmykhet når rundt 20% av medlem
 I stedet ser vi at kritikken bare avfeies som «grunnløse påstander».
 Dette er ikke løse påstander, dette er fakta:
 
-* [Sentralstyrereferatet 2017-04-19](http://archive.is/MMA93) er interessant lesning.
-  I «det mest demokratiske partiet i Norge» (ordrett sitat) bruker man suspensjoner aktivt for å dempe kritikk.
-  Dette er opplagt et forsøk på å få kontroll på landsmøtet.
-  Realitetsbehandling av suspensjonssakene legges sist på programmet, slik at de suspenderte ikke skal få stemmerett i landsmøtet.
+* [Sentralstyrereferatet 2017-04-19](http://archive.is/MMA93) er interessant lesning - to nye suspensjoner av styremedlemmer i Hordaland, da de «motarbeider partiet» og har brutt ikke-spesifiserte vedtekter.
+  I «det mest demokratiske partiet i Norge» (ordrett sitat) bruker man suspensjoner aktivt for å dempe kritikk (aka «slå ned på opprør»).
+  Det er ikke urimelig å tenke seg at dette er gjort for å sikre seg kontroll på landsmøtet; realitetsbehandling av suspensjonssakene legges sist på programmet, slik at de suspenderte ikke skal få stemmerett i landsmøtet.
   Nytt stiftelsesmøte i Oslo arrangeres på kort varsel, for å erstatte de kritiske røstene i Oslo Piratparti.
   Innkallingen er fortsatt ikke sendt ut til medlemmer pr 2017-04-20.
 * Sekretariatet har ikke innkalt til landsmøte ihht vedtektene, §6.6:
@@ -46,6 +45,7 @@ Dette er ikke løse påstander, dette er fakta:
   Dette ble [oppdaget av Middelthun](mail-2017-02-20.middelthun.txt) 20. februar, og er fortsatt ikke rettet opp i, til tross for at partileder lovet rask opprydning.
   Dette er ganske alvorlig – i tillegg til at det er et brudd på alt av demokratiske spilleregler, så har det vanskeliggjort det allminnelig styrearbeid, herunder innkalling til ordinære årsmøter og jobbing med stortingslister.
   Årsmøteinnkallelser og lister kan bli erklært ugyldige dersom sentralstyret velger å forbigå lovlig valgte lokallag.
+  Reelt sett definerte generalsekretæren at lokallagene ikke eksisterte allerede 20. februar.
 * Sentralstyret har valgt å suspendere Øyvind A. Holm, Tobias Brox, Ståle Olsen, Øyvind Nondal og Bjørn Gotheim,
   ref [sentralstyrereferat](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497) fra et hastemøte i sentralstyret 2017-02-17 som generalsekretæren sendte ut innkalling til dagen før.
   Generalsekretæren anbefalte i denne mailen å iverksette en suspensjon i henhold til [vedtektenes](https://www.piratpartiet.no/partiet/vedtekter/) §13.4 av de fem personene som undertegnet [mailen](originalmail.txt) som ble sendt ut til partiets medlemmer 2017-02-14.
@@ -184,8 +184,6 @@ Regningen var ikke astronomiske, tredjevara var villig til å legge ut dersom de
 Generalsekretæren hisset seg veldig opp, tredjevara fikk veldig mye kjeft for å blande seg inn i ting han ikke hadde kompetanse til å vite noe om, så han fikk viljen sin: vi betalte ikke noe og begynte med blanke ark hos ny regnskapsfører.
 Vi vet ikke fasit, men med den informasjonen vi (de av oss i pir-reboot som også satt i sentralstyret) satt på virket det som rimelig å anta at vi endelig kunne bli ferdige med regnskapet for 2014 dersom vi betalte denne regningen, og at hovedproblemet nå var sklidd over fra å være forsinkelser fra regnskapsfører til å være konflikt mellom regnskapsfører og generalsekretær.
 Dersom generalsekretæren faktisk hadde rett i at regningen ikke var legitim så ville det fortsatt vært en mulighet å betale for å få tilgang til filene, samtidig som at man anfører at man er uenig i kravet og forbeholder seg retten å komme med motregning og ta kravet til forliksråd.
-
-Vi beholdt heller ikke Mermista som regningsfører, hvorfor?
 
 En revisor gav opp og trakk seg etter å ha forsøkt å revidere regnskapene - hvorfor?
 
