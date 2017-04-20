@@ -18,9 +18,12 @@ Dette er ikke løse påstander, dette er fakta:
 
 * [Sentralstyrereferatet 2017-04-19](http://archive.is/MMA93) er interessant lesning - to nye suspensjoner av styremedlemmer i Hordaland, da de «motarbeider partiet» og har brutt ikke-spesifiserte vedtekter.
   I «det mest demokratiske partiet i Norge» (ordrett sitat) bruker man suspensjoner aktivt for å dempe intern kritikk (aka «slå ned på opprør»).
+  Hittil er 7 personer suspendert, et ganske signifikant tall sammenlignet med antall aktive medlemmer i partiet - og det loves flere suspensjoner på neste sentralstyremøte.
   Det er ikke urimelig å tenke seg at dette er gjort for å sikre seg kontroll på landsmøtet; realitetsbehandling av suspensjonssakene legges sist på programmet, slik at de suspenderte ikke skal få stemmerett i landsmøtet.
+  I tillegg er de suspenderte inhabile i suspensjonssaken slik at de ikke får stemmeretten der heller.
+  Sentralstyret kan altså sikre seg gjenvalg ved å suspendere alle kritiske røster.
   Nytt stiftelsesmøte i Oslo arrangeres på kort varsel, for å erstatte de kritiske røstene i Oslo Piratparti.
-  Innkallingen er fortsatt ikke sendt ut til medlemmer pr 2017-04-20.
+  Innkallingen er fortsatt ikke sendt ut til medlemmer i Oslo pr 2017-04-20.
 * Sekretariatet har ikke innkalt til landsmøte ihht vedtektene, §6.6:
   «Sentralstyret innkaller alle medlemmer til landsmøtet minst 30 dager før landsmøtets avholdelse via elektronisk post samt ved oppslag på partiets forum og nettside.»
   Noen har fått innkalling, andre ikke - og sentralstyret [trekker på skuldrene](mail.2017-04-11.gorm-middelthun.txt) når de konfronteres med dette.
