@@ -1,7 +1,12 @@
 # Hva skjer i Piratpartiet - 2.0
 
-Dette dokumentet inneholder fakta og status omkring sentralstyre/sekretariatet i Piratpartiet som det stilles spørsmål ved.
-Dokumentet blir oppdatert fortløpende etterhvert som vi får ny informasjon.
+TLDR: Fem personer fremsatte krav om ekstraordinært landsmøte pga mistillit til sentralstyret og sekretariatet. Dette ble besvart med tyrkisk presisjon - suspensjoner, alternative valglister, underkjennelse av årsmøter, manipulering av brønnøysundsregistreringer og nå nylig - "nyetableringer" av fylkeslag ettersom de ikke anerkjenner eksistensen av fylkeslagene som eksisterer.
+
+Vi gjør ikke annet enn å fastholde på at det finnes kritikkverdige forhold (hovedsaklig gjennom vedlikehold av dette dokumentet), og reaksjonen fra sekretariatet og sentralstyret beviser at det finnes skjellig grunn til mistillit.
+
+Dette dokumentet forsøker å oppsummere de siste hendelsene.
+Vi streber etter at dette dokumentet skal inneholder mest mulig fakta og minst mulig løse påstander, og vi streber etter å holde dokumentet mest mulig oppdatert.
+
 Dokumentet ble påbegynt som et svar på [mail sendt ut 24. februar](mail.2017-02-24.gorm-hanssen.txt) til de fleste (?) ikke-suspenderte medlemmer.
 Der kan vi blant annet lese at sentralstyret nekter å kalle inn til ekstraordinært landsmøte.
 Det skrives også «hele partiet bør ta lærdom av det som har inntruffet; påstander er ikke det samme som fakta».
@@ -12,27 +17,28 @@ Ikke minst er vi veldig interesserte i informasjon som kan avkrefte mistanker so
 
 ## Konkrete anklager
 
-Sentralstyret og sekretariatet burde vise litt ydmykhet når rundt 20% av medlemmene bekrefter mistillit.
+Sentralstyret og sekretariatet burde vise litt ydmykhet når rundt 20% av de kontingentbetalende medlemmene bekrefter mistillit.
 I stedet ser vi at kritikken bare avfeies som «grunnløse påstander».
-Dette er ikke løse påstander, dette er fakta:
 
 * [Sentralstyrereferatet 2017-04-19](http://archive.is/MMA93) er interessant lesning - to nye suspensjoner av styremedlemmer i Hordaland, da de «motarbeider partiet» og har brutt ikke-spesifiserte vedtekter.
-  I «det mest demokratiske partiet i Norge» (ordrett sitat) bruker man suspensjoner aktivt for å dempe intern kritikk (aka «slå ned på opprør»).
+  I «det mest demokratiske partiet i Norge» (ordrett sitat) bruker man suspensjoner aktivt for å «slå ned på opprør» - eller, i vår språkdrakt: dempe intern kritikk.
   Hittil er 7 personer suspendert, et ganske signifikant tall sammenlignet med antall aktive medlemmer i partiet - og det loves flere suspensjoner på neste sentralstyremøte.
-  Det er ikke urimelig å tenke seg at dette er gjort for å sikre seg kontroll på landsmøtet; realitetsbehandling av suspensjonssakene legges sist på programmet, slik at de suspenderte ikke skal få stemmerett i landsmøtet.
+  Dette kan vise seg å bli utslagsgivende på landsmøtet.
+  Realitetsbehandling av suspensjonssakene legges sist på programmet, slik at de suspenderte ikke skal få stemmerett i landsmøtet.
   I tillegg er de suspenderte inhabile i suspensjonssaken slik at de ikke får stemmeretten der heller.
-  Sentralstyret kan altså sikre seg gjenvalg ved å suspendere alle kritiske røster.
+  Det er ikke vanskelig å forestille seg at formålet med suspensjonene nettopp å å sørge for at man får kontroll over landsmøtet; sentralstyret og sekretariatet ønsker å sikre sine posisjoner til gjenvalg ved å suspendere alle kritiske røster, og de ønsker også å få gjennomslag for permanent ekskludering av alle opposisjonelle.
+  Dagens vedtekter gir faktisk sentralstyret makt til å suspendere alle kritiske røster før landsmøtet, uten begrunnelse.
 * Nytt stiftelsesmøte i Oslo arrangeres på kort varsel, ref [sentralstyrereferatet 2017-04-19](http://archive.is/MMA93).
   Innkallingen er fortsatt ikke sendt ut til medlemmer i Oslo pr 2017-04-20.
   Blir innkallingen sendt ut minutter før møtet, eller blir innkallingen bare sendt til 2-3 spesielt inviterte?
   Spesielt demokratisk er det uansett ikke - samme hvor mye formålet er å «stoppe opprør og anarkistiske tendenser i det mest demokratiske partiet i Norge».
-  Dette er også en innrømmelse av at det ikke eksisterte noe interrimstyre på det tidspunktet fristen for innsendelse av valglistene fant sted, som igjen er en innrømmelse av at valglovens paragraf 6.3 er blitt brutt.
 * Tilsvarende nystiftelsesmøtet i Bergen/Hordaland hadde visstnok godt oppmøte - uten at det er referatført noe som helst sted hvem som deltok, og uten at det er blitt sendt inn noe innkalling.
   Dette er forøvrig en kontradiksjon av tidligere informasjon om at det eksisterte et interimstyre i Hordaland på det tidspunktet valglistene ble sendt inn.
 * Sekretariatet har ikke innkalt til landsmøte ihht vedtektene, §6.6:
   «Sentralstyret innkaller alle medlemmer til landsmøtet minst 30 dager før landsmøtets avholdelse via elektronisk post samt ved oppslag på partiets forum og nettside.»
   Noen har fått innkalling, andre ikke - og sentralstyret [trekker på skuldrene](mail.2017-04-11.gorm-middelthun.txt) når de konfronteres med dette.
-  En nedtellingsklokke på partiets nettside, uten noe link til mer informasjon er heller ikke godt nok.
+  Det virker som en bevisst handling, da omtrent ingen som er i opposisjon til sentralstyret og sekretariatet har fått innkallingen.
+  Partiets nettside har en nedtellingsklokke til landsmøtet, men uten noe link til mer informasjon - det er heller ikke godt nok til å tilfredstille §6.6.
   Det er ikke blitt annonsert på forumet.
   Landsmøtet kan omtrent allerede nå like godt kanselleres - dersom én person klager på at møteinnkallingen ikke var godt nok annonsert, så er ikke landsmøtet vedtaksdyktig.
   Er det hensikten?
