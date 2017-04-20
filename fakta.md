@@ -22,8 +22,10 @@ Dette er ikke løse påstander, dette er fakta:
   Det er ikke urimelig å tenke seg at dette er gjort for å sikre seg kontroll på landsmøtet; realitetsbehandling av suspensjonssakene legges sist på programmet, slik at de suspenderte ikke skal få stemmerett i landsmøtet.
   I tillegg er de suspenderte inhabile i suspensjonssaken slik at de ikke får stemmeretten der heller.
   Sentralstyret kan altså sikre seg gjenvalg ved å suspendere alle kritiske røster.
-  Nytt stiftelsesmøte i Oslo arrangeres på kort varsel, for å erstatte de kritiske røstene i Oslo Piratparti.
+* Nytt stiftelsesmøte i Oslo arrangeres på kort varsel, ref [sentralstyrereferatet 2017-04-19](http://archive.is/MMA93).
   Innkallingen er fortsatt ikke sendt ut til medlemmer i Oslo pr 2017-04-20.
+  Blir innkallingen sendt ut minutter før møtet, eller blir innkallingen bare sendt til 2-3 spesielt inviterte?
+  Spesielt demokratisk er det uansett ikke - samme hvor mye formålet er å «stoppe opprør og anarkistiske tendenser i det mest demokratiske partiet i Norge».
 * Sekretariatet har ikke innkalt til landsmøte ihht vedtektene, §6.6:
   «Sentralstyret innkaller alle medlemmer til landsmøtet minst 30 dager før landsmøtets avholdelse via elektronisk post samt ved oppslag på partiets forum og nettside.»
   Noen har fått innkalling, andre ikke - og sentralstyret [trekker på skuldrene](mail.2017-04-11.gorm-middelthun.txt) når de konfronteres med dette.
