@@ -17,10 +17,11 @@ I stedet ser vi at kritikken bare avfeies som «grunnløse påstander».
 Dette er ikke løse påstander, dette er fakta:
 
 * [Sentralstyrereferatet 2017-04-19](http://archive.is/MMA93) er interessant lesning.
-  I «det mest demokratiske partiet i Norge» bruker man suspensjoner aktivt for å dempe kritikk.
+  I «det mest demokratiske partiet i Norge» (ordrett sitat) bruker man suspensjoner aktivt for å dempe kritikk.
   Dette er opplagt et forsøk på å få kontroll på landsmøtet.
   Realitetsbehandling av suspensjonssakene legges sist på programmet, slik at de suspenderte ikke skal få stemmerett i landsmøtet.
-  Nytt stiftelsesmøte i Oslo arrangeres på to dagers varsel.
+  Nytt stiftelsesmøte i Oslo arrangeres på kort varsel.
+  Innkallingen er fortsatt ikke sendt ut til medlemmer pr 2017-04-20.
 * Sekretariatet har ikke innkalt til landsmøte ihht vedtektene, §6.6:
   «Sentralstyret innkaller alle medlemmer til landsmøtet minst 30 dager før landsmøtets avholdelse via elektronisk post samt ved oppslag på partiets forum og nettside.»
   Noen har fått innkalling, andre ikke - og sentralstyret [trekker på skuldrene](mail.2017-04-11.gorm-middelthun.txt) når de konfronteres med dette.
