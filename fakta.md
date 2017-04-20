@@ -142,6 +142,13 @@ Tobias svarte da at han ikke hadde root-passordet, men at han kunne legge inn Go
 Gorm sendte aldri noen ssh-nøkkel fra seg.
 Vi kan forsåvidt forstå at det kan være mulig å drifte wiki og wordpress fra en hotelløsning men ikke fra et VM dersom man mangler kompetansen som skal til for å generere en ssh-nøkkel og logge seg inn med ssh.
 
+I ettertid virker det som at flytten har blitt begrunnet med «kostnadskutt».
+Totalkostnaden er halvert, sies det.
+Det ville være fullt mulig å halvere kostnader hos Zetta uten å flytte til Island.
+Vi hadde minst fem VM'er kjørende - for å betjene sikkerhet, lagring av gamle arkiver, testserver for å teste nye ting, DNS-server, forum, liquid feedback, websider, mail og kalender, pad, wiki, etc.
+Man kunne ganske sikkert ha valgt å konsolidere noen tjenester og skru av halvparten av VM'ene for å halvere kostnadene - uten å halvere tilbudet.
+
+
 ## Underslagssaken og regnskapskaoset
 
 At tidligere organisasjonssekretær etterlot seg mye rot og kaos som måtte ryddes i, er det ingen tvil om - men at man etter to år fortsatt skylder på underslaget for alt som er galt, det holder ikke.
