@@ -26,6 +26,9 @@ Dette er ikke løse påstander, dette er fakta:
   Innkallingen er fortsatt ikke sendt ut til medlemmer i Oslo pr 2017-04-20.
   Blir innkallingen sendt ut minutter før møtet, eller blir innkallingen bare sendt til 2-3 spesielt inviterte?
   Spesielt demokratisk er det uansett ikke - samme hvor mye formålet er å «stoppe opprør og anarkistiske tendenser i det mest demokratiske partiet i Norge».
+  Dette er også en innrømmelse av at det ikke eksisterte noe interrimstyre på det tidspunktet fristen for innsendelse av valglistene fant sted, som igjen er en innrømmelse av at valglovens paragraf 6.3 er blitt brutt.
+* Tilsvarende nystiftelsesmøtet i Bergen/Hordaland hadde visstnok godt oppmøte - uten at det er referatført noe som helst sted hvem som deltok, og uten at det er blitt sendt inn noe innkalling.
+  Dette er forøvrig en kontradiksjon av tidligere informasjon om at det eksisterte et interimstyre i Hordaland på det tidspunktet valglistene ble sendt inn.
 * Sekretariatet har ikke innkalt til landsmøte ihht vedtektene, §6.6:
   «Sentralstyret innkaller alle medlemmer til landsmøtet minst 30 dager før landsmøtets avholdelse via elektronisk post samt ved oppslag på partiets forum og nettside.»
   Noen har fått innkalling, andre ikke - og sentralstyret [trekker på skuldrene](mail.2017-04-11.gorm-middelthun.txt) når de konfronteres med dette.
