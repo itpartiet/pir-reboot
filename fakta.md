@@ -1,6 +1,6 @@
 # Hva skjer i Piratpartiet - 2.0
 
-Dette dokumentet inneholder fakta og status omkring ting i Piratpartiet som det stilles spørsmål ved, og som er medvirkende årsaker til at kravet om ekstraordinært landsmøte fortsatt står ved lag.
+Dette dokumentet inneholder fakta og status omkring sentralstyre/sekretariatet i Piratpartiet som det stilles spørsmål ved.
 Dokumentet blir oppdatert fortløpende etterhvert som vi får ny informasjon.
 Dokumentet ble påbegynt som et svar på [mail sendt ut 24. februar](mail.2017-02-24.gorm-hanssen.txt) til de fleste (?) ikke-suspenderte medlemmer.
 Der kan vi blant annet lese at sentralstyret nekter å kalle inn til ekstraordinært landsmøte.
@@ -16,6 +16,11 @@ Sentralstyret og sekretariatet burde vise litt ydmykhet når rundt 20% av medlem
 I stedet ser vi at kritikken bare avfeies som «grunnløse påstander».
 Dette er ikke løse påstander, dette er fakta:
 
+* [Sentralstyrereferatet 2017-04-19](http://archive.is/MMA93) er interessant lesning.
+  I «det mest demokratiske partiet i Norge» bruker man suspensjoner aktivt for å dempe kritikk.
+  Dette er opplagt et forsøk på å få kontroll på landsmøtet.
+  Realitetsbehandling av suspensjonssakene legges sist på programmet, slik at de suspenderte ikke skal få stemmerett i landsmøtet.
+  Nytt stiftelsesmøte i Oslo arrangeres på to dagers varsel.
 * Sekretariatet har ikke innkalt til landsmøte ihht vedtektene, §6.6:
   «Sentralstyret innkaller alle medlemmer til landsmøtet minst 30 dager før landsmøtets avholdelse via elektronisk post samt ved oppslag på partiets forum og nettside.»
   Noen har fått innkalling, andre ikke - og sentralstyret [trekker på skuldrene](mail.2017-04-11.gorm-middelthun.txt) når de konfronteres med dette.
@@ -27,7 +32,7 @@ Dette er ikke løse påstander, dette er fakta:
   Neppe.
 * Sekretariatet gjør en meget slett jobb på å vedlikeholde medlemsregister og mailinglister.
   Når Oslo kaller inn til årsmøte til alle.oslo@piratpartiet.no - slik det alltid har blitt gjort - påstår generalsekretæren at ettersom man ikke har giddet å sende innkallingen til 13 ikke-navngitte Oslomedlemmer, så er årsmøtet ugyldig.
-  I henhold til sekretariatets logikk eksisterer dermed ikke Oslo Piratparti lengre.
+  I henhold til sekretariatets logikk eksisterer dermed ikke Oslo Piratparti lengre, dermed er det rom for å innkalle til et udemokratisk stiftelsesmøte med kort frist.
 * Det er i år lagt opp til at man ikke bare stiller til valg eller blir nominert, det legges i år nærmest opp til at man skal igjennom en søknadsprossess for å kunne bli valgt inn.
   Piratpartiet trenger dyktige folk, og det er selvfølgelig positivt at landsmøtet er mest mulig opplyst om kandidatene som stiller, men det er ikke rom i vedtektene for at sekretariatet skal kunne influere hvem som blir valgt, legge ned veto for kandidater sekretariatet ikke finner skikket til stillingen, eller legge krav til hvordan kandidatene presenterer seg.
   Det kan se ut som at det gjøres iherdige forsøk på å trekke opp stigen og hindre nye kandidater å komme inn i sentralstyre, sekretariat og programbande?
@@ -36,8 +41,9 @@ Dette er ikke løse påstander, dette er fakta:
   Videre, generalsekretæren anfører at han kommer til å gjøre alt som står i sin makt for å få listene i Hordaland og Oslo underkjent.
   Det burde være åpenbart at det ikke er i partiets interesse at vi blir stående uten valglister i Oslo og Hordaland!
 * Noen har i all hemmelighet innført kommunikasjonskontroll – mail til fylkeslagsstyrene (unntatt tre fylker) går rett til sekretariatet og ikke til fylkeslagenes styremedlemmer.
+  Dette ble gjort midt under forbedredelsene til årsmøter.
   Dette ble [oppdaget av Middelthun](mail-2017-02-20.middelthun.txt) 20. februar, og er fortsatt ikke rettet opp i, til tross for at partileder lovet rask opprydning.
-  Dette er ganske alvorlig – i tillegg til at det er et brudd på alt av demokratiske spilleregler, så vanskeliggjør det allminnelig styrearbeid, herunder innkalling til ordinære årsmøter og jobbing med stortingslister.
+  Dette er ganske alvorlig – i tillegg til at det er et brudd på alt av demokratiske spilleregler, så har det vanskeliggjort det allminnelig styrearbeid, herunder innkalling til ordinære årsmøter og jobbing med stortingslister.
   Årsmøteinnkallelser og lister kan bli erklært ugyldige dersom sentralstyret velger å forbigå lovlig valgte lokallag.
 * Sentralstyret har valgt å suspendere Øyvind A. Holm, Tobias Brox, Ståle Olsen, Øyvind Nondal og Bjørn Gotheim,
   ref [sentralstyrereferat](https://wiki.piratpartiet.no/index.php?title=Referat_fra_sentralstyrem%C3%B8te_2017-02-17&rcid=7497) fra et hastemøte i sentralstyret 2017-02-17 som generalsekretæren sendte ut innkalling til dagen før.
