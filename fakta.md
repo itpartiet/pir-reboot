@@ -17,7 +17,7 @@ I stedet ser vi at kritikken bare avfeies som «grunnløse påstander».
 Dette er ikke løse påstander, dette er fakta:
 
 * [Sentralstyrereferatet 2017-04-19](http://archive.is/MMA93) er interessant lesning - to nye suspensjoner av styremedlemmer i Hordaland, da de «motarbeider partiet» og har brutt ikke-spesifiserte vedtekter.
-  I «det mest demokratiske partiet i Norge» (ordrett sitat) bruker man suspensjoner aktivt for å dempe kritikk (aka «slå ned på opprør»).
+  I «det mest demokratiske partiet i Norge» (ordrett sitat) bruker man suspensjoner aktivt for å dempe intern kritikk (aka «slå ned på opprør»).
   Det er ikke urimelig å tenke seg at dette er gjort for å sikre seg kontroll på landsmøtet; realitetsbehandling av suspensjonssakene legges sist på programmet, slik at de suspenderte ikke skal få stemmerett i landsmøtet.
   Nytt stiftelsesmøte i Oslo arrangeres på kort varsel, for å erstatte de kritiske røstene i Oslo Piratparti.
   Innkallingen er fortsatt ikke sendt ut til medlemmer pr 2017-04-20.
