@@ -20,13 +20,13 @@ Dette er ikke løse påstander, dette er fakta:
   I «det mest demokratiske partiet i Norge» (ordrett sitat) bruker man suspensjoner aktivt for å dempe kritikk.
   Dette er opplagt et forsøk på å få kontroll på landsmøtet.
   Realitetsbehandling av suspensjonssakene legges sist på programmet, slik at de suspenderte ikke skal få stemmerett i landsmøtet.
-  Nytt stiftelsesmøte i Oslo arrangeres på kort varsel.
+  Nytt stiftelsesmøte i Oslo arrangeres på kort varsel, for å erstatte de kritiske røstene i Oslo Piratparti.
   Innkallingen er fortsatt ikke sendt ut til medlemmer pr 2017-04-20.
 * Sekretariatet har ikke innkalt til landsmøte ihht vedtektene, §6.6:
   «Sentralstyret innkaller alle medlemmer til landsmøtet minst 30 dager før landsmøtets avholdelse via elektronisk post samt ved oppslag på partiets forum og nettside.»
   Noen har fått innkalling, andre ikke - og sentralstyret [trekker på skuldrene](mail.2017-04-11.gorm-middelthun.txt) når de konfronteres med dette.
   En nedtellingsklokke på partiets nettside, uten noe link til mer informasjon er heller ikke godt nok.
-  Det er ikke blitt annonseres på forumet.
+  Det er ikke blitt annonsert på forumet.
   Landsmøtet kan omtrent allerede nå like godt kanselleres - dersom én person klager på at møteinnkallingen ikke var godt nok annonsert, så er ikke landsmøtet vedtaksdyktig.
   Er det hensikten?
   Er det på noen måte fordelaktig for Piratpartiet?
