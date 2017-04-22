@@ -224,7 +224,7 @@ Unge Pirater er Piratpartiets ungdomsparti, og Piratstudentene er Piratpartiets 
 
 16.1 Generelt om politisk prosess
 
-Den politiske prosessen i Piratpartietg om å vurdere et forslag eller vedtak. Det kreves at en gitt fraksjon svarer innen en tidsfrist og om dette ikke skjer, får et gitt antall nye pirater en melding og slik fortsetter prosessen til antall svar har nådd den gitte fraksjonen. Etter førstevalideringen skal saken være offentlig tilgjengelig i en gitt tidsperiode før man kan fremme forslaget eller vedtaket videre til andrevalidering. En andrevalidering fungerer som en førstevalidering, bare at et større antall pirater er involvert. Endelig beslutningsmetode må være spesifisert i forslaget. Det skal være mulig å digitalt abonnere på forslag fra begge valideringsnivåer. Parametere for politisk prosess er beskrevet i §14.4.
+Den politiske prosessen i Piratpartiet skal ta utgangspunkt i anonyme valideringer. Et forslag eller vedtak skal først gjennom en førstevalidering hvor et gitt antall tilfeldige pirater får en melding om å vurdere et forslag eller vedtak. Det kreves at en gitt fraksjon svarer innen en tidsfrist og om dette ikke skjer, får et gitt antall nye pirater en melding og slik fortsetter prosessen til antall svar har nådd den gitte fraksjonen. Etter førstevalideringen skal saken være offentlig tilgjengelig i en gitt tidsperiode før man kan fremme forslaget eller vedtaket videre til andrevalidering. En andrevalidering fungerer som en førstevalidering, bare at et større antall pirater er involvert. Endelig beslutningsmetode må være spesifisert i forslaget. Det skal være mulig å digitalt abonnere på forslag fra begge valideringsnivåer. Parametere for politisk prosess er beskrevet i §14.4.
 
 16.2 Lokalpolitisk prosess
 
