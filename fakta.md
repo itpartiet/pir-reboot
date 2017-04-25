@@ -1,10 +1,12 @@
 # Hva skjer i Piratpartiet - 2.0
 
-TLDR: Fem personer fremsatte krav om ekstraordinært landsmøte pga mistillit til sentralstyret og sekretariatet. Dette ble besvart med tyrkisk presisjon - suspensjoner, alternative valglister, underkjennelse av årsmøter, manipulering av brønnøysundsregistreringer og nå nylig - "nyetableringer" av fylkeslag ettersom de ikke anerkjenner eksistensen av fylkeslagene som eksisterer.
+TLDR: Fem personer fremsatte krav om ekstraordinært landsmøte pga mistillit til sentralstyret og sekretariatet. Dette ble besvart med tyrkisk presisjon - suspensjoner, alternative valglister, underkjennelse av årsmøter, forsøk på manipulering av brønnøysundsregistreringer og nå nylig - "nyetableringer" av fylkeslag ettersom de ikke anerkjenner eksistensen av fylkeslagene som eksisterer.
+
+Se også [oppsummering av generalsekretærens handlinger i perioden februar-april](oppsummering-2017-04.md)
 
 Vi gjør ikke annet enn å fastholde på at det finnes kritikkverdige forhold (hovedsaklig gjennom vedlikehold av dette dokumentet), og reaksjonen fra sekretariatet og sentralstyret beviser at det finnes skjellig grunn til mistillit.
 
-Dette dokumentet forsøker å oppsummere de siste hendelsene.
+Dette dokumentet forsøker å dokumentere kritikken, med særlig vekt på de siste hendelsene.
 Vi streber etter at dette dokumentet skal inneholder mest mulig fakta og minst mulig løse påstander, og vi streber etter å holde dokumentet mest mulig oppdatert.
 
 Dokumentet ble påbegynt som et svar på [mail sendt ut 24. februar](mail.2017-02-24.gorm-hanssen.txt) til de fleste (?) ikke-suspenderte medlemmer.
