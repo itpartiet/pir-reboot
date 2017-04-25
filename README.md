@@ -6,8 +6,7 @@ Dette er en samling med dokumenter relatert til «rebooten» av Piratpartiet Nor
 Etter stor frustrasjon på grunn av partiets jevne nedgang i antall medlemmer, aktivitet og politisk relevans, og gjentatte forsøk på å sette dette på dagsorden i partiet, ble det sendt ut en [mail](originalmail.txt) 14. februar 2017 til tidligere og nåværende partimedlemmer.
 Mailen tok for seg denne problemstillingen, og medlemmene ble oppfordret til å kreve ekstraordinært landsmøte for å kaste det nåværende styre og generalsekretær.
 
-Sentralstyret i partiet reagerte med en øyeblikkelig suspensjon av de fem medlemmene som skrev under på denne mailen, noe som førte til at flere tungvektere innen partiet som hittil hadde sittet på gjerdet tok til motmæle mot suspensjonene og måten de ble utført på.
-Argumenter som ble fremlagt i denne sammenhengen gikk blant annet ut på at suspensjonsvedtaket virket som en forhastet og udemokratisk avgjørelse, og at suspensjonene umuliggjør innkalling til årsmøte i fylkeslagene og innlevering av stortingslister i de fire fylkene – Oslo, Hordaland, Sogn og Fjordane og Buskerud – som ble lammet av denne avgjørelsen.
+Generalsekretæren - med støtte fra sentralstyret - har reagert med tyrkisk presisjon, som følge av dette har «opprøret» (generalsekretærens ord) blitt større.  Vi har laget en [oppsummering av generalsekretærens udemokratiske handlinger i perioden februar-april](oppsummering-2017-04.md).
 
 Det [sentrale dokumentet](fakta.md) i samlingen inneholder fakta omkring tilstandene i partiet som førte til denne aksjonen, en kortversjon av dokumentet ligger [her](fakta-kort.txt).
 
