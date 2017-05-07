@@ -1,6 +1,24 @@
 Piratpartiet v2.0
 =================
 
+Oppdatering:
+Landsmøtet 2017 i Piratpartiet Norge er nå over.
+Problematikken som er beskrevet i denne dokumentsamlingen ble løst på en forsonende måte, og kort sagt ble resultatet dette:
+
+  - Generalsekretæren ble avsatt, og ny generalsekretær ble valgt.
+  - Mistilliten til styret gikk gjennom, og Landsmøtet vedtok å avsette det nåværende styret, unntatt Raymond Johansen og Tale H. Østrådal.
+  - Thomas Gramstad ble valgt som ny leder, og det ble valgt nytt styre.
+  - Oppdatering av vedtekter, kjerneprogram og andre vanlige landsmøterutiner ble gjennomført veldig greit takket være en effektiv ordstyrer og positiv innstilling fra de oppmøtte medlemmene.
+
+Denne dokumentsamlingen har utført sin funksjon, og vil bli arkivert.
+Den er en viktig del av historien til Piratpartiet Norge, og vil derfor aldri bli slettet.
+
+Lisens: Public Domain
+
+Teksten nedenfor er den originale README-teksten.
+
+---
+
 Dette er en samling med dokumenter relatert til «rebooten» av Piratpartiet Norge som er iverksatt av en gruppe desillusjonerte sentrale medlemmer som har vært med siden Piratpartiets spede begynnelse i 2012.
 
 Etter stor frustrasjon på grunn av partiets jevne nedgang i antall medlemmer, aktivitet og politisk relevans, og gjentatte forsøk på å sette dette på dagsorden i partiet, ble det sendt ut en [mail](originalmail.txt) 14. februar 2017 til tidligere og nåværende partimedlemmer.
