@@ -1,7 +1,6 @@
 Piratpartiet v2.0
 =================
 
-Oppdatering:
 Landsmøtet 2017 i Piratpartiet Norge er nå over.
 Problematikken som er beskrevet i denne dokumentsamlingen ble løst på en forsonende måte, og kort sagt ble resultatet dette:
 
