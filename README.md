@@ -6,8 +6,9 @@ Landsmøtet 2017 i Piratpartiet Norge er nå over.
 Problematikken som er beskrevet i denne dokumentsamlingen ble løst på en forsonende måte, og kort sagt ble resultatet dette:
 
   - Generalsekretæren ble avsatt, og ny generalsekretær ble valgt.
-  - Mistilliten til styret gikk gjennom, og Landsmøtet vedtok å avsette det nåværende styret, unntatt Raymond Johansen og Tale H. Østrådal.
-  - Thomas Gramstad ble valgt som ny leder, og det ble valgt nytt styre.
+  - Mistilliten til sentralstyret gikk gjennom, og Landsmøtet vedtok å velge nytt sentralstyre.
+    Raymond Johansen og Tale H. Østrådal ble fritatt fra mistillitsforslaget.
+  - Thomas Gramstad ble valgt som ny leder.
   - Oppdatering av vedtekter, kjerneprogram og andre vanlige landsmøterutiner ble gjennomført veldig greit takket være en effektiv ordstyrer og positiv innstilling fra de oppmøtte medlemmene.
 
 Denne dokumentsamlingen har utført sin funksjon, og vil bli arkivert.
