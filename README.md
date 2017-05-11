@@ -10,8 +10,17 @@ Problematikken som er beskrevet i denne dokumentsamlingen ble løst på en forso
   - Thomas Gramstad ble valgt som ny leder.
   - Oppdatering av vedtekter, kjerneprogram og andre vanlige landsmøterutiner ble gjennomført veldig greit takket være en effektiv ordstyrer og positiv innstilling fra de oppmøtte medlemmene.
 
-Denne dokumentsamlingen har utført sin funksjon, og vil bli arkivert.
+For at dette skal bli et fullverdig arkiv for dokumentering av «rebooten» i Piratpartiet i 2017, vil Git-repoen oppdateres etter behov.
 Den er en viktig del av historien til Piratpartiet Norge, og vil derfor aldri bli slettet.
+Repoen vil imidlertid gjennomgå kontinuerlige redaksjonelle forandringer der linker f.eks. kan bli brutt fordi filer flyttes til andre steder i filtreet.
+
+Download
+--------
+
+- <https://gitlab.com/piratpartiet/pir-reboot>
+- <https://github.com/piratpartiet/pir-reboot>
+
+`master`-branchen er den stabile, offisielle Git-branchen, og den vil aldri bli rebaset eller omskrevet.
 
 Lisens: Public Domain
 
