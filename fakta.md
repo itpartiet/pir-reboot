@@ -58,7 +58,7 @@ I stedet ser vi at kritikken bare avfeies som «grunnløse påstander».
   Det burde være åpenbart at det ikke er i partiets interesse at vi blir stående uten valglister i Oslo og Hordaland!
 * Noen har i all hemmelighet innført kommunikasjonskontroll – mail til fylkeslagsstyrene (unntatt tre fylker) går rett til sekretariatet og ikke til fylkeslagenes styremedlemmer.
   Dette ble gjort midt under forbedredelsene til årsmøter.
-  Dette ble [oppdaget av Middelthun](mail-2017-02-20.middelthun.txt) 20. februar, og er fortsatt ikke rettet opp i, til tross for at partileder lovet rask opprydning.
+  Dette ble [oppdaget av Middelthun](mail.2017-02-20.middelthun.txt) 20. februar, og er fortsatt ikke rettet opp i, til tross for at partileder lovet rask opprydning.
   Dette er ganske alvorlig – i tillegg til at det er et brudd på alt av demokratiske spilleregler, så har det vanskeliggjort det allminnelig styrearbeid, herunder innkalling til ordinære årsmøter og jobbing med stortingslister.
   Årsmøteinnkallelser og lister kan bli erklært ugyldige dersom sentralstyret velger å forbigå lovlig valgte lokallag.
   Reelt sett definerte generalsekretæren at lokallagene ikke eksisterte allerede 20. februar.
